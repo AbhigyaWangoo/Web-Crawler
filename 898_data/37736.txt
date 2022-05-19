@@ -1,0 +1,97 @@
+Yu Hen Hu
+
+[pic]<IMAGE src="http://www.ece.wisc.edu/~hu/picture/yuhen01b.jpg" alt=""/>[/pic]
+
+[contactinfo]<b>[position]Professor[/position]
+[affiliation]University of Wisconsin - Madison
+Dept. Electrical and Computer Engineering[/affiliation]
+[address]1415 Engineering Drive
+Madison, WI 53706
+U. S. A.[/address]<b>
+
+<b>office: [address]3625 Engineering Hall[/address]
+phone number: [phone]1+(608) 262 6724[/phone]
+fax number: [fax]1+(608) 262 1267[/fax]
+email: [email]hu@engr.wisc.edu[/email]</b>[/contactinfo]
+
+
+Official ECE Faculty Web Page
+
+
+Recent Presentations in Powerpoint Format
+
+
+Short Biography
+
+
+[resinterests]Research
+
+  * 
+
+    [interests]Wireless ad hoc sensor network signal processing[/interests]
+
+  * 
+
+    [interests]Mathematical invariant 3D face recognition[/interests]
+
+  * 
+
+    [interests]Content-based blurring artifact post-processing[/interests]
+
+  * 
+
+    [interests]Design and implementation methodologies for multimedia signal processing systems[/interests]
+
+  * 
+
+    [interests]CoMoC (Communication on a chip): On-Chip Interconnect and Statistical timing analysis[/interests][/resinterests]
+
+
+List of Publications
+
+
+Teaching
+
+  * 
+
+    ECE 331 Introduction to Random Signal Analysis and Statistics
+
+  * 
+
+    ECE 352 Digital System Fundamentals
+
+  * 
+
+    ECE 431 Digital Signal Processing
+
+  * 
+
+    ECE 533 Image Processing (Fall 2005)
+
+  * 
+
+    ECE 539 Introduction to Artificial Neural Network and Fuzzy Systems (Fall 2005)
+
+  * 
+
+    ECE 556 Design Automation of Digital Systems (Fall 2004)
+
+  * 
+
+    ECE 734 VLSI Array Structures for Digital Signal Processing (Spring 2006)
+
+  * 
+
+    ECE 738 Advanced Digital Image Processing (Spring 2005)
+
+
+[resactivity]Professional Activities
+
+  * IEEE Signal Processing Society, Signal Processing Magazine, Area Editor, columns and forums (2003-2005)
+
+  * IEEE Signal Processing Society, Multimedia technical Committee (Chair, 2004-2005)
+
+  * IEEE/ACM International Conference on Information Processing in Sensor Network (April 25-27, 2005, Los Angeles, CA) Publicity Chair.[/resactivity]
+
+
+[publication]Distribution Matlab m-files for Neural Network Signal Processing Handbook, CRC press[/publication]. Click here to download the zip file.

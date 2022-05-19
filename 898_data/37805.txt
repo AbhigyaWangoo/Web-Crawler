@@ -1,0 +1,60 @@
+<IMAGE src="/people/r/rsegal/theme/clear.gif" alt="Skip to main content"/>
+<IMAGE src="http://www.research.ibm.com/research/newmast/personalmasts/2masthead3.GIF" alt="[IBM BANNER]"/>
+
+[pic]<IMAGE src="pictures/rich.jpg" alt="Photo of Richard Segal"/>[/pic]
+
+
+[contactinfo]Richard Segal [affiliation]IBM Thomas J. Watson Research Center[/affiliation]
+[address]PO Box 704, Room 4S-B46
+Yorktown Heights, NY 10598[/address][/contactinfo]
+
+<IMAGE src="/people/r/rsegal/pictures/ibmrule.gif" alt="Horizontal Rule"/>
+
+
+ [resinterests]Research
+
+  * [interests]SpamGuru[/interests]: [interests]An enterprise-class anti-spam filter that combines several classification algorithms[/interests].
+
+  * [interests]SwiftFile for Notes[/interests]: an [interests]intelligent assistant for organizing E-mail into folders[/interests].
+
+  *  [interests]Information Economies Project[/interests].
+
+  *  [interests]Brute[/interests]: a [interests]massive-search algorithm for rule learning and data mining[/interests].
+
+  *  [interests]Internet Softbot[/interests]: an [interests]intelligent agent for accessing information on the internet[/interests][/resinterests].
+
+
+[publication]Publications
+
+R. Segal, J. Crawford, J. Kephart and B. Leiba, SpamGuru: An Enterprise Anti-Spam Filtering System. In Proceedings of the First Conference on Email and Anti-Spam, July, 2004.
+
+M. Leonard, M. Rodriguez, R. Segal and R. Shoop, Managing Customer Opt-Outs in a Complex Global Environment, In Proceedings of the First Conference on Email and Anti-Spam, July, 2004.
+
+R. Segal and J. Kephart. Incremental Learning in SwiftFile. In Proceedings of the Seventh International Conference on Machine Learning, June 2000.
+
+R. Segal and J. Kephart. MailCat: An Intelligent Assistant for Organizing E-Mail. In Proceedings of the Third International Conference on Autonomous Agents, May 1999.
+
+J. Kephart, J. Hanson, D. Levine, B. Grosof, J. Sairamesh, R. Segal, and S. White. Dynamics of an Information-Filtering Economy. In Proceedings of the Second International Workshop on Cooperative Information Agents, April 1998.
+
+R. Segal. Machine Learning as Massive Search. Ph.D. thesis, University of Washington, 1997.
+
+O. Etzioni, H. Levy, R. Segal, and C. Thekkath. The Softbot Approach to OS Interfaces. IEEE Software, 12(4):42-51, July 1995.
+
+R. Segal and O. Etzioni. Learning Decision Lists Using Homogeneous Rules. In Proceedings of the Twelfth National Conference on Artificial Intelligence, July 1994.
+
+P. Riddle, R. Segal, and O. Etzioni. Representation design and brute-force induction in a Boeing manufacturing domain. Applied Artificial Intelligence, 8:125-147, 19941.
+
+O. Etzioni, N. Lesh, and R. Segal. Building softbots for UNIX (preliminary report). Technical Report 93-09-01, University of Washington, 1993.
+
+P. Riddle, O. Etzioni, C. Pearson, and R. Segal. Process improvement through automated feedback (preliminary report). In Proceedings of the Machine Learning Workshop on Integrated Learning in Real-World Domains, July 1992.
+
+O. Etzioni and R. Segal. Softbots as testbeds for machine learning. In Working notes of the AAAI Spring Symposium on Knowledge Assimilation, Menlo Park, CA,1992.[/publication]
+
+More about me.
+
+<IMAGE src="/people/r/rsegal/pictures/ibmrule.gif" alt="Horizontal Rule"/> 1. From Applied Artificial Intelligence. To access the journal online direct from the publisher, Taylor & Francis, go to http://www.tandf.co.uk/journals/titles/08839514.asp. All rights reserved.
+
+
+[ Richard Segal Home ]
+
+[ <b>IBM Research Home</b> | <b>IBM Home</b> | <b>Order</b> | <b>Search</b> | <b>ContactIBM</b> | <b>Legal</b> ]

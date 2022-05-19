@@ -1,0 +1,40 @@
+[introduction][position]Professor[/position] Kou, Weidong's C.V.
+
+<font size=2>Prof. Weidong Kou is [position]Associate Director[/position] of the [affiliation]E-Business Technology Institute[/affiliation] and [position]Adjunct Professor[/position] of the [affiliation]Department of Computer Science and Information Systems at the University of Hong Kong[/affiliation]. Prof. Kou also serves as [position]Adjunct Professor[/position] at the [affiliation]University of Maryland[/affiliation] in US. In addition, he is [position]Guest Professor[/position] of [affiliation]Zhejiang University[/affiliation], [affiliation]Sun Yat Sen University[/affiliation], [affiliation]South East University[/affiliation] and [affiliation]Beijing University of Posts and Telecommunications[/affiliation], and [position]Adjunct Professor[/position] of [affiliation]Shanghai Jiao Tong University[/affiliation], [affiliation]South China University of Technology[/affiliation], and [affiliation]Lan Zhou University[/affiliation] in China. Prof. Kou is a [position]member[/position] of the [affiliation]Advisory Committee of Computer Science and Electrical Engineering at the University of Maryland[/affiliation], [position]Co-Chair[/position] of the [affiliation]Technical Advisory Board of the e-Generation Technology Center at Shanghai Jiao Tong University[/affiliation], [position]Deputy Director[/position] of the [affiliation]Academic Committee of the National Key Laboratory of the Ministry of Education of China for Computer Networking[/affiliation] and [affiliation]Information Security at Xidian University[/affiliation], and [position]Technology Advisor[/position] to [affiliation]IBM Great China Group's University Relationship Program[/affiliation].</font>
+
+<font size=2>Prof. Kou has taught courses at various universities, including the University of Maryland, Rutgers University, University of Waterloo in Canada, University of Linkoping in Sweden, and University of Hong Kong. He has been invited to give lectures in many universities around the globe, for example, University of California, Dalhousie University, University of Toronto, McGill University, Simon Fraser University, York University, and University of Wollongong.</font>
+
+<font size=2>Prof. Kou has over 12 years of industrial experience in North America. He was Principal Investigator at IBM Center of Advanced Studies in Toronto, Architect of a major IBM B2B e-commerce project for a national government at the IBM Industrial Solution Development Center in Canada, Chairman of the Imaging Committee at the AT&T Imaging System Division, and Senior Software Engineer at Siemens. He was the Industrial Co-leader of the major project of Canadian Institute of Telecommunications Research, and a member of American national standard committees: ANSI X9B9 (Financial Image Interchange) and ANSI X3L3 (JPEG and MPEG). Prof. Kou is the Founding Chair of International Symposium on Electronic Commerce (ISEC). He has served as a Guest Editor for special issues on e-commerce for International Journal on Digital Libraries. Prof. Kou has authored/edited 5 books in the areas of e-commerce, security, and multimedia technologies, including the book entitled "Networking Security and Standards" published by Kluwer in 1997. He has also published over 50 papers on journals and conferences. He has also authored 9 US and Canadian issued and pending patents.</font>
+
+<font size=2>Since joining the University of Hong Kong in August 2000, Prof. Kou has been leading the [interests]e-commerce and wireless security research and development[/interests] efforts. Notably, Prof. Kou and his team have been awarded the Innovation and Technology Fund (ITF). The ITF exercises, being highly competitive and placing great emphasis on local relevance, select only projects with great potential for Hong Kong. Out of a total of 19 proposals submitted in January 2001 by all sectors in Hong Kong, only three projects were awarded, and two of these came from the teams led by Prof. Kou. The total funding for the two winning projects was over $17 million Hong Kong dollars for the period of two years.
+
+Prof. Kou has received various invention achievement and technical excellence awards from IBM, AT&T and Siemens. He is a [position]Senior Member[/position] of [affiliation]IEEE[/affiliation][/introduction].
+</font>
+
+[contactinfo][pic]<IMAGE src="./KouWeidong.jpg" alt=""/>[/pic]
+
+<b>[position]Professor[/position] Weidong Kou</b>
+
+<b>Full Name :   </b>
+
+[position]Professor[/position] Kou, Weidong
+
+<b>Preferred Name :   </b>
+
+[position]Professor[/position] Weidong Kou
+
+<b>E-mail :   </b>
+
+[email]weidong_kou@hotmail.com[/email]
+
+<b>Office Telephone :   </b>
+
+[phone](852) 6080 3768[/phone]
+
+<b>Fax :   </b>[/contactinfo]
+
+<b>Homepage :   </b>
+
+under construction
+
+Close

@@ -1,0 +1,229 @@
+User:Grunwald
+
+
+From CUSystemsJump to: navigation, search
+
+Main Page  <b>User:Grunwald</b>
+
+
+Contents
+
+  * 1 Dirk Grunwald
+
+      * 1.1 Classes
+
+      * 1.2 Research
+
+      * 1.3 Students
+
+          * 1.3.1 Current Students I work with
+
+          * 1.3.2 Former Students
+
+[edit]
+
+
+
+Dirk Grunwald
+
+[pic]<IMAGE src="/mediawiki/images/4/48/Dirkgrunwald.jpg" alt="Image:dirkgrunwald.jpg"/>[/pic]
+
+[introduction]I'm an [position]associate professor[/position] at the [affiliation]University of Colorado[/affiliation], in the [affiliation]Department of Computer Science[/affiliation]. I work in the area of computer systems, broadly defined. This includes Computer Architecture, Operating systems, mobile & wireless and whatever else I feel like (ahh... the joys of tenure).[/introduction]
+
+Dirk Grunwald
+[contactinfo][affiliation]Department of Computer Science[/affiliation]
+[address]Campus Box 430
+ECOT 7-31
+University of Colorado, Boulder
+Boulder, Colorado[/address]|Phone: [phone](303) 492-0452[/phone]
+Fax: [fax](303) 492-2844[/fax]
+Cell: [phone](303) 641-0371[/phone]
+Email: [email]grunwald@colorado.edu[/email][/contactinfo]
+
+Office Hours for Fall 2006
+
+Monday, 2:00-3:00
+Tuesday, 11:15-12:15
+Wednesday: 12:00-1:00
+
+[edit]
+
+
+Classes
+
+In Fall 2006, I'll be teaching CSCI 1300 majors. You can find more course information at the course page . Access to the CSCI 1300 pages requires a password. If you're enrolled for the class, please contact either me or one of the TA's for the class and they will provide access.
+
+For a list of prior courses & information, see the link for previous classes
+
+[edit]
+
+
+[resinterests]Research
+
+My research spans several areas in [interests]computer systems[/interests]. I currently am supervising projects in four areas:
+
+  * [interests] Software defined radio[/interests], [interests]with an emphasis on protocols for directional antennas[/interests]
+
+  *  [interests]How reconfigurable computing can be integrated with general purpose CPU's[/interests]
+
+  *  [interests]How on-line profile information can improve O/S scheduling in multi-threaded and heterogeneous processors[/interests].
+
+  *  [interests]Content-directed storage and MAID architectures[/interests]
+
+These projects are described in more detail in my research project page[/resinterests].
+
+[edit]
+
+
+Students
+
+I've had the pleasure to work with a number of excellent Ph.D., M.S. and BS students on various research projects.
+
+[edit]
+
+
+Current Students I work with
+
+This is a list of current students I either work with or whose thesis I supervise or co-supervise. In each case, these are students that I pay from current grants.
+
+  *  Jeff Fifield (Ph.D., networking & architecture)
+
+  *  Graham Schelle (Ph.D., reconfigurable)
+
+  *  Tipp Moseley (Ph.D., architecture)
+
+  *  Robert McTasney (Ph.D. (ECE) - software defined radio)
+
+  *  Michael Buettner (M.S. - wireless networks)
+
+  *  Eric Anderson (Ph.D. - wireless networks)
+
+  *  Gary Yee (Ph.D. - wireless networks)
+
+  *  Paul Kasemir (Undergrad - wireless networks)
+
+I also work with some students who are supported by other faculty.
+
+  *  Anmol Sheth (Ph.D. - wireless networks)
+
+[edit]
+
+
+Former Students
+
+  *  Brad Morrey (PhD 2006, Hewlett Packard Labs)
+
+  *  Nels Anderson (BS, REU student)
+
+  *  Michael Neufeld, PhD 2004 (Postdoc at Colorado)
+
+  *  Marco Gruteser, PhD 2004 (Currently Asst. Prof, Rutgers)
+
+  *  Soraya Ghiasi, PhD 2004 (Currently at IBM Research, Austin)
+
+  *  Ashish Jain, MS 2004 (Continuing in PhD program)
+
+  *  Graham Schelle, MS 2004 (Continuing in PhD program)
+
+  *  Robert Cooksey, PhD 2001, (Currently at Intel, Portland OR)
+
+  *  Audun Tornquist, MS 2001
+
+  *  Donald Lindsay, PhD 2000, (Currently at Cisco)
+
+  *  Artur Klauser, PhD 1999, (Currently at Intel, Barcelona)
+
+  *  Carlos Maltzhan. PhD 1999, (Currently at Network Appliance)
+
+  *  Bobbie Manne, Ph.D., 1998 (Currently at Intel, Shrewsbury, MA)
+
+  *  Anshu Aggarwal, Ph.D., 1998 (Currently at Inktomi, Inc).
+
+  *  Suvas Vajracharya, Ph.D. 1997 (Currently CEO of startup)
+
+  *  Eric Borch, MS, 1997 (Currently at Intel, Shrewsbury, MA)
+
+  *  Douglas Joseph, Ph.D. 1996 (Currently Member of Technical Stafff, IBM T. J. Watson Research Lab)
+
+  *  Bradley Calder, PhD. 1995, (Microsoft).
+
+  *  Harini Srivinasan, PhD 1994 (Currently Member of Technical Stafff, IBM T. J. Watson Research Lab
+
+  *  Mark Streich, MS 1992 (Current at Silicon Graphics)
+
+
+/Hotlist
+
+Retrieved from "http://systems.cs.colorado.edu/mediawiki/index.php/User:Grunwald"
+
+Views
+
+  * User page
+
+  * Discussion
+
+  * Edit
+
+  * History
+
+Personal tools
+
+  * Log in / create account
+
+Navigation
+
+  * Main Page
+
+  * Research
+
+  * Downloads
+
+  * Systems People
+
+  * ESL Internal
+
+  * Other Internal
+
+  *  CS Dept.
+
+  *  CU
+
+Wiki
+
+  * Community portal
+
+  * Current events
+
+  * Recent changes
+
+  * Users
+
+Search
+
+Toolbox
+
+  * What links here
+
+  * Related changes
+
+  * User contributions
+
+  * Upload file
+
+  * Special pages
+
+  * Printable version
+
+  * Permanent link
+
+<IMAGE src="/mediawiki/skins/common/images/poweredby_mediawiki_88x31.png" alt="MediaWiki"/>
+
+  *  This page was last modified 22:56, 27 October 2006.
+
+  * This page has been accessed 5,523 times.
+
+  * Privacy policy
+
+  * About CUSystems
+
+  * Disclaimers

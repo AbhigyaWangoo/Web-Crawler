@@ -1,0 +1,43 @@
+[pic]<IMAGE src="viv2.gif" alt=""/>[/pic] <b> Click for another perspective</b>
+
+
+
+[contactinfo]Vivek Tiwari<b> [position]Ex-PhD student[/position]</b>, <b> [affiliation]Dept. of Electrical Engineering </b>, <b> Princeton University[/affiliation] </b>
+
+<b>Now with </b>
+      [affiliation]Low Power Design Technology
+
+      Enterprise Platforms Group
+
+      Intel Corp[/affiliation]
+
+      Address: [address]3600 Juliette Lane, MS: SC12-603, Santa Clara, CA 95051[/address]
+
+      Tel: [phone](408) 765-0589[/phone]
+
+<b> E-mail: </b>
+      [email]vivek@ee.princeton.edu[/email][/contactinfo]
+
+<b> PhD Advisor: </b>
+      Dr. Sharad Malik
+
+[resinterests]<b>Research Interests:</b>
+      [interests]Low Power Design and Power Consumption Issues in Digital Systems[/interests]
+
+      [interests]Computer Aided Design (CAD) of Digital Systems[/interests]
+
+      [interests]Design and Analysis of Embedded Systems[/interests]
+
+      [interests]Computer Architecture[/interests]
+
+<b>Current Research:</b>
+      The focus of my current research is on issues related to [interests]power consumption in digital systems[/interests]. It involves the development of new tools and techniques for power estimation and low power design at different levels of the design process.[/resinterests]
+
+<b>List of Publications</b>
+
+<b>Brief Biographical Note</b>
+
+<b>Other Interests:</b>
+      Nature and Natural History
+
+<b>Miscellaneous links across the Web</b>

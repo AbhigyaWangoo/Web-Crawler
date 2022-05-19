@@ -1,0 +1,36 @@
+[pic]<IMAGE src="adri-2005.jpg" alt="Adrian"/>[/pic]
+
+
+
+<b>Welcome to Adrian Perrig's home page</b>
+
+Publications
+
+TESLA project
+
+Photos
+
+Book Recommendations
+
+Links
+
+[introduction]I am an [position]assistant professor[/position] at [affiliation]Carnegie Mellon University[/affiliation] and have appointments in the [affiliation]departments of Electrical and Computer Engineering; Engineering and Public Policy; and Computer Science[/affiliation]. My research focuses on [interests]networking and systems security[/interests], [interests]security for mobile computing and sensor networks[/interests]. My other research interests are in [interests]human interfaces for security[/interests], [interests]networking[/interests], [interests]operating systems[/interests], and [interests]applied cryptography[/interests]. I am affiliated with [affiliation]Cylab, and the Parallel Data Lab (PDL)[/affiliation][/introduction].
+
+[contactinfo]My office is in the [address]CIC building office 2110 (second floor)[/address], phone number [phone](412) 268 2242[/phone], directions.
+
+You can best reach me by email: [email]perrig (at) cmu.edu[/email]
+
+My postal address is: [address]Adrian Perrig, 2110 CIC, 4720 Forbes Avenue, Pittsburgh PA 15213[/address][/contactinfo]
+
+Teaching
+Fall 2006: 18-630 / 19-631 / 95-830: Introduction to Security and Policy.
+Spring 2006: 18-487: Introduction to Computer and Network Security and Applied Cryptography.
+Fall 2005: 18-630 / 19-631 / 95-830: Introduction to Security and Policy.
+
+
+Students
+I am fortunate to advise highly talented graduate students: Haowen Chan, Jason Franklin, Cynthia Kuo, Jonathan McCune, Bryan Parno, Arvind Seshadri, Elaine Shi, Ahren Studer, Dan Wendlandt, and Xin Zhang.
+
+I am also fortunate to collaborate with research scientist Mark Luk.
+
+Graduated students: Avi Yaar, Summer 2004, ECE MS.

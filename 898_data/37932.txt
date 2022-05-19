@@ -1,0 +1,57 @@
+[pic]<IMAGE src="mli.gif" alt="Photo"/>[/pic]
+
+
+
+  Maciej Liskiewicz
+
+  [contactinfo][affiliation]Institute of Computer Science
+  University of Wroclaw[/affiliation]
+  [address]Przesmyckiego 20, 51-151 Wroclaw, Poland[/address]
+  Office: [address]23[/address]
+  Phone: [phone]+48 (71) 32 47 403[/phone]
+  Fax: [fax]+48 (71) 32 51 271[/fax]
+  Home: [phone]+48 (71) 35 23 549[/phone]
+  [email]liskiewi@tcs.uni.wroc.pl[/email][/contactinfo]
+
+  Office Hours: Wed. 11-13
+
+
+  <IMAGE src="redball.gif" alt="-"/> CV
+  <IMAGE src="redball.gif" alt="-"/> Classes
+  <IMAGE src="redball.gif" alt="-"/> Research interests
+  <IMAGE src="redball.gif" alt="-"/> Current research topics
+  <IMAGE src="redball.gif" alt="-"/> Publications
+
+
+
+
+[introduction]CV Born on July 12, 1957 in Poland. Graduated in [bsmajor]computer science[/bsmajor] in [bsdate]1981[/bsdate], [phddegree]Ph.D.[/phddegree] in [phddate]1990[/phddate] from [phduniv]University of Wroclaw[/phduniv]. 1991-1993: Technische Hochschule Darmstadt, Germany; Alexander-von-Humboldt Fellow. July-November 1995: Med. Universiteat zu Luebeck, Germany; visiting position. December 1995 - December 1996: International Computer Science Institute, Berkeley, CA; post-doc position.[/introduction]
+
+
+Classes 1997/98
+
+      Analysis of Algorithms and Data Structures: Randomized Algorithms
+
+      Seminar (4 KiAA)
+
+      Introdution to Computer Science (Math)
+
+
+      [resinterests]Research interests
+
+        <IMAGE src="greenball.gif" alt="-"/> [interests]Parallel computations[/interests]
+        <IMAGE src="greenball.gif" alt="-"/> [interests]Computational complexity[/interests]
+        <IMAGE src="greenball.gif" alt="-"/> [interests]Randomized Algorithms[/interests][/resinterests]
+
+
+      [resinterests]Current research topics
+
+        <IMAGE src="greenball.gif" alt="-"/> [interests]Lower space bounds[/interests]
+        <IMAGE src="greenball.gif" alt="-"/> [interests]Nonuniform complexity classes[/interests]
+        <IMAGE src="greenball.gif" alt="-"/> [interests]Probabilistic machines[/interests]
+        <IMAGE src="greenball.gif" alt="-"/> [interests]Interactive Proof Systems[/interests][/resinterests]
+
+
+      Publications
+
+      Selectected Publication List

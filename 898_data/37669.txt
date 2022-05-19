@@ -1,0 +1,192 @@
+[pic]<IMAGE src="defaul3.jpg" alt=""/>[/pic]
+
+
+
+<font size=5>Hang Li</font>
+
+<b> [introduction][position]Lead Researcher and Research Manager[/position] in the [affiliation]Web Search and Mining Group, Microsoft Research[/affiliation]</b>.
+
+I am a [position]lead researcher[/position] at [affiliation]Microsoft Research[/affiliation]. I am also [position]adjunct professor[/position] of [affiliation]Peking University[/affiliation], [affiliation]Xian Jiaotong University[/affiliation] and [affiliation]Nankai University[/affiliation].
+
+I joined [affiliation]Microsoft Research[/affiliation] in June 2001. Prior to that, I worked at the Research Laboratories of NEC Corporation.
+
+I obtained a [bsdegree]B.S.[/bsdegree] in [bsmajor]Electrical Engineering[/bsmajor] from [bsuniv]Kyoto University[/bsuniv] in [bsdate]1988[/bsdate] and a [msdegree]M.S.[/msdegree] in [msmajor]Computer Science[/msmajor] from [msuniv]Kyoto University[/msuniv] in [msdate]1990[/msdate]. I earned my [phddegree]Ph.D.[/phddegree] in [phdmajor]Computer Science[/phdmajor] from the [phduniv]University of Tokyo[/phduniv] in [phddate]1998[/phddate].
+
+I am interested in [interests]statistical learning[/interests], [interests]natural language processing[/interests], [interests]data mining, and information retrieval[/interests].[/introduction]
+
+<IMAGE src="HP_files/rainbow.gif" alt=""/>
+
+
+[contactinfo]Contact Information
+
+[affiliation]Microsoft Research Asia[/affiliation]
+
+[address]4F, Sigma Center
+
+No. 49 Zhichun Road, Haidian District
+
+Beijing, China 100080[/address]
+
+Email: [email]hangli at microsoft dot com[/email]
+
+Tel: [phone](86-10)58963177[/phone]
+
+Fax: [fax](86-10)88097306[/fax][/contactinfo]
+
+<IMAGE src="HP_files/rainbow.gif" alt=""/>
+
+
+[publication]Recent Publications (Publication List)
+
+<b> Information Retrieval</b>
+
+  * 
+
+    Jun Xu[name], Yunbo Cao[name], Hang Li[name], and Min Zhao[name], Ranking Definitions[name] with Supervised Learning Method, Proc. of WWW 2005 industry track, 811-819.  (pdf)
+
+  * 
+
+    Hang Li, Yunbo Cao, Jun Xu, Yunhua Hu, Shenjie Li, and Dmitriy Meyerzon, A New Approach to Intranet Search Based on Information Extraction. Proc. of CIKM 2005 industry track, 460-468. (pdf)
+
+  * 
+
+    Yunbo Cao, Jingjing Liu, Shenghua Bao, and Hang Li, Research on Expert Search at Enterprise Track of TREC 2005,  Proc. of TREC 2005. (pdf)
+
+  * 
+
+    Jun Xu, Yunbo Cao, Hang Li, Min Zhao, and Yalou Huang, A Supervised Learning Approach to Search of Definitions, Journal of Computer Science and Technology, 21(3), 439-449, 2006. (pdf)
+
+  * 
+
+    Yunbo Cao, Jun Xu, Tie-Yan Liu, Hang Li, Yalou Huang, and Hsiao-Wuen Hon, Adapting Ranking SVM to Document Retrieval, Proc. of SIGIR 2006, 186-193. (pdf)
+
+  * 
+
+    Min Zhao, Hang Li, Adwait Ratnaparkhi, Hsiao-Wuen Hon, and Jue Wang, Adapting Document Ranking to Users Preferences using Click-through Data, Proc. of AIRS 2006, to appear. (pdf)
+
+  * 
+
+    Guoping Hu, Jingjing Liu, Yunbo Cao, Hang Li, Jian-Yun Nie, and Jianfeng Gao, A Supervised Learning Approach to Entity Search, Proc. of AIRS 2006, to appear. (pdf)
+
+  * 
+
+    Jun Xu, Yunbo Cao, Hang Li, and Yalou Huang, Cost Sensitive Learning of SVM for Ranking, Proc. of  ECML-2006 poster, 833-840, 2006. (pdf)
+
+  * 
+
+    Jun Xu, Yunbo Cao, Hang Li, Nick Craswell, and Yalou Huang, Searching Documents based on Relevance and Type, Proc. of ECIR-2007, to appear, 2007. (pdf)
+
+<b> Data Mining</b>
+
+  * 
+
+    Shenghua Bao, Yunbo Cao, Bing Liu, Yong Yu, and Hang Li, Mining Latent Associations of Objects Using a Typed Mixture Model - A Case Study on Expert/Expertise Mining, Prof. of ICDM-2006, to appear, 2006 (pdf)
+
+  * 
+
+    Guoyang Shen, Bin Gao, Tie-Yan Liu, Guang Feng, Shiji Song, and Hang Li, Detecting Link Spam using Temporal Information, Prof. of ICDM-2006, to appear, 2006. (pdf)
+
+<b>Information Extraction</b>
+
+  * 
+
+    Yunhua Hu, Hang Li, Yunbo Cao, Dmitriy Meyerzon, and Qinghua Zheng, Automatic Extraction of Titles from General Documents using Machine Learning, Proc. of JCDL 2005, 145-154.  (pdf)
+
+  * 
+
+    Yunhua Hu, Guomao Xin, Ruihua Song, Guoping Hu, Shuming Shi, Yunbo Cao, and Hang Li, Title Extraction from Bodies of HTML Documents and Its Application to Web Page Retrieval, Proc. of SIGIR 2005, 250-257.  (pdf)
+
+  * 
+
+    Jie Tang, Hang Li, Yunbo Cao, and Zhaohui Tang, Email Data Cleaning, Proc. of SIGKDD 2005 industry track, 489-498. (pdf)
+
+  * 
+
+    Yunhua Hu, Hang Li, Yunbo Cao, Dmitriy Meyerzon, Li Teng, and Qinghua Zheng, Automatic Extraction of Titles from General Documents using Machine Learning, Information Processing and Management, 42, 1276-1293, 2006. (pdf)
+
+  * 
+
+    Yewei Xue, Yunhua Hu, Guomao Xin, Ruihua Song, Shuming Shi, Yunbo Cao, Chin-Yew Lin, and Hang Li, Web Page Title Extraction and Its Application, Information Processing and Management, to appear, 2007. (pdf)
+
+<IMAGE src="HP_files/rainbow.gif" alt=""/>
+
+
+Selected Publications (Publication List)
+
+  * 
+
+    Hang Li, A Probabilistic Approach to Lexical Semantic Knowledge Acquisition and Structural Disambiguation, PhD Thesis, The University of Tokyo, 1998. (pdf)
+
+  * 
+
+    Hang Li and Naoki Abe, Generalizing Case Frames Using a Thesaurus and the MDL Principle, Computational Linguistics, 24(2), pp.217-244, 1998. (pdf)
+
+  * 
+
+    Hang Li, Word Clustering and Disambiguation based on Co-occurrence Data, Natural Language Engineering, 8(1), pp.25-42, 2002. (pdf)
+
+  * 
+
+    Hang Li and Kenji Yamanishi,  Text Classification Using ESC-based Stochastic Decision Lists, Information Processing & Management, 38(3), pp.343-361, 2002.
+
+  * 
+
+    Kenji Yamanishi and Hang Li, Mining Open Answers in Questionnaire Data, IEEE Intelligent Systems, 17(5), pp.58-63, 2002. (pdf)
+
+  * 
+
+    Hang Li, Yunbo Cao, and Cong Li, Using Bilingual Web Data to Mine and Rank Translations, IEEE Intelligent Systems, 39(4), pp.54-59, (2003). (pdf)
+
+  * 
+
+    Hang Li and Cong Li, Word Translation Disambiguation Using Bilingual Bootstrapping, Computational Linguistics, 30(1), pp.1-22, 2004. (pdf)
+
+  * 
+
+    Jun Xu, Yunbo Cao, Hang Li, Min Zhao, and Yalou Huang, A Supervised Learning Approach to Search of Definitions, Journal of Computer Science and Technology, 21(3), 439-449, 2006. (pdf)
+
+  * 
+
+    Yunhua Hu, Hang Li, Yunbo Cao, Dmitriy Meyerzon, Li Teng, and Qinghua Zheng, Automatic Extraction of Titles from General Documents using Machine Learning, Information Processing and Management, 42, 1276-1293, 2006. (pdf)[/publication]
+
+<IMAGE src="HP_files/rainbow.gif" alt=""/>
+
+
+[resactivity]Recent Academic Activities
+
+  * 
+
+    Editorial board members of  "Journal of Computer Science and Technology" and "Computational Linguistics and Chinese Language Processing"
+
+  * 
+
+    Program co-chair of PAKDD'07 and advisory committee member of IJCAI'07.
+
+  * 
+
+    Program committee members of ACL'04, COLING'04, IJCNLP'04, EMNLP'04, CoNLL'04, IJCAI'05, ACL'05, CoNLL'05, AIRS'05, ACL'06, PRICAI'06, AIRS'06, ICCPOL'06, CIKM'06, NIPS'06, SDM'07, WWW'07, NAACL-HLT'07.[/resactivity]
+
+<IMAGE src="HP_files/rainbow.gif" alt=""/>
+
+
+Product Developments
+
+  * 
+
+    NEC TopicScope (previously SurveyAnalyzer)
+
+  * 
+
+    Microsoft TextMiner (internal tool)
+
+  * 
+
+    Microsoft SQL Server 2005 Text Mining
+
+  * 
+
+    Microsoft SharePoint Searver 2007 Search
+
+<IMAGE src="HP_files/rainbow.gif" alt=""/>
+
+Last updated date: December 21, 2006, by Hang Li

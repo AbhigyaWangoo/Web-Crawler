@@ -1,0 +1,126 @@
+<IMAGE src="/library/toolbar/3.0/gradient.aspx?a=4B92D9&b=1E77D3&w=250&h=22&d=ltr&c=eFLbOmyDquZL7nbgTLBSftxozLo%3d" alt="*"/>
+
+Quick Links | Home | Worldwide
+
+<IMAGE src="/library/toolbar/3.0/images/banners/ms_masthead_ltr.gif" alt="Microsoft"/> <IMAGE src="/library/toolbar/3.0/gradient.aspx?a=0A6CCE&b=FFFFFF&w=250&h=42&d=ltr&c=NAbKOqnrunJiULJyhm6k3VulBy4%3d" alt="*"/>
+
+
+Search:
+
+<IMAGE src="/library/mnp/2/gif/arrowLTR.gif" alt="*"/>Microsoft Research Home<IMAGE src="/library/mnp/2/gif/arrowLTR.gif" alt="*"/>About Microsoft Research<IMAGE src="/library/mnp/2/gif/arrowLTR.gif" alt="*"/>Research Areas<IMAGE src="/library/mnp/2/gif/arrowLTR.gif" alt="*"/>People<IMAGE src="/library/mnp/2/gif/arrowLTR.gif" alt="*"/>Worldwide Labs<IMAGE src="/library/mnp/2/gif/arrowLTR.gif" alt="*"/>University Relations<IMAGE src="/library/mnp/2/gif/arrowLTR.gif" alt="*"/>Publications<IMAGE src="/library/mnp/2/gif/arrowLTR.gif" alt="*"/>Downloads<IMAGE src="/library/mnp/2/gif/arrowLTR.gif" alt="*"/>Conferences and Events<IMAGE src="/library/mnp/2/gif/arrowLTR.gif" alt="*"/>Lectures Online<IMAGE src="/library/mnp/2/gif/arrowLTR.gif" alt="*"/>Careers<IMAGE src="/library/mnp/2/gif/arrowLTR.gif" alt="*"/>Visiting Microsoft Research<IMAGE src="/library/mnp/2/gif/arrowLTR.gif" alt="*"/>Press Resources <IMAGE src="/images/rss.gif" alt=""/>
+
+<IMAGE src="amitabhs-3.jpg" alt=""/> Amitabh Srivastava
+
+[contactinfo]<b>[position]Corporate Vice President[/position] and [position]Technical Fellow[/position]
+</b>[affiliation]Windows Live Core
+Microsoft Corporation[/affiliation]
+[address]One Microsoft Way, Redmond, WA 98052[/address][/contactinfo]
+
+[resinterests]<b>Interests:</b> [interests]Next generation cloud Services[/interests][/resinterests]
+
+[contactinfo]<b>Email:</b> [email]amitabhs@microsoft.com[/email][/contactinfo]
+
+[introduction]Amitabh Srivastava is a [position]Corporate Vice President[/position] of the Windows Live Core and a [position]Microsoft Technical Fellow[/position]. Srivastava's current efforts are focused on efficiently developing [interests]next generation cloud services[/interests].
+
+Srivastava joined Microsoft in 1997 as a Senior Researcher and led the Advanced Development Tools group in Microsoft Research that investigated new techniques to build innovative tools and technologies to improve performance and quality of Microsoft software. His vision and energy led to the creation of the Programmer Productivity Research Center (PPRC) in March 1999, which he has led since its inception. Srivastava's PPRC group, now known as Center for Software Excellence (CSE), has produced several tools and technologies that are critical to Microsoft product groups. Srivastava and his team's work was highlighted in the Forbes magazine in May, 2003.
+
+In January 2001, Srivastava became one of a select few to be named a Distinguished Engineer, now known as Technical Fellow.
+
+Srivastava joined a strong Windows team in December 2003 as Vice President of the Core OS development to redefine the engineering process for Windows Vista, the new operating system from Microsoft. Srivastava was responsible for the development of core operating system components such as the kernel, operating system architecture, definition of development processes, and development of advanced tools to automate the development processes. Srivastava's work in defining the Windows engineering process was discussed in the Wall Street Journal in September 23, 2005.
+
+After shipping Vista in November 2006, Srivastava and Dave Cutler joined Ray Ozzie to focus on next generation cloud services; to build an higly efficient computing fabric for Microsoft data centers and a services platform for agile development of high-quality cloud services.
+
+Before working for Microsoft, Srivastava was the chief technical officer and vice president of engineering at TracePoint Technology Inc., a spin-off company from Digital Equipment Corp. He joined Digital's Western Research Labs (DEC WRL) in Palo Alto, Calif. in 1991. Srivastava's research on binary code modification at DEC WRL resulted in the creation of TracePoint. Srivastava started his career as a researcher at Texas Instruments Inc.'s Research Labs in Dallas, Texas. He left Pennsylvania State University's Computer Science PhD program to work on LISP Machines at Texas Instruments.
+
+Srivastava holds 12 patents and has published a variety of papers. His paper on ATOM in PLDI 1994 received the Most Influential PLDI Paper Award in June 2005. He is the author of OM, ATOM and SCOOPS software systems, which have resulted in products for Digital Equipment and Texas Instruments on the Alpha and PC platforms. He led the design and development of Vulcan, a second-generation binary transformation system, at Microsoft. Vulcan is the foundation of a wide variety of tools developed at PPRC.
+
+Srivastava holds a bachelor's degree in [bsmajor]Electrical Engineering[/bsmajor] from the [bsuniv]Indian Institute of Technology[/bsuniv], Kanpur, India, and a master's degree in [msmajor]Computer Science[/msmajor] from [msuniv]Pennsylvania State University[/msuniv]. He received the 2003-2004 Distinguished Alumnus Award from the Indian Institute of Technology, Kanpur, and was selected the 2004 Outstanding Engineering Alumnus of the Pennsylvania State University.[/introduction]
+
+Software Systems
+
+  *  Scout (Echelon): Test prioritization system (Windows)
+
+  *  Vulcan : A second-generation, binary transformation system for distributed environments (Windows)
+
+  *  ATOM : System for building customized Program Analysis Tools (Alpha/Unix)
+
+  *  OM : A binary code optimization system (Alpha/Unix)
+
+  *  PC OM : An ATOM/OM infrastructure for the Intel x86.
+
+  *  SCOOPS: Scheme Object Oriented Programming System.
+
+  *  Scheme/L: An integration of Logic and Functional Programming (Lisp Machines)
+
+[publication]Selected Papers
+
+  * Amitabh Srivastava and Alan Eustace. Retrospective: ATOM - A System for Building Customized Program Analysis Tools. 20 Years of the ACM/SIGPLAN Conference on Programming Language Design and Implementation (1979-1999): A Selection, 2003
+
+  * Amitabh Srivastava and Jay Thiagarajan. Effectively Prioritizing Tests in Development Environment, International Symposium on Software Testing and Analysis, 2002, to appear.  Also available as Microsoft Research Technical Report MSR-TR-2002-15.
+
+  * Amitabh Srivastava, Andrew Edwards, Hoi, Vo. Vulcan: Binary transformation in distributed environment, Microsoft Research Technical Report, MSR-TR-2001-50, April 2001.
+
+  * Amitabh Srivastava and Alan Eustace. ATOM - A System for Building Customized Program Analysis Tools. Symposium on Programming Language Design and Implementation, 1994, pp 196-205. Also available as WRL Research Report 94/2.
+
+  * Amitabh Srivastava and David Wall. A Practical System for Intermodule Code Optimization at Link-Time. Journal of Programming Languages, vol 1, no 1, pages 1-18, March 1993. Also available as WRL Research Report 92/6.
+
+  * Amitabh Srivastava and David W. Wall. Link-Time Optimization of Address Calculation on a 64-bit Architecture. Symposium on Programming Language Design and Implementation, 1994, pp 49-60. Also available as WRL Research Report 94/2.
+
+  * Alan Eustace and Amitabh Srivastava. ATOM: A Flexible Interface for Building High Performance Program Analysis Tools. USENIX Winter Conference, 1995, pp 303-314.
+
+  * Amitabh Srivastava. Unreachable Procedures in Object-Oriented Programming. ACM Letters on Programming Languages and Systems 1(4): 355-364 (1992). Also available as WRL Research Report 93/4.
+
+  * Jeffrey C. Mogul, Joel F. Bartlett, Robert N. Mayo, Amitabh Srivastava. Performance Implications of Multiple Pointer Sizes. USENIX Winter Conference, 1995, pp 187-200. Also available as WRL Research Report 94/7.
+
+  * Brad Calder, Dirk Grunwald, and Amitabh Srivastava. The Predictability of Branches in Libraries , 28th International Symposium on Microarchitecture, pages 24-34, November 1995, Also available as WRL Research Report 95/6.
+
+  * Amitabh Srivastava, Don Oxley and Aditya Srivastava: An(other) Integration of Logic and Functional Programming. IEEE Symposium on Logic programming 1985, pages 254-260.
+
+  * David Wall, Amitabh Srivastava and Fred Templin: A Note on Hennessy's "Symbolic Debugging of Optimized Code". ACM Transactions of Programming Language and Systems 7(1): 176-181 (1985).
+
+  * Amitabh Srivastava. Recovery of Noncurrent Variables in Source-Level Debugging of Optimized Code, Foundations of Software Technology and Theoretical Computer Science, Sixth Conference Proceedings. Nori, K. V. (ed.). Springer-Verlag (1986): 36-56.
+
+  * Amitabh Srivastava. SCOOPS: Scheme Object Oriented Programming System. Texas Instruments Technical Report. 1986. http://www.cs.cmu.edu/Groups/AI/lang/scheme/oop/scoops/0.html
+
+Invited Talks
+
+  * Emerging Opportunities for Binary Tools, Keynote Address, Workshop on Binary Translation, Philadelphia, Pennsylvania, October 2000.  http://eecs.oregonstate.edu/pact2000/WBT.html
+
+  * Is it time to redefine software engineering?, Keynote Address, International Symposium on Software Reliability Engineering, Annapolis, Maryland, November 2002. http://www.issre.org/2002/agenda/
+
+  * Automating Software Development, Keynote Address, Computer-Aided Verification, Boulder, Colorado, July 2003. http://www.cs.utexas.edu/users/trcenter/CAV/cav2003homepage.html
+
+  * Is Performance Research Done?, Keynote Address, International Symposium on Code Generation and Optimization, Palo Alto, California, March, 2004.
+
+  * Engineering Quality Software, Keynote Address, Sixth international Conference on Formal Engineering Methods, Seattle, Washington, November 2004. http://research.microsoft.com/conferences/ICFEM2004/Agenda.htm
+
+Issued Patents
+
+  *  US Patent 7,028,290, "Method and apparatus for prioritizing software tests", issued April 11, 2006.
+
+  *  US Patent 6,802,056, "Translation and transformation of heterogeneous programs", issued October 5,2004.
+
+  *  US Patent 6,662,356, "Application program interface for transforming heterogeneous programs", issued December 9, 2003.
+
+  *  US Patent 6,609,248, "Cross module representation of heterogeneous programs", issued August 19, 2003.
+
+  *  US Patent 6,481,008, "Instrumentation and optimization tools for heterogeneous programs ", issued November 12, 2002.
+
+  *  US Patent 6,460,178, "Shared library optimization for heterogeneous programs", issued October 1, 2002
+
+  *  US Patent 5,999,737, "Link time optimization via dead code elimination, code motion, code partitioning, code grouping, loop analysis with code motion, loop invariant analysis and active variable to register analysis", issued December 7, 1999.
+
+  *  US Patent 5,966,539, "Link time optimization with translation to intermediate program and following optimization techniques including program analysis code motion live variable set generation order analysis, dead code elimination and load invariant analysis", issued October 12, 1999.
+
+  *  US Patent 5,963,740, "System for monitoring computer system performance", issued October 5, 1999.
+
+  *  US Patent 5,732,273, "System for monitoring compute system performance ", issued March 24, 1998.
+
+  *  US Patent 5,539,907, "System for monitoring computer system performance ", issued July 23, 1996.
+
+  *  US Patent 5,457,799, "Optimizer for program loops ", issued October 10, 1995[/publication]
+
+
+Manage Your Profile |Contact Us?007 Microsoft Corporation. All rights reserved. Terms of Use |Trademarks |Privacy Statement
+
+<IMAGE src="http://m.webtrends.com/dcsslvlng89k7may281d5dedm_8n8e/njs.gif?dcsurl=/nojavascript&WT.js=No" alt=""/><IMAGE src="http://c.microsoft.com/trans_pixel.asp?source=research&TYPE=PV&p=users_amitabhs&URI=%2fusers%2famitabhs%2fdefault.aspx&GUID=1F4FC18C-F71E-47FB-8FC9-612F8EE59C61&lc=en-us" alt=""/>

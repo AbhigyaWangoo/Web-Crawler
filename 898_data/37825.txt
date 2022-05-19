@@ -1,0 +1,44 @@
+<font size=7>Sarit Kraus </font> [pic]<IMAGE src="sarit.jpg" alt=""/>[/pic]
+
+
+[introduction][position]Adjunct Professor[/position] of Computer Science
+
+
+[affiliation]Institute for Advanced Computer Studies,
+University of Maryland, College Park[/affiliation]
+[position]Professor[/position] of Computer Science
+
+
+[affiliation]Bar Ilan University[/affiliation], Israel[/introduction]
+
+[contactinfo]E-mail: [email]sarit@umiacs.umd.edu[/email][/contactinfo]
+
+
+[resinterests]Research Interests
+
+  <IMAGE src="./Gif/small1.gif" alt=""/> [interests]Development of Intelligence Systems[/interests]
+  <IMAGE src="./Gif/small1.gif" alt=""/> [interests]negotiation and cooperation among agents[/interests],
+  <IMAGE src="./Gif/small1.gif" alt=""/> [interests]information agents[/interests],
+  <IMAGE src="./Gif/small1.gif" alt=""/> [interests]personalization[/interests],
+  <IMAGE src="./Gif/small1.gif" alt=""/> [interests]user interfaces and decision support tools[/interests],
+  <IMAGE src="./Gif/small1.gif" alt=""/> [interests]autonomous computing[/interests],
+  <IMAGE src="./Gif/small1.gif" alt=""/> [interests]optimization of complex systems[/interests],
+  <IMAGE src="./Gif/small1.gif" alt=""/> [interests]large-scale systems[/interests],
+  <IMAGE src="./Gif/small1.gif" alt=""/> [interests]learning[/interests],
+  <IMAGE src="./Gif/small1.gif" alt=""/> [interests]auctions and electronic commerce[/interests],
+  <IMAGE src="./Gif/small1.gif" alt=""/> [interests]security of databases and systems[/interests],
+  <IMAGE src="./Gif/small1.gif" alt=""/> [interests]non-classical logics[/interests][/resinterests].
+
+
+Publications
+
+
+
+Support:
+
+
+NSF foundation Any opinions, findings, and conclusions or recommendations expressed in the material supported by NSF are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+
+The University of Maryland Institue of Advanced Computer Studies
+
+Go to UMIACS Faculty Home Page

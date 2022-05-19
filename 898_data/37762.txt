@@ -1,0 +1,57 @@
+Welcome to Wes Irish's Home Page
+
+[pic]<IMAGE src="wes-tr182-small.jpg" alt=""/>[/pic] <b>Wesley Irish</b>
+[position]President[/position]
+[affiliation]Coyote Hill Consulting LLC[/affiliation]
+[contactinfo][address]1022 Wilmington Way
+Redwood City, CA 94062-4037[/address]
+
+email: [email]wirish@coyotehillconsulting.com[/email][/contactinfo]
+
+<IMAGE src="soundicon.jpg" alt=""/> Hello, and welcome to my home page...
+
+My (not totally current) history (aka: résum? resume, curriculum vitae, CV, ...)
+
+<b>About me . . .</b>
+
+[introduction]Near the end of 2006 I joined [affiliation]Topix.net[/affiliation] as [position]Vice President Operations[/position] where I now lead the effort to support the company's growing Internet News site and internal infrastructure needs. I am currently looking to hire a few select individuals to fill important positions in our Operations group in Palo Alto. Are you skilled in networking or systems design, support, or administration? Do you embrace the challenges of delivering reliable and supportable services in an evolving environment? Would you like to be part of a world-class team? Would you like to be part of an exciting and growing company where you can clearly see the positive impact of your work? If you answered yes to all of these questions then you might be a good match for joining the team at Topix.net. If you would like to learn more please see our Jobs at Topix.net page.
+
+I am also [position]President[/position] of [affiliation]Coyote Hill Consulting LLC[/affiliation], which I founded in February 2002 when I left Xerox PARC. At Coyote Hill I specialize in network and systems consulting for a wide variety of clients - especially the higher education, public, and research sectors. (NB: Due to my full-time commitment at Topix.net my consulting availability is now very limited.)
+
+During 2004 - 2005 I was the Director of Networking Systems, Information Technology Systems and Services (ITSS), at Stanford University. During that time I was instrumental in the development and promotion of significant initiatives for Electronic Security and Overhauling Stanford's Network to better meet security, performance, functionality, operational, and cost-effectiveness demands. I was responsible for Stanford's many Internet and Internet2 connections, backbone design and operation, operational network security including firewalls and intrusion detection, basic network services, as well as local network service for specific departments.
+
+As the Interim Director Network Services at San Jos?State University (2002 - 2003) I played a significant role in improving campus network security and improving the reliability and operational effectiveness of the University's Internet connection, the campus network, and the University Computing and Telecommunications (UCAT) Network Services group.
+
+From 1984 - 2002 I was employed by Xerox Corporation, primarily at Xerox PARC where I was a Senior Member of the Research staff, Senior Network Scientist, Chief Technologist of Technical Infrastructure and Systems Development (TISD), and Network Manager. As Senior Network Scientist I worked on many different aspects of Networks, Network Operations, Network Management, Network Monitoring, Communications, Distributed Systems, and Infrastructure. As Chief Technologist of TISD I was responsible for the technical oversight, direction, and planning for all of PARC's Networking, Computing, and Telecom infrastructure and systems. This included providing the technical leadership and direction for the TISD staff. As Network Manager I had direct operational responsibility for the Center's network and Network Support Staff.
+
+Related to these activities I was involved in numerous projects, including: protocols, interface design, network performance, routing & router design, high-speed networking technologies, firewalls & security, distributed services, interoperability, network management, etc. Details about my experience and background can be found in my history.
+
+In addition to my regular job(s) at PARC I was also a member of the Emergency Response Team (ERT) and I was team leader for the Xerox Emergency Amateur Communications Team (XEACT). In the summer of 2001 I earned my EMT certification and was a key member of the ERT's medical team helping to teach CPR and AED.
+
+Outside of work I am a Disaster Services Volunteer with The American Red Cross, a member of the ARES/RACES emergency communications services, and I am a volunteer pilot for Angel Flight. I also do volunteer work for some of our local public schools in the Redwood City School District and the Sequoia Union High School District. A few years ago I helped design and implement a campus network for Roy Cloud School and taught a 4th and 5th grade chess class at North Star Academy. I am currently an advisor to the joint Woodside / Carlmont High School Robotics Team, known as Team100, and sponsor and host their web site: www.team100.org. I sponsor and host www.troop991.org, the web site for Redwood City based BSA Troop 991, and I am a Boy Scout Merit Badge Counselor. I am also an assistant coach for the Woodside High School Quiz Kids team - Quiz Kids is a Bay Area TV trivia show where high school kids compete for fame and fortune, and a chance to travel to Europe!
+
+My hobbies and interests include: Flying (Private Pilot ASEL, Instrument Rated, Advanced Ground Instructor), Amateur Radio (Extra Class), Emergency Preparedness (EMT, SCBA, Wilderness First Aid, ...), Woodworking, Hiking (including climbing Mt. Shasta), Bicycling (I recently completed the Honolulu Century Ride with Team-in-Training), Running (I ran the Rock 'n Roll 1/2 Marathon in San Jose on October 8), Skiing, and taking family vacations, either by plane or in our motor home.[/introduction]
+
+<b> My URL collection: </b>
+
+<IMAGE src="http://isc.sans.org/images/status.gif" alt=""/> <IMAGE src="http://www.InternetTrafficReport.com/itr-clean.gif" alt="The Internet Traffic Report monitors the flow of data around the world. It then displays a value between zero and 100. Higher values indicate faster and more reliable connections."/>
+
+Networking & Security Mt. Shasta
+
+Search Engines & Lists Flying
+
+Programming, Systems, Etc... Hiking Skiing
+
+Emergency & Disaster Bicycling / Triathlon / Marathon
+
+Municipalities & Government Gadgets
+
+Education & Information Amateur Radio
+
+Miscellaneous Red Cross
+
+News Sources Walter Panas WPHS 1977
+
+Web-related Coyote Hill Consulting LLC
+
+Created and maintained by Wes Irish, email: wirish@coyotehillconsulting.com

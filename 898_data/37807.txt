@@ -1,0 +1,64 @@
+<IMAGE src="http://www.soi.city.ac.uk/~jwo/newMGIPages/images/city-logo.gif" alt="City University Logo"/> | Index | Search | About | Help
+
+
+
+Department of ComputingCity <IMAGE src="/images/arrowdots.gif" alt=">"/> School of Informatics <IMAGE src="/images/arrowdots.gif" alt=">"/>People <IMAGE src="/images/arrowdots.gif" alt=">"/>Sebastian Hunt
+
+  *   Home Page
+
+  *   Profile
+
+  *   Research
+
+  *   Publications
+
+  *   Teaching
+
+  *   Et cetera
+
+
+
+Sebastian Hunt
+
+
+[contactinfo][position]Senior Lecturer[/position][pic]<IMAGE src="mugshot.jpg" alt="Photo of Dr Sebastian Hunt"/>[/pic] Dr Sebastian Hunt
+[position]Senior Lecturer[/position]
+[address]Room A507[/address]
+[affiliation]Department of Computing
+School of Informatics
+City University[/affiliation]
+[address]London EC1V OHB[/address]
+
+[email]seb@soi.city.ac.uk[/email]
+tel: [phone]+44 20 7040 8440[/phone]
+fax: [fax]+44 20 7040 0244[/fax][/contactinfo]
+[introduction]I am a [position]member[/position] of the [affiliation]Programming Languages and Systems research group[/affiliation].[/introduction]
+
+
+Arrange a meeting If you would like to arrange a meeting with me, please check my calendar and then email with some suggested times.
+
+
+[resinterests]Research interests My research interests include: [interests]language-based security[/interests]; [interests]information flow[/interests]; [interests]semantics and logic of computation[/interests]; [interests]program
+analysis[/interests]; [interests]abstract interpretation[/interests]; [interests]type systems[/interests]; [interests]programming languages[/interests][/resinterests].
+
+
+[publication]Selected publications
+
+[HS06] Sebastian Hunt and David Sands. On flow-sensitive security types. In Proc. Principles of Programming Languages, 33rd Annual ACM SIGPLAN - SIGACT Symposium (POPL'06), pages 79-90, Charleston, South Carolina, USA, January 2006. ACM Press.
+[ bib | .pdf | Abstract ]
+
+[CHM05b] David Clark, Sebastian Hunt, and Pasquale Malacaria. Quantitative information flow, relations and polymorphic types. Journal of Logic and Computation, Special Issue on Lambda-calculus, type theory and natural language, 18(2):181-199, 2005.
+[ bib | http | Abstract ]
+
+[CHM02] David Clark, Sebastian Hunt, and Pasquale Malacaria. Quantitative analysis of the leakage of confidential data. Electronic Notes in Theoretical Computer Science, 59(3):1-14, November 2002. QAPL'01, Quantitative Aspects of Programming Laguages (Satellite Event for PLI 2001).
+[ bib | http | .pdf | Abstract ]
+
+[CHH02] David Clark, Chris Hankin, and Sebastian Hunt. Information flow for algol-like languages. Computer Languages, 28(1), 2002.[/publication]
+[ bib | Abstract ]
+
+
+QIF Project
+2005-2008. EPSRC.
+Principal Investigator Quantitative Information Flow (start date 1 October 2005, duration 42 months).
+Joint Project with David Clark (Kings College) and Pasquale Malacaria (Queen Mary).
+Total value: ?72,734 (?6,357 at City).

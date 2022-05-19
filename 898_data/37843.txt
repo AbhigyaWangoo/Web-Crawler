@@ -1,0 +1,29 @@
+[contactinfo]<font size=5>Keith Marzullo</font>
+[position]Professor and Chair[/position], [affiliation]Department of Computer Science and Engineering[/affiliation]
+
+[pic]<IMAGE src="marzulloInSydney.jpg" alt=""/>[/pic] 
+<b>Office:</b> [address]EBU3B 3126 or EBU3B 2266[/address].
+<b>Office hours:</b> Stop by. Or, send some e-mail or AIM me and we can arrange a time to meet.
+<b>Phone: </b>[phone](858) 534-1126[/phone]
+<b>Cellular: </b>[phone](619) 838-1149[/phone]
+<b>Skype: </b> kilioopu or [phone](858) 926-5191[/phone]
+<b>Fax: </b>[fax](858) 534-7029[/fax]
+<b>Lab: </b>[fax](858) 534-9669[/fax]
+<b>Email: </b>[email]marzullo@cs.ucsd.edu[/email][/contactinfo]
+<b>AIM: </b>kilioopu
+<b>ACM SIGOPS: </b>President, 2003-2007
+<b>CV:</b>(Occasionally up to date)
+<b>Dance Team:</b> Diamonds & Studs
+<b>Figlioccia:</b> Chiara
+<b>Beardless</b>: (Rarely)<b>Musical talents</b>: (Questionable)
+
+<IMAGE src="research.jpg" alt=""/> <IMAGE src="students.jpg" alt=""/> <IMAGE src="classes.jpg" alt=""/> <IMAGE src="publications.jpg" alt=""/>
+
+Keith Marzullo
+[contactinfo][affiliation]University of California, San Diego
+Department of Computer Science and Engineering[/affiliation],[address]0404
+EBU 3B 3126
+La Jolla, CA 92093-0404[/address][/contactinfo]
+
+<IMAGE src="ucsdlogo.jpg" alt=""/> <IMAGE src="unilogo_mid.gif" alt=""/> Ukulele chord information here.
+An arrangement of Isa Lei and Aloha Oe in dropped C tuning here.

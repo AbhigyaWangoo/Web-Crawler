@@ -1,0 +1,66 @@
+[pic]<IMAGE src="http://www.cs.ucla.edu/~palsberg/tn_J_Palsberg_3.jpg" alt=""/>[/pic]
+
+
+[contactinfo]Jens Palsberg
+[position]Professor[/position] of Computer Science
+[affiliation]UCLA Computer Science Department[/affiliation]
+[address]4531K Boelter Hall, Los Angeles, CA 90095-1596, USA[/address]
+
+[email]palsberg@ucla.edu[/email]
+Phone: [phone]310-825-6320[/phone]
+Fax: [fax]310-794-5057[/fax][/contactinfo]
+Curriculum vitae and brief biography
+Publications, DBLP, CiteSeer, h index.
+[introduction][affiliation]UCLA compilers group, UCLA software systems research[/affiliation][/introduction]
+
+[resinterests]<b>Research</b> [interests]Compilers[/interests], [interests]embedded systems[/interests], [interests]programming languages[/interests][/resinterests]
+
+<b>Projects</b> Sensor network simulation
+Resource-aware compilation
+Type inference and static analysis for object-oriented software
+Type-based analysis and applications
+
+<b>Tutorial</b> EMSOFT 2005 tutorial on Programming Sensor Networks by Mani B. Srivastava and Jens Palsberg
+
+[resactivity]<b>Activities</b>
+(former)
+Graduate vice chair, UCLA Computer Science Department
+Secretary/treasurer of ACM SIGBED, Special Interest Group on Embedded Systems
+
+<b>Journals</b> TOPLAS Assoc. Editor ACM Transactions on Programming Languages and Systems
+
+I&C Edit. Board Information and Computation
+<b>Conferences</b>
+<b>2007</b>
+(2000-2006) SBLP'07 PC Member Brazilian Programming Language Symposium (Natal, Brazil)
+
+EMSOFT'07 PC Member International Conference on Embedded Software (Salzburg, Austria)
+
+MEMOCODE'07 PC Member Conference on Formal Methods and Programming Models for Co-Design (Nice, France)
+
+APLAS'07 PC Member Asian Symposium on Programming Languages and Systems (Singapore)[/resactivity]
+
+<b>Honors</b> National Science Foundation CAREER Award, 1998.
+Purdue University Faculty Scholar, 1999-2004, in recognition of outstanding academic distinction.
+One of the Ten Best Teachers of Undergraduates in the School of Science, Purdue University, 2001.
+Okawa Foundation Research Award, 2003.
+IBM Faculty Award, 2005.
+
+<b>Software</b> The Java Tree Builder, a frontend for The Java Compiler Compiler
+
+<b>Ph.D. Students</b> Jonathan Lee Fernando Pereira Benjamin Titzer
+
+<b>Former Students</b> Tian Zhao, Ph.D, 2002, now an assistant professor at University of Wisconsin, Milwaukee
+Dennis Brylow, Ph.D, 2003, now an assistant professor at Marquette University, Milwaukee
+Mayur Naik, M.S., 2003, now a Ph.D. student with Alex Aiken at Stanford University
+Ma, Di, Ph.D., 2004, now at Synopsys
+Krishna Nandivada, Ph.D., 2005, now a researcher at IBM India Research Laboratory, Delhi
+Christian Grothoff, Ph.D., 2006, now an assistant professor at University of Denver, Colorado.
+
+<b>Courses at UCLA</b>
+(Purdue) CS 132 Compiler Construction: F03 F04 F05 F06
+CS 232 Static Program Analysis: S06
+CS 239 Programming Languages: W04
+CS 239 Compilers for Embedded Systems: S04
+
+<b>Worth Reading</b> The Queen of Denmark; so long, and thanks for the Ph.D; some advice on dissertations, talks, and how to have your abstract rejected; yes, Virginia, there is a Santa Claus; my brother, Lars Palsberg, and his wife and son; and Angel, stylish Angel, cool Angel, plus Angel pondering some entries in CiteSeer. Wedding. John. Angel.

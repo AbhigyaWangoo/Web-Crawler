@@ -1,0 +1,21 @@
+Home
+Bio
+Research
+Links
+[pic]<IMAGE src="images/self4.jpg" alt=""/>[/pic]
+
+
+[contactinfo]Contact
+
+[address]Manuel Calimlim
+539 Rhodes Hall
+Ithaca, NY 14853[/address]
+[phone]607-255-3961[/phone]
+[email]"calimlim" @ "cs.cornell.edu"[/email][/contactinfo]
+
+
+Cornell
+
+My official title is "Research Supp Spec III". I have no idea why there's a III attached, but I'm sure Cornell has a very good reason for it.
+
+[introduction]Basically, I'm a [position]research programmer[/position] for the [affiliation]Cornell DB Group[/affiliation]. I did my undergraduate and masters programs at [msuniv]Cornell[/msuniv], so I've been here a long, long time.[/introduction]

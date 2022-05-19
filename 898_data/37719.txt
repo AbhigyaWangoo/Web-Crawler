@@ -1,0 +1,174 @@
+[pic]<IMAGE src="malik_small.jpg" alt=""/>[/pic]
+
+
+
+[contactinfo]Jitendra Malik Arthur J. Chick [position]Professor[/position] of EECS
+[affiliation]University of California at Berkeley[/affiliation]
+[address]CA 94720-1776[/address]
+Phone: [phone](510) 642-7597[/phone]
+Fax: [fax](510) 642-5775[/fax]
+Asst: Tammy Johnson [phone](510) 643-4816[/phone]
+Email: [email]malik@eecs.berkeley.edu[/email][/contactinfo]
+Prospective graduate students-you do not need to contact me. Follow this link instead.
+
+
+Brief Bio
+
+
+Teaching Spring 2004: CS 294 Recognizing people, places and things
+
+
+Teaching Spring 2001: CS 294 Appearance Models for Computer Graphics and Vision
+
+
+Research Projects
+
+
+Selected Publications
+
+
+Selected Talks
+
+
+Current Ph.D. Students
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Andrea Frome
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Ashley Eden
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Michael Maire
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Slav Petrov
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Hao Zhang
+
+
+Current Postdoctoral fellows
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Alex Berg
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Charless Fowlkes
+
+
+Former Ph.D. Students
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Paul Kube On Image Texture, 1988 , UC San Diego
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Pietro Perona
+
+Finding Texture and Brightness Boundaries in Images, 1990 , Caltech
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/>Niklas Nordstrom
+
+Variational Edge Detection, 1990 , EFI
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Ziv Gigus
+
+Object Recognition from Line Drawings, 1991 , Silicon Valley
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Clark Olson
+
+Fast Object recognition by Selectively Examining Hypotheses, 1994 , U W Bothell
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> David G. Jones
+
+Computational Models of Binocular Vision, 1991 , McMaster
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/>Joseph Weber
+
+The Measurement and Use of Visual Motion, 1994 , Silicon Valley
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/>Ruth Rosenholtz
+
+Local Shape from Texture, 1994 , MIT
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/>Paul Debevec
+
+Modeling and Rendering Architecture from Photographs, 1996 , USC ICT
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/>Christoph Bregler
+
+Computational Models of Human Motion, 1998 , New York University
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/>Jianbo Shi
+
+Perceptual Organization and Image Segmentation, 1998 , University of Pennsylvania
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/>Chad Carson
+
+Region-Based Image Querying and Classification, 1998 , Yahoo!
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/>Yizhou Yu
+
+Modeling and Editing Real Scenes with Image-Based Techniques, 2000 , Univ. Illinois Urbana-Champaign
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/>Thomas K. Leung
+
+Visual Texture Analysis, 2000 , Google
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/>Serge J. Belongie
+
+Image Segmentation and Shape Matching for Object Recognition, 2000 , UC San Diego
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/>David Martin
+
+An empirical approach to Grouping and Segmentation , 2002 , Boston College
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Alyosha Efros
+
+Data-driven Approaches for Texture and Motion, 2003 , Carnegie Mellon University
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Laura Walker Renninger
+
+Parts, Objects and Scenes: Computational Models and Psychophysics, 2003 , Smith Kettlewell Eye Research Institute
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Gregory Mori
+
+Detecting and Localizing Human Figures, 2004 , Simon Fraser University
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Andras Ferencz
+
+Finding Good Features for Object Recognition, 2005 , Mobileye Vision Technologies
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Charless Fowlkes
+
+Measuring the Ecological Validity of Grouping and Figure-Ground Cues, 2005 , UC Berkeley
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Alexander Berg
+
+Shape Matching and Object Recognition, 2005 , UC Berkeley
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Xiaofeng Ren
+
+Probabilistic Models for Mid-Level Vision, 2006 , Toyota Technological Institute at Chicago
+
+
+Former Postdoctoral fellows, excluding my former PhD students
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Roberto Manduchi
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Dieter Koller
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Quang-Tuan Luong
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> David Beymer
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Camillo J. Taylor
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Phil McLauchlan
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Jana Kosecka
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Jan Puzicha
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Yair Weiss
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> ZuWhan Kim
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Stella Yu
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Erik Learned-Miller
+
+<IMAGE src="/icons/balls/greenball.gif" alt=" * "/> Eran Borenstein
+
+[contactinfo]Jitendra Malik ([email]malik@eecs.berkeley.edu[/email])[/contactinfo]

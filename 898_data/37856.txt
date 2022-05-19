@@ -1,0 +1,36 @@
+[pic]<IMAGE src="onn-2001.jpg" alt=""/>[/pic]Dr. Onn Shehory
+
+
+[contactinfo][position]Adjunct Lecturer[/position] at the [affiliation]Computer Science Department[/affiliation]
+[position]Researcher[/position] at [affiliation]IBM Reseach Labs in Israel[/affiliation]
+
+<IMAGE src="building_350.jpg" alt=""/><IMAGE src="small4.gif" alt=""/> Work Address: 
+
+<IMAGE src="yellowball.gif" alt=""/> IBM Research Lab in Haifa - The Tel Aviv Site
+
+<IMAGE src="yellowball.gif" alt=""/> [address]Haifa University, Mount Carmel[/address]<IMAGE src="yellowball.gif" alt=""/> [address]Haifa, 31905 ISRAEL[/address]<IMAGE src="yellowball.gif" alt=""/> Phone: [phone]+972-3-640-1682[/phone] <IMAGE src="yellowball.gif" alt=""/> Fax: [fax]+972-3-640-1631[/fax] <IMAGE src="yellowball.gif" alt=""/> E-mail: [email]onn@il.ibm.com[/email][/contactinfo]
+
+
+Research Statement
+
+
+Curriculum Vitae
+
+
+[resinterests]Research Interests
+
+<IMAGE src="small1.gif" alt=""/> [interests]Intelligent Agents - Theory and Implementation[/interests]
+<IMAGE src="small1.gif" alt=""/> [interests]Multi-Agent Systems as a Software Engineering Paradigm[/interests]
+<IMAGE src="small1.gif" alt=""/> [interests]Efficient and Stable Algorithms for Agent Activity[/interests]
+<IMAGE src="small1.gif" alt=""/> [interests]Distributed Artificial Intelligence[/interests]
+<IMAGE src="small1.gif" alt=""/> [interests]Cooperation and Coalition Formation[/interests]
+<IMAGE src="small1.gif" alt=""/> [interests]Electronic Commerce[/interests]
+<IMAGE src="small1.gif" alt=""/> [interests]Distributed Storage Systems[/interests]
+
+<IMAGE src="small1.gif" alt=""/> [interests]Non-Newtonian Fluid Dynamics[/interests]
+<IMAGE src="small1.gif" alt=""/> [interests]Molecular Dynamics[/interests][/resinterests]
+
+
+Publications
+
+Onn Shehory's home page, created on Aug. 24, 2000 (always under construction).

@@ -1,0 +1,25 @@
+<font size=10> Welcome to Kam-Fai Wong's Home Page </font>
+
+
+[pic]<IMAGE src="GIF/photo.gif" alt=""/>[/pic]
+
+[education]WONG, Kam-Fai, <font size=4> BSc, PhD, ([phduniv]Edinburgh U.[/phduniv]) </font>
+<IMAGE src="GIF/kfwong_c.gif" alt=""/>[/education]
+
+
+
+[contactinfo]<font size=4> [position]Professor[/position]
+[address]Room 216, Ho Sin Hang Engineering Building[/address]
+[affiliation]Department of Systems Engineering and Engineering Management
+The Chinese University of Hong Kong[/affiliation]
+[address]Shatin, N.T. Hong Kong[/address].
+
+Office Tel. : [phone]+852 2609-8332[/phone]
+Facsimile : [fax]+852 2609-5505[/fax]
+Email: [email]kfwong@se.cuhk.edu.hk[/email] </font><IMAGE src="GIF/cu.gif" alt=""/>[/contactinfo]
+
+<font size=4>
+
+<IMAGE src="GIF/shine_dot.gif" alt=""/> Personal Profile <IMAGE src="GIF/shine_dot.gif" alt=""/> Research Interests <IMAGE src="GIF/shine_dot.gif" alt=""/> Publication <IMAGE src="GIF/shine_dot.gif" alt=""/> Teaching
+
+</font>

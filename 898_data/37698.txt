@@ -1,0 +1,32 @@
+<font size=4>Home Page of Yue Wu</font>
+
+[contactinfo]<b><font size=3>[affiliation]Department of Physics and Astronomy[/affiliation]</font></b>
+
+<b><font size=3>[affiliation]University of North Carolina[/affiliation]</font></b>
+
+<b><font size=3>[address]Chapel Hill, NC 27599-3255[/address]</font></b>
+
+<b><font size=3>Phone: [phone](919) 962-0307[/phone]</font></b>
+
+<b><font size=3>Fax: [fax](919) 962-0480[/fax]</font></b>
+
+<b><font size=3>E-mail: [email]yuewu@physics.unc.edu[/email]</font></b>[/contactinfo]
+
+[pic]<IMAGE src="Labphoto.GIF" alt=""/>[/pic]
+
+Teaching
+<b>Physics 28, Modern Physics, Spring Semester, 2002</b>
+
+Publications
+
+<b> Selected Publications</b>
+
+Current Research Interests
+
+Solid State Nuclear Magnetic Resonance
+
+Carbon Nanotubes
+
+Metallic Glasses
+
+Hydrogenated Amorphous Silicon Thin Films

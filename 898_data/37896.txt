@@ -1,0 +1,190 @@
+<IMAGE src="images/uon-logo.gif" alt="UoN"/> <IMAGE src="images/csit-sub.gif" alt="CS+IT"/> <IMAGE src="images/asap-logo.jpg" alt="ASAP"/>
+
+
+
+[contactinfo]Jaume Bacardit
+
+[pic]<IMAGE src="JaumeBacardit.jpg" alt="Jaume Bacardit"/>[/pic]
+
+<b>Jaume Bacardit</b>
+[affiliation]ASAP, School of Computer Science and IT
+University of Nottingham[/affiliation]
+[address]Jubilee Campus, Wollaton Road
+Nottingham, NG8 1BB, UK[/address]
+
+Tel: [phone]+44 115 951 4234[/phone]
+Fax: [fax]+44 115 846 7591[/fax]
+[email]jqb at cs dot nott dot ac dot uk[/email]
+
+<b>[position]Post-Doctoral Research Associate[/position]</b>
+
+PhD ([phduniv]Universitat Ramon Llull[/phduniv], Barcelona, Catalonia, Spain)
+
+[address]<b>Room</b>
+
+C77[/address][/contactinfo]
+
+[resinterests]<b>Research Interests</b>
+
+[interests]Bioinformatics[/interests], [interests]learning classifier systems[/interests], [interests]evolutionary computation[/interests], [interests]genetics-based machine learning[/interests], [interests]data mining[/interests][/resinterests]
+
+<b>Curriculum Vitae</b>
+
+cvJaumeBacardit.pdf
+
+<b>Hits</b>
+
+<IMAGE src="/cgi-bin/Count.cgi?df=jqb.dat&md=5&ft=0&dd=C&negate=Y" alt=""/> hits since March 1, 2005
+Last refreshed at 15:09, Thursday, January 11, 2007
+
+
+
+<b>
+
+
+[resinterests]Research</b>
+
+My PhD thesis dealt with the [interests]Pittburgh model of Learning Classifier Systems (LCS)[/interests]. Specifically, the thesis had the following objectives:
+
+  * [interests]Improving the generalization capacity of the model[/interests]
+
+  * [interests]Reducing the run-time of the system[/interests]
+
+  * [interests]Proposing rule-based representations for real-valued attributes[/interests]
+
+You can download my thesis here
+
+
+Currently I work on the [interests]bioinformatics field[/interests], [interests]applying LCSs to protein structure prediction[/interests], in a project called [interests]Robust Prediction[/interests] with Explanatory Power for Protein Structure and [interests]Related Prediction Problems[/interests] under the supervision of Dr. Natalio Krasnogor[/resinterests]
+
+<b>
+
+
+Readings</b>
+
+Here you can find the BibTeX references I have collected over the years
+
+<b>
+
+
+[publication]Publications</b>
+
+<font size=4>2006</font>
+Empirical evaluation of ensemble techniques for a Pittsburgh Learning Classifier System
+J. Bacardit and N. Krasnogor
+Ninth International Workshop on Learning Classifier Systems, IWLCS2006 (to appear)
+
+Smart Crossover operator with multiple parents for a Pittsburgh Learning Classifier System
+J. Bacardit and N. Krasnogor
+Genetic and Evolutionary Computation Conference 2006, GECCO'06 (to appear)
+
+Coordination number prediction using Learning Classifier Systems: Performance and interpretability
+J. Bacardit, M. Stout, J.D. Hirst, N. Krasnogor and J. Blazewicz
+Genetic and Evolutionary Computation Conference 2006, GECCO'06 (to appear)
+
+Prediction of Residue Exposure and Contact Number for Simplified HP Lattice Model Proteins Using Learning Classifier Systems
+Stout, M., Bacardit, J., Hirst, J.D., and Krasnogor, N.
+7th International FLINS Conference on Applied Artificial Intelligence, Genova, Italy, 29-31 August 2006. (to appear)
+
+From HP Lattice Models to Real Proteins: coordination number prediction using Learning Classifier Systems
+M. Stout, J. Bacardit, J.D. Hirst, N. Krasnogor and J. Blazewicz
+4th European Workshop on Evolutionary Computation and Machine Learning in Bioinformatics 2006 (to appear)
+
+<font size=4>2005</font>
+Analysis of the Initialization Stage of a Pittsburgh Approach Learning Classifier System
+Jaume Bacardit
+Genetic and Evolutionary Computation Conference 2005, GECCO'05
+gecco2005.pdf
+
+<font size=4>2004</font>
+Pittsburgh Genetics-Based Machine Learning in the Data Mining era: Representations, generalization, and run-time
+Jaume Bacardit
+Doctoral disertation, Ramon Llull University, Barcelona, Catalonia, Spain
+thesis.pdf
+
+Speeding-up Pittsburgh Learning Classifier Systems: Modeling Time and Accuracy
+Jaume Bacardit, David E. Goldberg, Martin V. Butz, Xavier Llor?and Josep M. Garrell
+8th International Conference on Parallel Problem Solving from Nature - PPSN VIII
+ppsn04.pdf
+
+Data Mining in Learning Classifier Systems: Comparing XCS with GAssist
+Jaume Bacardit and Martin V. Butz
+Seventh International Workshop on Learning Classifier Systems (IWLCS-2004)
+iwlcs2004b.ps.gz
+
+Improving the Performance of a Pittsburgh Learning Classifier System Using a Default Rule
+Jaume Bacardit, David E. Goldberg and Martin V. Butz
+Seventh International Workshop on Learning Classifier Systems (IWLCS-2004)
+iwlcs2004.ps.gz
+
+Analysis and improvements of the Adaptive Discretization Intervals knowledge representation
+Jaume Bacardit and Josep M. Garrell
+Genetic and Evolutionary Computation Conference 2004, GECCO'04
+gecco2004.ps.gz
+
+Experimental Evaluation of Discretization Schemes for Rule Induction
+Jesus Aguilar--Ruiz, Jaume Bacardit and Federico Divina
+Genetic and Evolutionary Computation Conference 2004, GECCO'04
+gecco2004b.ps.gz
+
+Combinando multiples discretizadores para aprendizaje de reglas evolutivo con enfoque de Pittsburgh
+Jaume Bacardit, Josep M. Garrell and Pere Miralles
+Proceedings of the "Tercer Congreso Español de Metaheurísticas, Algoritmos Evolutivos y Bioinspirados", pages 192-202
+maeb04.ps.gz
+
+<font size=4>2003</font>
+Comparison of training set reduction techniques for Pittsburgh approach Genetic Classifier Systems
+Jaume Bacardit and Josep M. Garrell
+X Conferencia de la Asociación Española para la Inteligencia Artificial (CAEPIA2003)
+caepia2003.ps.gz
+
+Bloat control and generalization pressure using the minimum description length principle for a Pittsburgh approach Learning Classifier System
+Jaume Bacardit and Josep M. Garrell
+Sixth International Workshop on Learning Classifier Systems (IWLCS-2003)
+Chicago, July 2003
+iwlcs03.ps.gz
+
+Evolving multiple discretizations with adaptive intervals for a Pittsburgh Rule-Based Learning Classifier System
+Jaume Bacardit and Josep M. Garrell
+Genetic and Evolutionary Computation Conference 2003, GECCO'03
+Lecture Notes in Computer Science 2724, pages 1818--1831, Springer-Verlag
+gecco03.ps.gz
+
+Incremental Learning for Pittsburgh Approach Classifier Systems
+Jaume Bacardit and Josep M. Garrell
+Proceedings of the "Segundo Congreso Español de Metaheurísticas, Algoritmos Evolutivos y Bioinspirados", pages 303-311
+maeb03.ps.gz
+
+
+<font size=4>2002</font>
+Evolution of Multi-Adaptive Discretization Intervals for a Rule-Based Genetic Learning System
+Jaume Bacardit and Josep M. Garrell
+Proceedings of the 7th Iberoamerican Conference on Artificial Intelligence (IBERAMIA2002)
+LNAI vol. 2527, pages 350-360, Springer
+iberamia02.ps.gz
+
+The role of interval initialization in a GBML system with rule representation and adaptive discrete intervals
+Jaume Bacardit and Josep M. Garrell
+Proceedings of the 5th Catalan Conference on Artificial Intelligence (CCIA'2002)
+LNAI vol. 2504, pages 184-195, Springer
+ccia2002.ps.gz
+
+Evolution of Adaptive Discretization Intervals for a Rule-Based Genetic Learning System
+Jaume Bacardit and Josep M. Garrell
+Proceedings of the 4th Genetic and Evolutionary Computation converence (GECCO-2002) page 677 (poster page)
+gecco2002_abstract_page.ps.gz
+
+Métodos de generalización para sistemas clasificadores de Pittsburgh
+Jaume Bacardit and Josep M. Garrell
+Proceedings of the "Primer Congreso Español de Algoritmos Evolutivos y Bioinspirados (AEB'02)", pages 486-493
+aeb02_bacardit+garrell.ps.gz(spanish)[/publication]
+
+
+<b>
+
+
+Pictures</b>
+
+Here you can find pictures of some place I have been over the years
+
+Last updated Wednesday January 10, 2007.

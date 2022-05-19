@@ -1,0 +1,82 @@
+<IMAGE src="../../images/title1.jpg" alt=""/>
+
+<font size=3>Departments</font>
+
+<IMAGE src="../../images/bulletarrowteal.gif" alt=""/> <font size=1><b>Biochemistry</b></font><font size=1><b> and</b></font><b><font size=1> </font></b><font size=1><b>Molecular Biology</b></font>
+
+<IMAGE src="../../images/bulletarrowteal.gif" alt=""/> <font size=1><b>Plant and Soil Science</b></font>
+
+<IMAGE src="../../images/bulletarrowteal.gif" alt=""/> <font size=1><b>Botany</b></font>
+
+<IMAGE src="../../images/bulletarrowteal.gif" alt=""/> <font size=1><b>Forestry</b></font>
+
+<IMAGE src="../../images/bulletarrowteal.gif" alt=""/> <font size=1><b>Microbiology & Molecular Genetics</b></font>
+
+<IMAGE src="../../images/bulletarrowteal.gif" alt=""/> <font size=1><b>Entomology & Plant Pathology</b></font>
+
+<IMAGE src="../../images/bulletarrowteal.gif" alt=""/> <font size=1><b>OSU Plant BioNet Home</b></font>
+
+<font size=2>For Comments or Questions Contact: Webmaster</font>
+
+<font size=2>Last modified
+</font>
+
+<IMAGE src="../../images/bri=own.jpg" alt=""/> <font size=5><b>Ming Yang</b></font> [pic]<IMAGE src="myang1.jpg" alt=""/>[/pic]
+
+[contactinfo]<font size=2>[affiliation]Oklahoma State University[/affiliation]</font>
+
+<IMAGE src="../../images/bulletarrow.gif" alt=""/><font size=2>[position]Assistant Professor[/position], [affiliation]Department of Botany[/affiliation]</font>
+
+<IMAGE src="../../images/bulletarrow.gif" alt=""/><b><font size=2>Address:</font></b> <font size=2>[address]104 Life Sciences East, OSU, Stillwater, OK 74078[/address]</font>
+
+<IMAGE src="../../images/bulletarrow.gif" alt=""/><b><font size=2>Phone:</font></b> <font size=2>[phone]405-744-9508[/phone]</font> <b><font size=2>Fax:</font> </b><font size=2>[fax]405-744-7074[/fax]</font>
+
+<IMAGE src="../../images/bulletarrow.gif" alt=""/><b><font size=2>Email</font>:</b> <font size=2>[email]ming.yang@okstate.edu[/email]</font>[/contactinfo]
+
+<IMAGE src="../../images/bulletarrow.gif" alt=""/><b><font size=2>URL</font>:</b> <font size=2>[homepage]http://botany.okstate.edu[/homepage]</font>
+
+[introduction]<IMAGE src="../../images/bulletarrow.gif" alt=""/><b><font size=2>[phddegree]Ph.D.[/phddegree],</font></b> <font size=2>[phdmajor]Plant Biology[/phdmajor], [phddate]1996[/phddate], [phduniv]Ohio State University[/phduniv]</font> Lab Photo
+
+<font size=2><IMAGE src="../../images/bulletarrow.gif" alt=""/><b>Postdoctoral:</b></font><b> </b> <font size=2>Plant Molecular Genetics
+</font>
+
+<font size=2>1996-1998, Cold Spring Harbor Laboratory
+1998-2000, Penn State University
+2000-2001, University of California Berkeley</font>[/introduction]
+
+[resinterests]<IMAGE src="../../images/bulletarrow.gif" alt=""/><b><font size=2>Research Emphasis: </font></b><font size=2>[interests]Cell cycle progression and cell morphogenesis in Arabidopsis thaliana[/interests]</font>
+
+<IMAGE src="../../images/bulletarrow.gif" alt=""/><font size=2><b>Related Activities:</b></font> <font size=2>[interests]Teaching Plant Anatomy and Biological Microtechnique[/interests]</font>
+
+<IMAGE src="../../images/bulletarrow.gif" alt=""/><b><font size=2>Research Description:</font></b>
+
+<font size=2>My research interests are in the areas of [interests]cell cycle progression and cell morphogenesis in Arabidopsis[/interests]. Our recent findings are concerned with the roles of two proteins, the ARABIDOPSIS SKP1-LIKE1 (ASK1) and CYCLIN A1;2 (CYCA1;2), in male meiosis. We found that in microsporocytes ASK1 regulates a series of sequential events that include nucleolar migration, homologue synapsis, chromosomal protein dynamics, and homologue separation. We are currently investigating how ASK1 regulates these events. In the case of CYCA1;2, we found that it regulates the progression of both meiosis I and meiosis II even though its peak expression only occurs in the pachytene stage. Because each nuclear division in mitosis is coupled with a peak of expression of mitotic cyclins, our findings on CYCA1;2 suggest a different mode of action for mitotic cyclins in meiosis than in mitosis. We are further exploring additional molecular differences between the meiotic cell cycle and the mitotic cell cycle with the aim to build a unified model for cell cycle progression in both meiosis and mitosis. Moreover, we are investigating other cell morphogenic events during Arabidopsis development[/resinterests].</font>
+
+<font size=2><IMAGE src="../../images/bulletarrow.gif" alt=""/><b>[publication]Recent Publications:</b></font>
+
+
+<font size=2>Wu H, Mori A, Jiang X, Wang Y, Yang M (2006) The INDEHISCENT protein regulates unequal cell divisions in Arabidopsis fruit. Planta, Online First, DOI: 10.1007/s00425-006-0351-8. </font>
+
+<font size=2>Wang Y, Yang M (2006) The ARABIDOPSIS SKP1-LIKE1 (ASK1) protein acts predominately from leptotene to pachytene and represses homologous recombination in male meiosis. Planta 223: 613-617.
+
+Wu H, Yang M (2005) Reduction in vacuolar volume in the tapetal cells coincides with conclusion of the tetrad stage in Arabidopsis thaliana. Sex Plant Reprod 18: 173-178. </font>
+
+<font size=2>Wang Y, Magnard J-L, McCormick S, Yang M (2004) Progression through meiosis I and meiosis II in Arabidopsis anthers is regulated by an A-type cyclin predominately expressed in prophase I. Plant Physiol 136: 4127-4135.</font>
+
+<font size=2>Wang Y, Wu H, Liang G, Yang M (2004) Defects in nucleolar migration and synapsis in male prophase I in the ask1-1 mutant of Arabidopsis. Sex Plant Reprod 16: 273-282.</font>
+
+<font size=2> </font>
+
+<IMAGE src="../../images/bulletarrow.gif" alt=""/><b><font size=2>Selected Additional Publications:</font>
+
+</b>
+
+<font size=2>Magnard J-L, Yang M, Chen Y-CS, Leary M, McCormick S (2001) The Arabidopsis gene Tardy Asynchronous Meiosis is required for the normal pace and synchrony of cell division during male meiosis. Plant Physiol 127: 1157-1166. </font>
+
+<font size=2>Yang M, Ma H (2001) Male meiotic spindle lengths in normal and mutant Arabidopsis cells. Plant Physiol 126: 622-630. </font>
+
+<font size=2>Yang M, Hu Y, Lodhi M, McCombie WR, Ma H (1999) The Arabidopsis SKP1-LIKE1 gene is essential for male meiosis and may control homologue separation. Proc Natl Acad Sci USA 96: 11416-11421. </font>
+
+<font size=2>Yang M, Nadeau JA, Zhao L, Sack FD (1999) Characterization of a cytokinesis defective (cyd1) mutant of Arabidopsis. J Exp Bot 50: 1437-1446.
+
+Yang M, Sack, FD (1995) The too many mouths and four lips mutations affect stomatal production in Arabidopsis. Plant Cell 7: 2227-2239.[/publication] </font>

@@ -1,0 +1,55 @@
+<IMAGE src="ut.jpg" alt=""/>Ken Barker, [position]Research Scientist[/position]
+
+[pic]<IMAGE src="scatter.jpg" alt=""/>[/pic]
+
+
+[contactinfo]Contact [affiliation]Department of Computer Sciences
+The University of Texas[/affiliation] [address]at Austin
+1 University Station, #C0500
+Austin, Texas, USA
+78712-1188[/address]
+
+Tel: [phone](512) 471-9574[/phone]
+Fax: [fax](512) 471-8885[/fax]
+Email: [email]kbarker@cs.utexas.edu[/email][/contactinfo]
+
+
+Personal Links
+
+  * My CV                                   
+
+  * My Dissertation                     
+
+
+Research Knowledge Representation and Reasoning, Knowledge Acquisition, Natural Language Processing
+
+  * The Component Library
+
+  * KM
+
+  * Calo
+
+  * Aura
+
+  * Learning by Reading
+
+
+[publication]Recent Publications
+
+  * Yeh, Porter & Barker (2006). "Flexible Semantic Matching for Link Analysis: A Proposal." (AAAI Fall Symposium 2006).
+
+  * Yeh, Porter & Barker (2006). "A Unified Knowledge Based Approach for Sense Disambiguation and Semantic Role Labeling." (AAAI 2006).
+
+  * Fan, Porter & Barker (2005). "Indirect Anaphora Resolution as Semantic Path Search." (K-CAP 2005).
+
+  * Yeh, Porter & Barker (2005). "Matching Utterances to Rich Knowledge Structures to Acquire a Model of the Speaker's Goal." (K-CAP 2005).
+
+  * Friedland et al. (2004). "Project Halo: Towards a Digital Aristotle". AI Magazine 25(4).
+
+  * Barker et al. (2004). "A question-answering system for AP Chemistry: Assessing KR&R Technologies." (KR 2004).
+
+  * Friedland et al. (2004). "Towards a Quantitative, Platform-Independent Analysis of Knowledge Systems." (KR 2004).
+
+  * Yeh, Porter & Barker (2004). "Mining Transformation Rules for Semantic Matching." (MGTS 2004).[/publication]
+
+  * (view more <IMAGE src="more.jpg" alt=""/>)

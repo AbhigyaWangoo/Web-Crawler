@@ -1,0 +1,110 @@
+Jump to main menu
+
+
+Computer Science Department
+
+
+Technion - Israel Institute of TechnologyComputer Science Department - Search FormSearch text:
+
+  * Home
+
+  * Technion
+
+  * עברית
+
+[pic]<IMAGE src="/images/people/rodeh.jpg" alt="Prof. Michael Rodeh"/>[/pic]
+
+
+
+Prof. Michael Rodeh
+
+[contactinfo]Contact information
+
+      Homepage:
+            [homepage]http://www.haifa.il.ibm.com/rodeh.html[/homepage]
+
+      Email:
+            [email]rodeh<IMAGE src="/images/shtru.gif" alt="[at]"/>haifasc3.vnet.ibm.com[/email][/contactinfo]
+
+[publication]Selected publications
+      RODEH, M., PRATT, V.R., and EVEN, S., "Linear algorithm for data compression via string matching", JACM, Vol. 28, pp.16-24, 1981.
+      FRANCEZ, N., and RODEH, M., "Achieving distributed termination without freezing", IEEE Transactions on Software Engineering, Vol. 8, pp. 287-292, 1982.
+      ITAI, A., and RODEH, M., "Representation of graphs", Acta Informatica, Vol. 17, No. 2, pp. 215-219, 1982.
+      DOLEV, D., KLAWE, M., and RODEH, M., "An 0(nlogn) unidirectional distributed algorithm for extrema finding in a circle", Journal of Algorithms, Vol. 3, pp. 245-260, 1982.
+      RODEH, M., "A fast test for unique decipherability based on suffix trees", IEEE Transactions on Information Theory, Vol. IT-28, pp. 648-651, 1982.
+      ITAI, A., and RODEH, M., "The multi-tree approach to network reliability", Information and Computation, Vol. 79, pp. 43-59, 1988.
+      BERNSTEIN, D., RODEH, M., and GERTNER, I., "Approximation algorithms for scheduling expressions on pipelined machines", Journal of Algorithms, Vol. 10,
+      pp. 120-139, 1989.
+      BERNSTEIN, D., JAFFE, J.M., and RODEH, M., "Scheduling arithmetic and load operations in parallel with no spilling", SIAM Journal on Computing, Vol. 18,
+      pp. 1098-1127, 1989.
+      ITAI, A., and RODEH, M., "Symmetry breaking in distributive networks", Information and Computing, Vol. 88, pp. 60-87, 1990.
+      BERNSTEIN, D., GAL, S., and RODEH, M., "Mathematical analysis of using statistical sampling for estimating computer cache performance", Stochastic Models, Vol. 12, No. 1, pp. 67-75, 1996.[/publication]
+
+General Information
+
+        * About the Department
+
+        * News | Events | Magazine
+
+        * Colloquia and Seminars
+
+        * Industrial Affiliates Program
+
+        * Contact Info | Directions
+
+People  
+
+        * Faculty
+
+        * Graduate Students
+
+        * Staff
+
+        * Phone Directory
+
+        * Alumni
+
+        * Job Offerings
+
+Academics
+
+        * Course Information
+
+        * Teaching Schedule
+
+        * Office Hours
+
+        * Undergraduate Studies
+
+        * Graduate Studies
+
+        * Prospective Students
+
+Research
+
+        * Research Areas
+
+        * Research Laboratories
+
+        * Tech Reports and Theses
+
+Resources
+
+        * Libraries: CS | Central
+
+        * Computing Services
+
+        * Photo Gallery
+
+        * Useful Links
+
+  * Ideas for improvements and bug reports
+
+  * How to update information
+
+  * Credits
+
+Copyright ?2002. All rights reserved ,Computer Science Department
+Technion - Israel Institute of Technology
+
+<IMAGE src="/images/w3c-valid-xhtml-1-0.gif" alt="W3C Valid XHTML 1.0"/> <IMAGE src="/images/w3c-valid-css.gif" alt="W3C Valid CSS"/>

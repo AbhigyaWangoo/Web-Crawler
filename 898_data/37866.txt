@@ -1,0 +1,29 @@
+<font size=2> Home </font> <font size=2>Brief bio</font>
+<font size=2> Full CV | Research & Interests </font> <font size=2>  | Courses  </font> <font size=2>Presentations | Machine Learning Journal </font>
+<font size=2>  |CSCSI </font> <font size=2>  |IDA Journal </font>
+
+
+<b><font size=5>Stan Matwin</font></b>
+
+Two Postdoctral Positions Now Open! <IMAGE src="rotating-new.gif" alt="NEW !"/>
+
+[pic]<IMAGE src="images/beststaszek_127x200.jpg" alt="Stan's photo"/>[/pic]
+
+
+
+
+<font size=2> Dr. Stan Matwin</font>
+
+[contactinfo]<font size=2> contact info:</font>
+[affiliation]<font size=2> School of Information Technology and Engineering (SITE) </font>
+<font size=2> University of Ottawa  </font>[/affiliation]
+<font size=2> Tel.: [phone](613) 562 5800 x6679[/phone] </font>
+<font size=2> Fax: [fax](613) 562 5664[/fax]</font>
+<font size=2> Office: [address]r. 5100, 800 King Edward Ave.</font>
+<font size=2> P.O. Box 450 Stn A, </font>
+<font size=2> Ottawa Ontario </font>
+<font size=2> </font><font size=2>K1N 6N5</font> <font size=2>[/address]
+Canada</font>
+<font size=2> E-mail: </font><font size=2>[email]<IMAGE src="stan.GIF" alt="stan@site.uottawa.ca"/>[/email]</font><font size=2> </font>[/contactinfo]
+
+<font size=1>Last modified: August 7, 2005 .</font>

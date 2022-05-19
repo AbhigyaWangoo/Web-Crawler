@@ -1,0 +1,100 @@
+<IMAGE src="../image/head-cs-en.gif" alt="logo"/>
+
+[pic]<IMAGE src="../image/jie2.jpg" alt="Jie"/>[/pic] <b> Jie Yang</b>  [Chinese]
+
+[contactinfo][affiliation]Department of Computer Science
+Vrije Universiteit[/affiliation], Amsterdam
+
+E-mail: [email]<IMAGE src="http://www.st.ewi.tudelft.nl/~jyang/images/em.png" alt=""/>[/email]
+Mobile: [phone]0031-(0)641216778[/phone][/contactinfo]
+my PGP public key
+my CV
+homepage in TUDelft
+Blog in Chinese
+
+Courses
+
+My course list of the first year >>
+
+My course list of the second year >>
+
+
+Links
+
+My frequently visited links >>
+
+Map of the Netherlands >>
+
+Timetable of train in the Netherlands >>
+
+
+Commemorations
+
+Something to remember >>
+
+
+[introduction][position]Teaching Assistant[/position]
+
+I'm the [position]teaching assistant[/position] of [affiliation]Multimedia Authoring II. FAQ.[/affiliation][/introduction]
+
+
+Master Project
+
+Data Clustering for Autonomic Application Replication (Nov. 2004 - July 2005)
+
+I have finished it, with Guillaume and Swami.
+
+
+Course Projects
+
+  * <b>Multimedia Authoring II</b> (using DLP, VRML, Javascript): 3D Virtual Community. (Jan 2004, with Taoying ) Grade: 9/10
+
+  * <b>Parallel Programming</b> (using MPI, Java RMI on cluster): Prallel ASP , SOR and IDA*. (Feb 2004, with Mengxiao ) Grade: 9.5/10
+
+  * <b>Web-based knowledge representation</b> (using XML, XSL, RDF, OWL): TV Guide (May 2005, with Binh) Grade: 10/10
+
+  * <b>Network Programming</b> (using PHP, CGI, RPC, RMI on UNIX) : Online shop. (Feb. 2004 - May 2004, with Chenyan ) Grade: 10/10
+
+  * <b>Operating Systems</b> (using C on Minix): Programming in the kernel, memory management and file system of Minix. (Sep. 2004 - Nov. 2004) Grade: 9.5/10
+
+  * <b>Machine Learning</b> (using Matlab): Spam filter using machine learning techniques. (Jan. 2005 - Feb. 2005) Grade: 8/10
+
+
+[publication]Publications
+
+  * Yuan Yuan, Li Bingfa, Yang Jie, Wang Yong, Zhang Jingyu, Rotation Attack Resistant Digital Watermarking Based on Bilinear Interpolation, Computer Applications, Vol. 24, No. 1, Jan., 2004. (in Chinese)
+
+  * Yang Jie, Chen Junzhou, Li Bingfa, A Wavelet Based Watermarking Scheme for information Security, The Third International Conference on Wavelet Analysis and Its Applications, World Scientific Publishing Company, Singapore, 2003. (in English)
+
+  * Yuan Yuan, Li Bingfa , Yang Jie, A Rotation Resistant Bind Watermark Algorithm, Information Technology, VOL. 27, NO. 12, Dec. 2003. (in Chinese)
+
+  * Li Bingfa, Chen Junzhou, Yang Jie, Realization and Application of Digital Watermark, Collection of Chinese Classic Technique Papers, 2003. (in Chinese)
+
+  * Yang Jie, Wavelet Transform in Image Analysis Applications, Collection of Excellent Bachelor Thesis of Sichuan University, 2002. (in Chinese)
+
+  * Li Bingfa, Chen Junzhou, Yang Jie, Chen Yi, Realization and Application of Digital Watermark, Electronic Quality, 2002, (5). (in Chinese)[/publication]
+
+
+Miscellaneous
+
+After hard working for one and a half years in VU, I got a job finally in the first day of this Chinese New Year, a really lucky day for me. I will move to Parallel and Distributed Systems Group, Delft Unversity of Technology in July. A new life is waiting for me, with lots of smart people, lots of challenges and lots of fun :-)
+
+The Dept. of Computer Science of the VU is famous for Minix, CVS and many others, so I come here. This is a wise decision for me, I believe. Indeed, I am satisified with the research environment and enjoy the life here. There is a new Masters Degree in Parallel and Distributed Computer Systems. Welcome to join us!
+
+Before I came to Amsterdam, I had got my bachelor degree from the Department of [bsmajor]Computer Science[/bsmajor], [bsuniv]Sichuan University[/bsuniv], P. R. China, and been a research assistant for one year. My hometown is Songbai, a small and peace town by the Xiangjiang River, in Hengyang City, Hunan Province. I spent wonderful 17 years there.
+
+In China, people always put their family name before their given name. Actually my family name is Yang (pronounced like "Young") , and my given name is Jie (pronounced like the English letter "J"). You can call me Jack if you like. You can find many of my photos here.
+
+Actually, I am one of participants of the double degree program between 3 Chinese universities with VU. The other two universities are Wuhuan University and Jilin University. My coordinators are Guan Ping in the International Office of SCU, and Marieke te Booij in the International Office of VU (our picture).
+
+Amsterdam is a very nice city, not too big and not too small. It's very suitable for living, somewhat like Chengdu, where I spent my unfogetable campus life for 5 years.
+
+I like travel, basketball, football, movies, music, cook, making friends, writing essays, playing computer games, programming, and many others. Life is so colorful; why not enjoy it?
+
+To know more about me, please visit the Chinese pages. Thanks for your concern.
+
+Last modified on Jan. 9, 2006
+
+phonebook<IMAGE src="http://www.few.vu.nl/icon/blanco.gif" alt=""/> <IMAGE src="http://www.few.vu.nl/icon/home.gif" alt="Goto the homepage of the department of computer science."/> <IMAGE src="http://www.few.vu.nl/icon/blanco.gif" alt=""/>comp.sci. <IMAGE src="http://www.few.vu.nl/icon/home.gif" alt="Goto the homepage of the faculty of sciences."/><IMAGE src="http://www.few.vu.nl/icon/blanco.gif" alt=""/>FEW <IMAGE src="http://www.few.vu.nl/icon/home.gif" alt="Goto the homepage of the Vrije Universiteit."/> <IMAGE src="http://www.few.vu.nl/icon/blanco.gif" alt=""/>VU <IMAGE src="http://www.few.vu.nl/icon/blanco.gif" alt=""/>site map <IMAGE src="http://www.few.vu.nl/icon/blanco.gif" alt=""/>search <IMAGE src="http://www.few.vu.nl/icon/blanco.gif" alt=""/>webmaster
+
+If you spot a mistake, please e-mail the maintainer of this page.<b>Your browser does not fully support CSS. This may result in visual artifacts.</b>

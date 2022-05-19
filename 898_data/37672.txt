@@ -1,0 +1,52 @@
+<b>Rong Yan </b>
+
+[contactinfo][address]4533, Newell Simon Hall
+Carnegie Mellon Univ, Pittsburgh, PA, 15213[/address]
+Office: [phone](412)-268-9515[/phone]
+Office II: [phone](412)-268-7003[/phone]
+<b>E-mail address: </b>[email]yanrong at CS dot CMU dot EDU[/email][/contactinfo]
+
+[pic]<IMAGE src="myself.JPG" alt=""/>[/pic]
+
+[introduction]I have got my [phddegree]PhD degree[/phddegree] of [phdmajor]Language and Information Technologies[/phdmajor] from Language Technologies Institute, School of Computer Science of [phduniv]Carnegie Mellon University[/phduniv] in [phddate]Oct. 2006[/phddate].
+I am now with [affiliation]IBM TJ Watson Research center[/affiliation] as a [position]research staff member[/position][/introduction].
+My dissertation information: abstract (.txt), summary (.ps, .pdf), full thesis (.ps, .pdf)
+
+  * Personal Info
+
+  * CV
+
+  * Publications
+
+  * Research
+
+  * Pictures
+
+  * Links
+
+<b>Personal Info:</b>
+
+  * [introduction]I completed my [phddegree]Ph.D. degree[/phddegree] in [phdmajor]Language Technologies[/phdmajor] Institute, School of [phdmajor]Computer Science[/phdmajor] of [phduniv]Carnegie Mellon University[/phduniv] in [phddate]2006[/phddate]
+    Research interests: (multimedia) information retrieval, data mining, machine learning, video content analysis and computer vision / surveillance
+    Affiliation: [affiliation]Language Technologies Institute, Informedia / CareMedia project[/affiliation]
+    Advisor: Alex G. Hauptmann
+
+  * I completed [bsdegree]B.S. degree[/bsdegree] in [bsmajor]Computer Science[/bsmajor] Department from [bsuniv]Tsinghua University[/bsuniv] in [bsdate]July 2001[/bsdate]
+
+  * Non-research interest: Basketball, Badminton, Swimming, Go, Pool, Soccer, Reading, Movies, Travel[/introduction]
+
+<b>What’s New:</b>
+
+?Updates on the MATLAB classification package, MATLABArsenal
+
+<IMAGE src="index_files/image002.jpg" alt=""/><IMAGE src="http://banners.wunderground.com/banner/bigtemp_both/language/www/US/PA/Pittsburgh.gif" alt="Click for Pittsburgh, Pennsylvania Forecast"/>
+
+(Dear Girlfriend: Yan)
+
+(High School Friends: Zheng Wang, Di Yu, Jiajun Chen and more w/o homepages)
+
+(College Friends: Wen Wu Xiaoliang Wei Ke Xu Chang Liu Zhong Xiu Song Gang and more w/o homepages)
+
+(CMU Friends : Jiazhi Ou Jun Yang Jian Zhang Joy Jie Lu and more w/o homepages)
+
+Last modified: April 30, 2006<IMAGE src="http://c15.statcounter.com/counter.php?sc_project=1592937&java=0&security=c06cd81a&invisible=0" alt="free stats"/>

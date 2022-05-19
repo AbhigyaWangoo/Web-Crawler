@@ -1,0 +1,58 @@
+Rachel Pottinger[pic]<IMAGE src="rachel02.JPG" alt=""/>[/pic]
+
+[introduction]I'm an [position]Assistant Professor[/position] at the [affiliation]University of British Columbia[/affiliation] (in Vancouver) where I am affilated with the [affiliation]Data Management and Mining group[/affiliation]. I finished my [phddegree]PhD[/phddegree] in the [phdmajor]database[/phdmajor] group in the [phdmajor]Computer Science and Engineering[/phdmajor] Department at the [phduniv]University of Washington[/phduniv][/introduction].
+
+
+[resinterests]Research My research centers on (1) [interests]how data can be managed in situations where there are multiple databases[/interests] and (2) [interests]how to manage data that is currently not well supported by databases[/interests]. To that end, my students and I are currently exploring a number of topics, including managing data used in disaster response coordination, managing data in peer-to-peer networks, helping people who are building buildings to better manage their data, schema evolution, and managing metadata (i.e., data about data). Information about some of these topics can be found by looking at my publications.[/resinterests]
+
+
+Students
+
+
+Current
+
+  * Michael DiBernardo (MSc)
+
+  * Andrew Carbonetto (MSc) (co-advised with Francis Ouellette)
+
+  * Michael Lawrence (PhD)
+
+  * Shuan Wang (MSc) (co-advised with Laks Lakshmanan)
+
+  * Jian Xu (PhD)
+
+
+Alumni
+
+  * Xun Sun (MSc) (Employed at Microsoft)
+
+  * Ting Wang (MSc) (PhD student at Georgia Tech)
+
+  * Jie Zhao (MSc) (Employed at Barclays Capital (Singapore))
+
+
+Teaching
+
+  * CPSC 304: Introduction to Relational Databases - Winter Session 2006 Term 2
+
+  * CPSC 504: Data Management - Winter Session 2006 Term 1
+
+  * CPSC 504: Data Management - Winter Session 2005 Term 2
+
+  * CPSC 304: Introduction to Relational Databases - Winter Session 2005 Term 1
+
+  * CPSC 534A: Topics in Data Management (Metadata Management) - Winter Session 2004 Term 2
+
+On the personal side of life, I'm married to Steve Wolfman and enjoy the attentions of our cat NMI. You can also find a bit about my personal history, or see my CV.
+
+Rachel Pottinger
+<b>[contactinfo]E-mail Address:</b> [email]<IMAGE src="/~rap/address.jpg" alt="rap [at] cs [dot] ubc [dot] ca"/>[/email]
+<b>Office Location:</b> [address]ICICS/CS 345[/address]
+<b>Phone:</b> [phone](604)822-0436[/phone]
+<b>Fax:</b>[fax](604)822-5485[/fax]
+<b>Postal/Courier address:</b>
+[address]The Department of Computer Science
+University of British Columbia
+201-2366 Main Mall
+Vancouver, B.C. V6T 1Z4
+Canada[/address][/contactinfo]

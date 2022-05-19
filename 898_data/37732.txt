@@ -1,0 +1,22 @@
+Carl Lagoze
+
+[contactinfo][affiliation]Cornell Information Science[/affiliation]
+[address]301 College Avenue
+Ithaca, NY 14850 USA[/address]
+voice: [phone]+1-607-255-6046[/phone]
+FAX: [fax]+1-607-255-5196[/fax]
+[email]lagoze@cs.cornell.edu[/email][/contactinfo]
+
+Professional
+
+Research
+
+Teaching
+
+Personal
+
+[pic]<IMAGE src="images/lagoze.jpg" alt="Picture of Carl Lagoze"/>[/pic]
+
+[introduction]I am a [position]senior researcher[/position] in the [affiliation]Information Science Program at Cornell University[/affiliation]. My research and teaching focuses on [interests]information on the web[/interests]. My best-known work has been interoperability in [interests]networked information systems[/interests], in particular in [interests]digital libraries[/interests]. However, I am also interested in [interests]phenomena above the "plumbing" layer[/interests]. This includes [interests]investigating the intersection of bibliographic activity and social activity[/interests], as these two increasingly intersect in web space. One context in which this intersection is particularly interesting is scholarly communication, and my current work investigates the coincidence of "data-driven scholarship" and networked knowledge communities.
+
+I believe that web information should be viewed as both evolutionary and revolutionary. My teaching and research examines the strong connections between web information and traditional libraries, as well as attempting to understand the radical departure from tradition that digital information represents. I believe that the best route to understanding the impact of web information is inter-disciplinary, mixing computer science, social science, law and policy, and economics. I have the privilege of working with colleagues at Cornell and beyond who expand my thinking beyond my technical roots[/introduction]..

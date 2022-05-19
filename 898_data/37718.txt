@@ -1,0 +1,155 @@
+David Heckerman
+
+[pic]<IMAGE src="heckerma.jpg" alt=""/>[/pic]
+
+[contactinfo][position]Manager[/position], [affiliation]Machine Learning and Applied Statistics (MLAS) Group, Microsoft Research[/affiliation]
+
+<b>E-mail:</b> [email]heckerma@microsoft.com[/email]
+<b>Mail:</b> [address]One Microsoft Way, Redmond WA 98052-6399, USA[/address][/contactinfo]
+
+
+Research Activities
+
+I am interested in learning from data. The models and methods I use are inspired by work in the fields of statistics and data analysis, machine learning, probability theory, decision theory, decision analysis, and artificial intelligence. My recent work has concentrated on using graphical models for data analysis and visualization as well as methods for learning such models from data.
+
+
+[publication]Tutorials on Graphical Models
+
+  * D. Heckerman. A Tutorial on Learning with Bayesian Networks. In Learning in Graphical Models, M. Jordan, ed.. MIT Press, Cambridge, MA, 1999. Also appears as Technical Report MSR-TR-95-06, Microsoft Research, March, 1995. An earlier version appears as Bayesian Networks for Data Mining, Data Mining and Knowledge Discovery, 1:79-119, 1997.
+
+  * Tutorial and applications overview for data miner â€?slides from KDD 2004
+
+  * Technical overview for statistician â€?slides from Valencia 2002 tutorial
+
+  * Technical overview for machine-learning researcher â€?slides from UAI 1999 tutorial
+
+  * Applications overview â€?slides from IJCAI 1999 invited talk
+
+
+Papers Online
+
+  * P. Kiepiela, K. Ngumbela, C. Thobakgale, D. Ramduth, I. Honeyborne, E. Moodley, S. Reddy, C. de Pierres, Z. Mncube, N. Mkhwanazi, K. Bishop, M. van der Stok, K. Nair, N. Khan, H. Crawford, R. Payne, A. Leslie, J. Prado, A. Prendergast, J. Frater, N. McCarthy, C. Brander, G. Learn, D. Nickle, C. Rousseau, H. Coovadia, J. Mullins, D. Heckerman, B. Walker, and P. Goulder. CD8+ T-cell responses to different HIV proteins have discordant associations with viral load, Nature Medicine, December 17 2006.
+
+  * F. Bach, D. Heckerman, E. Horvitz, Considering cost asymmetry in learning classifiers, Journal of Machine Learning Research, 7, 1713-1741, 2006.
+
+  * D. Heckerman, C. Kadie, and J. Listgarten. Leveraging Information Across HLA Alleles/Supertypes Improves Epitope Prediction. RECOMB 2006. Also appears as MSR-TR-05-127, Microsoft Research, September, 2005.
+
+  * N. Jojic, V. Jojic, B. Frey, C. Meek, and D. Heckerman. Using epitomes to model genetic diversity: Rational design of HIV vaccine cocktails. NIPS 2005.
+
+  * J. Goodman, D. Heckerman, and R. Rounthwaite. Stopping Spam. Scientific American, April, 2005.
+
+  * G. Shani, D. Heckerman, and R. Brafman. An MDP-based recommender system. Journal of Machine Learning Research 6: 1265-1295, 2005.
+
+  * F. Bach, D. Heckerman, and E. Horvitz, On the Path to an Ideal ROC Curve: Considering Cost Asymmetry in Learning Classifiers. In Proceedings of the Tenth International Workshop on Artificial Intelligence and Statistics, Barbados, January 2005. Also appears as Technical Report MSR-TR-04-124, Microsoft Research, November, 2004.
+
+  * D. Chickering, D. Heckerman, and C. Meek, Large-Sample Learning of Bayesian Networks is NP-Hard. Journal of Machine Learning Research. 5: 1287-1330, 2004.
+
+  * D. Heckerman, C. Meek, and T. Richardson, Variations on Undirected Graphical Models and their Relationships. Technical Report MSR-TR-2004-95, Microsoft Research, September, 2004.
+
+  * V. Jojic, N. Jojic, C. Meek, D. Geiger, A. Siepel, D. Haussler, and D. Heckerman: Efficient approximations for learning phylogenetic HMM models from data. ISMB/ECCB (Supplement of Bioinformatics) 161-168, 2004. Also appears as Technical Report MSR-TR-2003-62, Microsoft Research, October, 2003.
+
+  * N. Jojic, V. Jojic, and D. Heckerman, Joint discovery of haplotype blocks and complex trait associations from SNP sequences. In Proceedings of Twentieth Conference on Uncertainty in Artificial Intelligence, Banff, Canada, UAI Press, July 2004.
+
+  * B. Thiesson, D. Chickering, D. Heckerman, and C. Meek, ARMA Time-Series Modeling with Graphical Models. In Proceedings of Twentieth Conference on Uncertainty in Artificial Intelligence, Banff, Canada, UAI Press, July 2004. Also appears as Technical Report MSR-TR-04-86, Microsoft Research, July, 2004.
+
+  * D. Heckerman, C. Meek, and D. Koller, Probabilistic Models for Relational Data. Technical Report MSR-TR-2004-30, Microsoft Research, March, 2004.
+
+  * D. Chickering and D Heckerman. Targeted Advertising with Inventory Management. Interfaces, 33:71-77, 2003. Also appears as Technical Report MSR-TR-00-49, Microsoft Research, August, 2000.
+
+  * I. Cadez, D. Heckerman, C. Meek, P. Smyth, and S. White, Visualization of Navigation Patterns on a Web Site Using Model Based Clustering, Data Mining and Knowledge Discovery, 7:399-424, 2003. Also appears as Technical Report MSR-TR-00-18, Microsoft Research, March, 2000.
+
+  * G. Hulten, D.M. Chickering, D. Heckerman (2003). Learning Bayesian Networks from Dependency Networks: A Preliminary Study. In Proceedings of the Ninth International Workshop on Artificial Intelligence and Statistics, Key West, FL.
+
+  * C. Meek, B. Thiesson, and D. Heckerman, Staged Mixture Modeling and Boosting. In Proceedings of Eighteenth Conference on Uncertainty in Artificial Intelligence, Edmonton, Alberta, Morgan Kaufmann, August 2002. Also appears as Technical Report MSR-TR-02-45, Microsoft Research, February, 2001.
+
+  * C. Kadie, C. Meek, and D. Heckerman. CFW: A collaborative filtering system using posteriors over weights of evidence. In Proceedings of Eighteenth Conference on Uncertainty in Artificial Intelligence, Edmonton, Alberta, Morgan Kaufmann, August 2002. Also appears as Technical Report MSR-TR-02-46, Microsoft Research, February, 2001.
+
+  * C. Meek, D. Chickering and D. Heckerman. Autoregressive tree models for time-series analysis. In Proceedings of the Second International SIAM Conference on Data Mining, Arlington, VA, SIAM, April, 2002.
+
+  * C. Meek, B. Thiesson, and D. Heckerman. The Learning-Curve Sampling Method Applied to Model-Based Clustering. Journal of Machine Learning Research, 2:397-418, 2001. Also appears as Technical Report MSR-TR-01-34, Microsoft Research, February, 2001.
+
+  * N. Jojic, P. Simard, B. J. Frey and D. Heckerman. Learning mixtures of smooth, nonuniform deformation models for probabilistic image matching. In Proceedings of Eighth International Workshop on Artificial Intelligence and Statistics, Key West, FL, Morgan Kaufmann, January 2001.
+
+  * D. Chickering and D. Heckerman. A Decision-Theoretic Approach to Targeted Advertising. In Proceedings of Sixteenth Conference on Uncertainty in Artificial Intelligence, Stanford, CA, Morgan Kaufmann, July 2000. Also appears as Technical Report MSR-TR-00-17, Microsoft Research, February, 2000.
+
+  * D. Heckerman, D. Chickering, C. Meek, R. Rounthwaite, C. Kadie. Dependency Networks for Density Estimation, Collaborative Filtering, and Data Visualization. Journal of Machine Learning Research. 1:49-75, 2000. Also appears as Technical Report MSR-TR-00-16, Microsoft Research, February, 2000.
+
+  * D. Chickering and D. Heckerman. Fast Learning from Sparse Data. In Proceedings of Fifteenth Conference on Uncertainty in Artificial Intelligence, Stockholm, Sweden, Morgan Kaufmann, August 1999. Also appears as Technical Report MSR-TR-00-15, Microsoft Research, February, 1999 (Revised May, 1999).
+
+  * B. Thiesson, C. Meek, and D. Heckerman. Accelerating EM for Large Databases. Machine Learning, 45:279-299, 2001. Also appears as Technical Report MSR-TR-99-31, Microsoft Research, May, 1999 (Revised February, 2001).
+
+  * D. Geiger and D. Heckerman. Parameter Priors for Directed Acyclic Graphical Models and the Characterization of Several Probability Distributions. The Annals of Statistics, 30: 1412-1440, 2002. Also appears as Technical Report MSR-TR-98-67, Microsoft Research, December, 1998 (Revised January, 2002).
+
+  * D. Geiger, D. Heckerman, H. King, C. Meek. Stratified Exponential Families: Graphical Models and Model Selection. The Annals of Statistics, 29:505-529, 2001. Also appears as Technical Report MSR-TR-98-31, Microsoft Research, July, 1998.
+
+  * S. T. Dumais, J. Platt, D. Heckerman and M. Sahami. Inductive Learning Algorithms and Representations for Text Categorization. (Word file). Proceedings of ACM-CIKM98, November, 1998.
+
+  * M. Sahami, S. Dumais, D. Heckerman, and E. Horvitz. A Bayesian Approach to Filtering Junk E-mail. AAAI'98 Workshop on Learning for Text Categorization, July 27, 1998, Madison, Wisconsin.
+
+  * D. Heckerman and E. Horvitz. Inferring Informational Goals from Free-Text Queries. In Proceedings of Fourteenth Conference on Uncertainty in Artificial Intelligence, Madison, WI, Morgan Kaufmann, July 1998.
+
+  * E. Horvitz, J. Breese, D. Heckerman, D. Hovel, and K. Rommelse. The Lumiere Project: Bayesian User Modeling for Inferring the Goals and Needs of Software Users. In Proceedings of Fourteenth Conference on Uncertainty in Artificial Intelligence, Madison, WI, Morgan Kaufmann, July 1998.
+
+  * J. Breese, D. Heckerman, C. Kadie Empirical Analysis of Predictive Algorithms for Collaborative Filtering. In Proceedings of Fourteenth Conference on Uncertainty in Artificial Intelligence, Madison, WI, Morgan Kaufmann, July 1998. Also appears as Technical Report MSR-TR-98-12, Microsoft Research, May, 1998 (revised October, 1998).
+
+  * M. Meila and D. Heckerman An Experimental Comparison of Several Clustering and Initialization Methods. Machine Learning. 42:9-29, 2001. Also appears as Technical Report MSR-TR-98-06, Microsoft Research, February, 1998.
+
+  * B. Thiesson, C. Meek, D. Chickering, D. Heckerman. Computationally Efficient Methods for Selecting Among Mixtures of Graphical Models. In J. M. Bernardo, J. O. Berger, A. P. Dawid, and A. F. M. Smith, editors, Bayesian Statistics 6, pages 631-656, Oxford University Press, Oxford, 1999. Also appears as Technical Report MSR-TR-97-30, Microsoft Research, December, 1997.
+
+  * D. Heckerman and C. Meek. Models and Selection Criteria for Regression and Classification. In Proceedings of Thirteenth Conference on Uncertainty in Artificial Intelligence, Providence, RI, pages 223-228. Morgan Kaufmann, August 1997. Also appears as Technical Report MSR-TR-97-08, Microsoft Research, May, 1997.
+
+  * D. Chickering, D. Heckerman, C. Meek. A Bayesian Approach to Learning Bayesian Networks with Local Structure. In Proceedings of Thirteenth Conference on Uncertainty in Artificial Intelligence, Providence, RI, pages 80-89. Morgan Kaufmann, August 1997. Also appears as Technical Report MSR-TR-97-07, Microsoft Research, August, 1997.
+
+  * C. Meek and D. Heckerman. Structure and parameter learning for causal independence and causal interaction models. In Proceedings of Thirteenth Conference on Uncertainty in Artificial Intelligence, Providence, RI, pages 366-375. Morgan Kaufmann, August 1997.
+
+  * D. Heckerman and C. Meek Embedded Bayesian Network Classifiers Technical Report MSR-TR-97-06, Microsoft Research, March, 1997.
+
+  * D. Heckerman, C. Meek, and G. Cooper A Bayesian Approach to Causal Discovery. In C. Glymour and G. Cooper, editors, Computation, Causation, and Discovery, pages 141-165. MIT Press, Cambridge, MA, 1999. Also appears as Technical Report MSR-TR-97-05, Microsoft Research, February, 1997.
+
+  * D. Heckerman and D. Chickering. A Comparison of Scientific and Engineering Criteria for Bayesian Model Selection. Statistics and Computing, 10:55-62, 2000. Also appears as Technical Report MSR-TR-96-12, Microsoft Research, June, 1996 (revised November, 1996).
+
+  * D. Chickering and D. Heckerman. Efficient Approximations for the Marginal Likelihood of Bayesian Networks With Hidden Variables. Machine Learning, 29:181-212, 1997. Also appears as Technical Report MSR-TR-96-08, Microsoft Research, March, 1996 (revised April, 1997).
+
+  * D. Geiger, D. Heckerman, and C. Meek. Asymptotic Model Selection for Directed Networks with Hidden Variables. In Proceedings of Twelfth Conference on Uncertainty in Artificial Intelligence, Portland, OR, pages 283-290. Morgan Kaufmann, August 1996. Also appears as Technical Report MSR-TR-96-07, Microsoft Research, May, 1996.
+
+  * J. Breese and D. Heckerman. Topics in Decision-Theoretic Troubleshooting: Repair and Experiment. In Proceedings of Twelfth Conference on Uncertainty in Artificial Intelligence, Portland, OR, pages 124-132. Morgan Kaufmann, August 1996. Also appears as Technical Report MSR-TR-96-06, Microsoft Research, March, 1996.
+
+  * P. Smyth, D. Heckerman, M. Jordan. Probabilistic Independence Networks for Hidden Markov Probability Models. Neural Computation, 9:227-269, 1997. Also appears as Technical Report MSR-TR-96-03, Microsoft Research, January, 1996 (revised June, 1996).
+
+  * D. Geiger, D. Heckerman. A Characterization of the Bivariate Normal-Wishart Distribution. Technical Report MSR-TR-95-53, Microsoft Research, November, 1995.
+
+  * D. Heckerman. A Bayesian approach to learning causal networks. In Proceedings of Eleventh Conference on Uncertainty in Artificial Intelligence, Montreal, Quebec, pages 285-295. Morgan Kaufmann, August 1995. Also appears as Technical Report MSR-TR-95-04, Microsoft Research, March, 1995.
+
+  * J. Breese and D. Heckerman. Decision-theoretic case-based reasoning. IEEE Transactions on Systems, Man, and Cybernetics, 26:838-842, 1996. Also appears as MSR-TR-95-03, Microsoft Research, November, 1994 (revised August, 1995).
+
+  * D. Geiger, D. Heckerman. A Characterization of the Dirichlet Distribution Through Global and Local Independence. The Annals of Statistics, 25:1344-1369, 1997. Also appears as Technical Report MSR-TR-94-16, Microsoft Research, November, 1994 (revised February, 1994).
+
+  * D. Geiger and D. Heckerman. Beyond Bayesian networks: Similarity networks and Bayesian multinets. Artificial Intelligence, 82:45-74, 1996.
+
+  * D. Heckerman, R. Shachter. Decision-Theoretic Foundations for Causal Reasoning. Journal of Artificial Intelligence Research, 3:405-430, 1995. Also appears a Technical Report MSR-TR-94-11, Microsoft Research, March, 1994 (revised December, 1995).
+
+  * D. Heckerman, D. Geiger, D. Chickering. Learning Bayesian networks: The Combination of Knowledge and Statistical Data. Machine Learning, 20:197-243, 1995. Also appears as Technical Report MSR-TR-94-09, Microsoft Research, March, 1994 (revised December, 1994).
+
+  * D. Chickering, D. Geiger, and D. Heckerman. On finding a cycle basis with a shortest maximal cycle. Information Processing Letters, 54:55-58, 1995.
+
+  * D. Heckerman, J. Breese. Causal Independence for Probability Assessment and Inference Using Bayesian Networks. IEEE Transactions on Systems, Man, and Cybernetics, 26:826-831, 1996. Also appears as Technical Report MSR-TR-94-08, Microsoft Research, March, 1994 (revised October, 1995).
+
+  * D. Heckerman, J. Breese, K. Rommelse. Decision-theoretic troubleshooting. CACM, 38:49-57, 1995.
+
+  * D. Heckerman, J. Breese, K. Rommelse. Troubleshooting under uncertainty. Technical Report MSR-TR-94-07, Microsoft Research, January, 1994 (revised September, 1994).
+
+  * D. Heckerman. A tractable inference algorithm for diagnosing multiple diseases. In Proceedings of Fifth Conference on Uncertainty in Artificial Intelligence, Windsor, Ontario, pages 163-171. Elsevier, 1990. Also appears as Technical Report KSL-89-36, Knowledge Systems Laboratory, April, 1989.
+
+For online abstracts of other papers click here.
+
+
+Talks Online
+
+  * Data Mining at Microsoft, Interface, Irvine, CA, June, 2001.[/publication]
+
+
+Conference Links
+
+  * First Conference on Email and Anti-Spam.
+
+<b>Last Updated: </b>4/7/2006

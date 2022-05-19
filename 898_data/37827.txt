@@ -1,0 +1,84 @@
+Frederick Jelinek[pic]<IMAGE src="images/Fred.jpg" alt=""/>[/pic]
+
+
+[contactinfo][position]Julian Sinclair Smith Professor[/position], [affiliation]Department of Electrical and Computer Engineering[/affiliation]
+
+
+[position]Director[/position], [affiliation]Center for Language and Speech Processing[/affiliation]
+
+
+Contact Information:
+
+[email]jelinek@jhu.edu[/email]
+[address]320 Barton Hall
+3400 N. Charles Street
+Baltimore, MD, 21218[/address]
+Phone: [phone]410-516-7730[/phone]
+FAX: [fax]410-516-5050[/fax][/contactinfo]
+
+Curriculum Vitae
+
+
+[education]Education
+
+Ph.D. [phdmajor]Electrical Engineering[/phdmajor]
+      [phduniv]Massachusetts Institute of Technology[/phduniv] [phddate]1962[/phddate]
+
+
+S.M. [msmajor]Electrical Engineering[/msmajor]
+      [msuniv]Massachusetts Institute of Technology[/msuniv] [msdate]1958[/msdate]
+
+
+S.B. [bsmajor]Electrical Engineering[/bsmajor]
+      [bsuniv]Massachusetts Institute of Technology[/bsuniv] [bsdate]1956[/bsdate][/education]
+
+
+Awards
+
+Dr. Jelinek has recently been elected to the National Academy of Engineering (NAE). The formal induction ceremony will take place in October 2006. He is being recognized for his contributions to statistical language processing with applications to automatic speech recognition.
+
+In November 2001, Dr. Jelinek was awarded an Honorary Doctorate of Mathematical Physical Disciplines awarded by the Academic Senate of Charles University of Prague. Click here to read the text of the citation (scroll to the bottom for the English translation). Click here to read his acceptance speech.
+
+
+Research
+
+[resinterests]He is interested in [interests]Speech Recognition[/interests], [interests]statistical methods of natural language processing[/interests], and [interests]information theory[/interests].[/resinterests]
+
+[introduction]Prof. Jelinek's past work includes fundamental contributions to information theory and coding. From 1972 to 1993 he headed the large Continuous Speech Recognition group of the IBM T.J. Watson Research Center. There he pioneered with his colleagues the statistical methods that are the basis of current state-of-the art speech recognizers. Prof. Jelinek's special interest is language modeling, that is, the prediction of future words given preceding text or speech. He is also interested in novel methods of automatic parsing, of text understanding, and of machine translation.
+
+Dr. Jelinek was an Instructor at MIT (1959-1962), a Visiting Lecturer at Harvard University (1962), and a Professor of Electrical Engineering at Cornell University (1962-1974). He is a fellow of the IEEE, was the President of the IEEE Group on Information Theory in 1977, was the recipient of the 1971 Information Theory Group Prize Paper Award, and was recognized in 1981 as one of the top 100 innovators by Technology magazine. From the many awards Dr. Jelinek has received we mention two. In May of 1998 he was the recipient of the IEEE Signal Processing Society's "Society Award" for leadership and technical contributions to the field. In August of 1998, Dr. Jelinek received the IEEE Information Theory Society Golden Jubilee Paper Award for a paper titled "Optimal Decoding of Linear Codes for Minimizing Symbol Error Rate," (See reference below).  The award is given for articles published in IEEE Transactions on Information Theory whose impact on the field of Information Theory is widely recognized.  Finally, Dr. Jelinek is the author of two books, Probabilistic Information Theory and the recently published Statistical Methods for Speech Recognition In 2006 Dr. Jelinek was elected to the National Society of Engineering.[/introduction]
+
+
+[publication]Selected Publications ]F. Jelinek and A. Emami. “A Neural Syntactic Language Model? Machine Learning, Vol. 60, Nos. 1-3, (September 2005): 195-227.
+
+F. Jelinek. “Stochastic Analysis of Structured Language Modeling,?Mathematical Foundations of Speech and Language Processing, edited by M. Johnson, S. Khudanpur, M. Ostendorf and R. Rosenfeld. (New York: Springer-Verlag, 2004), 37-72.
+
+F. Jelinek and C. Chelba. "Structured Language Modeling for Speech Recognition," Computer, Speech & Language, Vol. 14, No. 4, (October 2000), 283-332.
+
+F. Jelinek and G. Potamianos. "A Study of n-gram and Decision Tree Letter Language Models," Speech Communication, Vol. 24, No. 3, (Elsevier, Holland, June 1998), 171-192.
+
+F. Jelinek. “Five speculations (and a divertimento) on the themes of H. Bourlard, H. Hermansky, and N. Morgan,?Speech Communication, edited by Christel Sorin. (Amsterdam: Elsevier Science B.V., 1996), 242-246.
+
+F. Jelinek. “Direct Parsing of Text,?Image Models (and their Speech Model Cousins), edited by S. E. Levinson and L. Shepp. (New York: Springer-Verlag, 1996), 91-105.
+
+F. Jelinek. “Two New Approaches to Language Modeling,?Speech Recognition & Coding, edited by A.J. Rubio Ayuso and J.M Lopez Soler (Berlin: Springer-Verlag, 1995), 226-239.
+
+F. Jelinek. "Training and Search Methods for Speech Recognition," National Academy of Sciences Colloquium on Human-Machine Communication By Voice, edited by David B. Roe and J.G. Wilpon (National Academy of Sciences Press, 1994).
+
+F. Jelinek, R.L. Mercer and S. Roukos. "Principles of Lexical Language Modeling for Speech Recognition." Advances in Speech Signal Processing, S. Furui and J. Sondhi, Eds. M. Dekker Publishers, New York, NY 1991. Pp.651-700
+
+F. Jelinek and J.D. Lafferty. "Computation of the Probability of Initial Substring Generation by Stochastic Context Free Grammars." Computational Linguistics 17:3(1991): 315-323.
+
+P.F. Brown, J. Cocke, S. Della Pietra, V. Della Pietra, F. Jelinek, J. Lafferty, R.L. Mercer, P. Roossin. "A Statistical Approach to Machine Translation." Computational Linguistics 16:2(1990): 79-85
+
+F. Jelinek. "The Development of an Experimental Discrete Dictation Recognizer." Proceedings IEEE, 73:11 (1985) pp1616-1624, Nov. 1985; and Readings in Speech Recognition, A. Waibel, K.F. Lee, Eds., Morgan Kaufmann Publishers, San Mateo, CA (1990): 587-595
+
+L.R. Bahl, F. Jelinek andf R.L. Mercer. "A Maximum Likelihood Approach to Continuous Speech Recognition." IEEE Journal of Pattern Analysis and Machine Intelligence (1983); and Readings in Speech Recognition, A. Waibel, K.F. Lee, Eds. Morgan Kaufmann Publishers, San Mateo, CA 1990. pp308- 319
+
+L.R. Bahl, J. Cocke, F. Jelinek, J. Raviv. "Optimal Decoding of Linear Codes for Minimizing Symbol Error Rate." IEEE Transactions on Information Theory, IT-20, pp. 284-287, March 1974.
+
+F. Jelinek. "Continuous Speech Recognition by Statisical Methods." IEEE Proceedings 64:4(1976): 532-556.
+
+F. Jelinek. "Tree Encoding of Memoryless Time-Discrete Sources with Fidelity Criterion." IEEE Transactions on Information Theory IT-15:5(1969) pp584-590; and Key Papers in the Development of Information Theory, D. Slepian, Ed., IEEE Press, New York, NY 1974.
+
+F. Jelinek. "An Upper Bound on Moments of Sequential Decoding Effort." IEEE Transactions on Information Theory IT-15:1 (1969)[/publication].

@@ -1,0 +1,40 @@
+[contactinfo][pic]<IMAGE src="usa.jpg" alt=""/>[/pic]Usa Sammapun
+6th year [position]PhD candidate[/position] (expected graduation: Jan 2007)
+Advisors: Insup Lee, Oleg Sokolsky
+
+[email]usa at cis dot upenn dot edu[/email]
+[address]Levine 614[/address]
+[affiliation]Department of Computer & Information Science
+University of Pennsylvania[/affiliation]
+Philadelphia, PA 19104 USA[/contactinfo]
+<b>Curriculum Vitae</b>
+
+[resinterests]Interests
+
+  [interests]Dynamic and static program analysis for software verification[/interests], [interests]optimization[/interests], and [interests]security purposes[/interests], [interests]software engineering[/interests], [interests]formal methods[/interests], [interests]real-time and embedded systems[/interests][/resinterests].
+
+[publication]Publications
+
+  * "Checking Correctness At Runtime using Real-Time Java", Usa Sammapun, Insup Lee and Oleg Sokolsky, Proceedings of the 3rd Workshop on Java Technologies for Real-time and Embedded Systems, San Diego, CA, October 17, 2005
+
+  * "RT-MaC: Runtime Monitoring and Checking of Quantitative and Probabilistic Properties", Usa Sammapun, Insup Lee and Oleg Sokolsky, Proceedings of the 11th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA'05), Hong Kong, August 17-19, 2005 (Modified July 2006)
+
+  * "Run-Time Checking of Dynamic Properties", Oleg Sokolsky, Usa Sammapun, Insup Lee and Jesung Kim, Proceeding of the 5th International Workshop on Runtime Verification (RV'05), Edinburgh, Scotland, UK, July 12, 2005
+
+  * "Simulation of Simultaneous Events in Regular Expressions for Runtime Verification", Usa Sammapun, Arvind Easwaran, Insup Lee, Oleg Sokolsky, Proceeding of the 4th International Workshop on Runtime Verification (RV'04), Barcelona, Spain, April 3, 2004; Electronic Notes in Theoretical Computer Science, vol. 113, Elsevier, 2005.
+
+  * "Is Runtime Verification Applicable to Cheat Detection?", Margaret DeLap, Björn Knutsson, Honghui Lu, Oleg Sokolsky, Usa Sammapun, Insup Lee, Christos Tsarouchis, Proceedings of ACM SIGCOMM 2004 Workshops on Network and System Support for Games (NetGames'04), 2004
+
+  * "Regular Expressions for Run-Time Verification", Usa Sammapun, Oleg Sokolsky, Proceedings of the 1st International Workshop on Automated Technology for Verification and Analysis (ATVA'03), Taipei, Taiwan, December 10-12, 2003
+
+  * "Formalizing Java-MaC", Usa Sammapun, Raman Sharykin, Margaret DeLap, Myong Kim, and Steve Zdancewic, Proceedings of the 3rd International Workshop on Runtime Verification (RV'03). Boulder, Colorado, July 13, 2003; Electronic Notes in Theoretical Computer Science, vol. 89, No. 2, Elsevier, 2003.
+
+  * "Monitoring, Checking, and Steering of Real-Time Systems", Moonjoo Kim, Insup Lee, Usa Sammapun, Jangwoo Shin, Oleg Sokolsky, Proceedings of the 2nd International Workshop on Runtime Verification (RV'02). Copenhagen, Denmark, July 26, 2002; Electronic Notes in Theoretical Computer Science, vol. 70, No. 4, Elsevier, 2002.[/publication]
+
+Teaching Experience
+
+  * CSE 380: Operating Systems (Fall 2002) Served as a teaching assistant for an undergraduate course on the introduction to operating systems. Held office hours and graded assignments and exams.
+
+  * CSE 401: Senior Design Projects (Spring 2003) Organized the first poster day for the Computer Science and Engineering Department by coordinating 40+ undergraduate senior design projects, assigning six judges, and arranging five awards. Other duties included scheduling students' presentations throughout the semester.
+
+  * CSE 372: Digital System Organization and Design Lab (Spring 2001) Advised students on designing and implementing circuits using Xilinx and FPGAs to construct an ALU and other CPU components culminating in a complete 16-bit integer pipelined CPU.

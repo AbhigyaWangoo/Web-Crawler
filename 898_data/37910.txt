@@ -1,0 +1,51 @@
+<IMAGE src="/images/stations/smallbw/PBS.gif" alt="Visit Your Local PBS Station"/> <IMAGE src="http://www.pbs.org/images/nav/global/globalnav_pbslogo.gif" alt="PBS Home"/> <IMAGE src="http://www.pbs.org/images/common/blank.gif" alt=""/> <IMAGE src="http://www.pbs.org/images/nav/global/globalnav_pbshome.gif" alt="PBS Home"/> <IMAGE src="http://www.pbs.org/images/nav/global/globalnav_divider.gif" alt=""/> <IMAGE src="http://www.pbs.org/images/nav/global/globalnav_programs.gif" alt="Programs A-Z"/> <IMAGE src="http://www.pbs.org/images/nav/global/globalnav_divider.gif" alt=""/> <IMAGE src="http://www.pbs.org/images/nav/global/globalnav_schedules.gif" alt="TV Schedules"/> <IMAGE src="http://www.pbs.org/images/nav/global/globalnav_divider.gif" alt=""/> <IMAGE src="http://www.pbs.org/images/nav/global/globalnav_support.gif" alt="Support PBS"/> <IMAGE src="http://www.pbs.org/images/nav/global/globalnav_divider.gif" alt=""/> <IMAGE src="http://www.pbs.org/images/nav/global/globalnav_shop.gif" alt="Shop PBS"/> <IMAGE src="http://www.pbs.org/images/nav/global/globalnav_divider.gif" alt=""/> <IMAGE src="http://www.pbs.org/images/nav/global/globalnav_searchpbs.gif" alt="Search PBS"/>
+
+<IMAGE src="../../../images/img_site/img_nav/navlogo_new.gif" alt="SAF Archives"/> <IMAGE src="../../../images/img_site/img_sidebar/sd_spacer.gif" alt=" "/> <IMAGE src="../../../images/img_site/img_nav/nv2_search.gif" alt="search"/> <IMAGE src="../../../images/img_site/img_nav/nv3_ask_on.gif" alt="ask the scientists"/> <IMAGE src="../../../images/img_site/img_nav/nv4_class.gif" alt="in the classroom"/> <IMAGE src="../../../images/img_site/img_nav/nv5_cool.gif" alt="cool science"/>
+<IMAGE src="../../../images/img_site/blueline.gif" alt=""/>
+
+<IMAGE src="../../../images/img_site/img_sidebar/sd_spacer.gif" alt=""/>
+
+<IMAGE src="../../../images/img_site/img_sidebar/sd3_ask/sd32_bios_on.gif" alt="scientists from previous shows"/>
+
+<IMAGE src="../../../images/img_site/img_sidebar/sd5_cool/sd53_career.gif" alt="cool careers in science"/>
+
+<IMAGE src="../../../images/img_site/blackpix.gif" alt=""/>
+
+<IMAGE src="../../../images/img_site/img_3pages/hd3_ask.gif" alt="ask the scientists"/>
+
+<IMAGE src="../../../images/img_site/img_3pages/3bar_biolist.gif" alt="PREVIOUS SCIENTISTS"/>
+
+<IMAGE src="../../../images/img_site/20pix.gif" alt=""/>
+
+[pic]<IMAGE src="../../../images/img_3ask/91_cordes.jpg" alt="Photo of Jim Cordes"/>[/pic] <b><font size=3>JIM CORDES</font></b>
+
+[introduction]Jim Cordes earned a [phddegree]Ph.D.[/phddegree] from the [phduniv]University of California[/phduniv] at San Diego and is now [position]Professor[/position] of Astronomy and [position]Director[/position] of Graduate Studies at [affiliation]Cornell University[/affiliation]. His research interests include [interests]radio astronomy[/interests], [interests]neutron stars[/interests], [interests]pulsars[/interests], the [interests]interstellar medium[/interests], [interests]the search for extraterrestrial intelligence[/interests], [interests]signal processing techniques[/interests], [interests]statistical inference[/interests] and [interests]topics in computer science[/interests].
+
+He regularly makes observations using radio telescopes in Arecibo, Puerto Rico, the Very Large Array in New Mexico, the Parkes telescope in Australia, and the Very Long Baseline Array, headquartered in New Mexico. Cordes also makes infrared and optical observations using the Hale Telescope at Palomar and has taken part in joint radio and gamma-ray observations using the Compton Gamma-ray Observatory and expects to make ample use of the X-ray Timing Explorer. Currently he is directing searches for radio pulsars using the upgraded Arecibo Observatory in Puerto Rico and he is analyzing the surveys to study populations of Galactic neutron stars using Bayesian inference techniques.[/introduction]
+
+[publication]<b>Selected Publications:</b>
+
+Cordes, J. M., R. W. Romani, and S. C. Lundgren. "The Guitar Nebula: A Bow Shock from a Slow-Spin, High-Velocity Neutron Star." Nature 362, 133 (1993).
+
+Taylor, J. H., and J. M. Cordes. "Pulsar Distances and the Galactic Distribution of Free Electrons." Ap. J. 411, 674 (1993).
+
+Lazio, T. J. W., and J. M. Cordes. "Pulsars, Planets, and Genetics." Mercury 24, 23, 26 (1995).
+
+A. F. Zepka, J. M. Cordes, I. Wasserman, and S. C. Lundgren. "Discovery of Three Radio Pulsars from an X-ray Selected Sample." Ap. J., in press (1995).
+
+Cordes, J. M., T. J. W. Lazio, and C. Sagan. "Scintillation Induced Intermittency in SETI." Ap. J., submitted (1995).[/publication]
+
+
+See Jim Cordes' answers to Ask the Scientists questions.
+
+Jim is also featured in Cool Careers in Science.
+
+
+
+<IMAGE src="../../../images/img_site/footer.gif" alt=""/>
+
+<font size=1> Scientific American Frontiers
+Fall 1990 to Spring 2000
+Sponsored by GTE Corporation,
+now a part of Verizon Communications Inc.
+<IMAGE src="../../../images/verizon_logo.gif" alt=""/></font>

@@ -1,0 +1,141 @@
+[pic]<IMAGE src="/~mirekk/mirekk.gif" alt=""/>[/pic] Miroslaw Kutylowski
+
+
+<IMAGE src="/~mirekk/krypto/drugiewydanie.JPG" alt=""/>
+
+
+[introduction][position]Professor[/position] of Computer Science at [affiliation]University of Wroclaw[/affiliation][/introduction]
+
+
+Welcome to my home page. It contains:
+
+      <IMAGE src="/pict/greenball.gif" alt="+"/> About me (includes short CV)
+
+      <IMAGE src="/pict/greenball.gif" alt="+"/> Teaching
+
+      <IMAGE src="/pict/greenball.gif" alt="+"/> Research interests
+
+      <IMAGE src="/pict/greenball.gif" alt="+"/> Other duties
+
+      <IMAGE src="/pict/greenball.gif" alt="+"/> List of papers, some papers, teaching materials, electronic textbooks (in German)
+
+      <IMAGE src="/pict/greenball.gif" alt="+"/> Other html pages I'm responsible of
+
+      <IMAGE src="/pict/greenball.gif" alt="+"/> My addresses and telephones
+
+[contactinfo]Send me an e-mail: [email]mirekk@tcs.uni.wroc.pl[/email][/contactinfo]
+
+My home page at Technical University of Wroclaw
+My home page in Paderborn
+My home page in Poznan
+
+
+[introduction]<IMAGE src="/pict/mark.gif" alt=""/> About me Miroslaw Kutylowski, dr hab., born on October 13, 1957 in Wroclaw. Graduated in [bsmajor]mathematics[/bsmajor] in [bsdate]1980[/bsdate], [phddegree]Ph.D.[/phddegree] in [phddate]1985[/phddate], Habilitation in 1992 from University of Wroclaw. I have spent a couple of years in Heinz Nixdorf Institute and Department of Math. and Computer Science University of Paderborn, so see also my homepage there. Currently, I am [position]full professor[/position] in [affiliation]computer science at Mathematical Institute, Technical University of Wroclaw[/affiliation][/introduction]
+
+
+<IMAGE src="/pict/mark.gif" alt=""/> Teaching
+
+  * Courses taught in Wroclaw
+
+  * Courses taught in Paderborn (in the past)
+
+  * Courses taught in Poznan
+
+  * Teaching materials: lecture notes, assignments, ...
+
+
+[resinterests]<IMAGE src="/pict/mark.gif" alt=""/> Research interests
+
+      <IMAGE src="/pict/yellowball.gif" alt="+"/> [interests]Processor networks[/interests]
+
+      <IMAGE src="/pict/yellowball.gif" alt="+"/> [interests]Theory of parallel computations[/interests], PRAMs
+
+      <IMAGE src="/pict/yellowball.gif" alt="+"/> [interests]Communiaction complexity[/interests]
+
+      <IMAGE src="/pict/yellowball.gif" alt="+"/> [interests]Stochastic algorithms[/interests]
+
+      <IMAGE src="/pict/yellowball.gif" alt="+"/> [interests]Computer security[/interests][/resinterests]
+
+
+[resactivity]<IMAGE src="/pict/mark.gif" alt=""/> Other duties
+
+  *  [position]Professor[/position] at [affiliation]Cryptography Laboratory at University of Poznan[/affiliation]
+
+  *  [position]Chairman[/position] of [affiliation]Polish Chapter of SIGACT[/affiliation][/resactivity]
+
+
+<IMAGE src="/pict/mark.gif" alt=""/> Papers For papers available via net connect also to Paderborn.
+
+  *  List of papers:
+
+      *  in HTML format (with some sources available through links)
+
+      *  in BIBTEX format
+
+  * Teaching materials: lecture notes, assignments, ...
+
+
+<IMAGE src="/pict/mark.gif" alt=""/> Other html pages I'm responsible of
+
+      <IMAGE src="/pict/pinkball.gif" alt="+"/> Polish Chapter of SIGACT
+
+      <IMAGE src="/pict/pinkball.gif" alt="+"/> Hints for foreigners visiting Wroclaw
+
+      <IMAGE src="/pict/pinkball.gif" alt="+"/> Special info for visitors of our research group in Wroclaw
+
+      <IMAGE src="/pict/pinkball.gif" alt="+"/> admission exam for computer science studies, Wroclaw University, in 1998, in Polish, on-line test
+
+
+<IMAGE src="/pict/mark.gif" alt=""/> Office hours see here
+
+
+[contactinfo]<IMAGE src="/pict/mark.gif" alt=""/> My addresses
+
+Office in Wroclaw, Technical University,
+      post address:
+      [address]Politechnika Wroc£awska, Instytut Matematyki
+      Wybrze¿e Wyspiañskiego 27
+      PL-50-370 Wroc³aw,
+      Office: building C-11, Janiszewskiego 14,
+      room 215[/address],
+      phone: [phone](+48+71)-3202109[/phone]
+
+Office in [address]Wroclaw, University of Wroclaw
+      Institute of Computer Science
+      University of Wroclaw
+      ul. Przesmyckiego 20
+      PL-51-151 Wroclaw, Poland
+      room 10[/address]
+      phone: [phone](+48+71)-3247324[/phone]
+      (or try [phone](+48+71)-3247344[/phone])
+      fax: [fax](+48+71)-3251271[/fax]
+
+Office in Poznan:
+      [address]Department of Mathematics and Computer Science,
+      University of Poznan
+      ul. Matejki 48/49
+      PL-60-769 Poznan,
+      room 328[/address]
+      phone: [phone](+48+61) ...[/phone]
+      fax: [fax](+48+61) 866 29 92[/fax]
+
+E-mail:
+      [email]mirekk@tcs.uni.wroc.pl[/email] (preferred)
+      [email]mirekk@amu.edu.pl[/email]
+      [email]mirekk@uni-paderborn.de[/email][/contactinfo]
+
+      PGP public key:
+
+      
+      -----BEGIN PGP PUBLIC KEY BLOCK-----
+      Version: 2.3a
+      
+      mQCNAi52+d0AAAEEAOIKlq+dftb2c1ul1pA7QAkymWiFom7QvFMbZKDTNpB90TRm
+      t9yDLyS2s+sQKeHuYcu0m+7BSadUPiKiya4MkQRjdcWks5EPfLwJPPtrPP/3vJCm
+      Os2tCnHqKeR1696AjOSwYm+x4onEx4UrvCj1DyZ9kheLWPKepscbDo/cM6g9AAUR
+      tBdtaXJla2tAdW5pLXBhZGVyYm9ybi5kZQ==
+      =pdqv
+      -----END PGP PUBLIC KEY BLOCK-----
+       
+
+<IMAGE src="/pict/back.gif" alt=""/> Back to the Home Page of the WWW Server

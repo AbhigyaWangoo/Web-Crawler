@@ -1,0 +1,37 @@
+[pic]<IMAGE src="portrait-color-125x175.gif" alt=""/>[/pic] Jun Yang
+[introduction][position]Assistant Professor[/position]
+[affiliation]Computer Science Department
+Duke University[/affiliation][/introduction]
+
+Home Publications Students Teaching Personal
+
+[introduction]I am an [position]Assistant Professor[/position] of Computer Science at [affiliation]Duke University[/affiliation]. My primary research interest lies in the area of database and information systems. I received my [msdegree]M.S.[/msdegree], [phddegree]Ph.D.[/phddegree] from [phduniv]Stanford University[/phduniv] and [bsdegree]B.A.[/bsdegree] from [bsuniv]University of California, Berkeley[/bsuniv]. Here is my curriculum vitae.
+
+I co-direct the [affiliation]Duke Database Research Group[/affiliation], which is part of the Duke Systems and Architecture Group. We also participate in the larger [affiliation]Carolina Database Research Group[/affiliation].
+
+My research has been supported by National Science Foundation, National Institute of Health, Duke University, and IBM. More details about my research projects can be found on my research group page.[/introduction]
+
+[contactinfo]<b>Office:</b>
+
+      [address]D327 Levine Science Research Center
+      Box 90129
+      Duke University
+      Durham, North Carolina 27708-0129[/address]
+      Tel: [phone]919-660-6587[/phone]
+      Fax: [fax]919-660-6519[/fax]
+
+      For visitors, directions to my office can be found here.
+
+
+<b>Homepage:</b>
+
+      [homepage]http://www.cs.duke.edu/~junyang/[/homepage]
+
+
+<b>Email:</b>
+
+      [email]"cs.duke.edu, junyang"[/email]
+
+      To avoid spam, I use "domain, user" to represent the email address "user@domain".[/contactinfo]
+
+Last updated Thu Dec 14 23:56:53 EST 2006

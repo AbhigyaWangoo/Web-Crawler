@@ -1,0 +1,90 @@
+<font size=3>
+
+[pic]<IMAGE src="./fyx.jpg" alt=""/>[/pic] <font size=3> <b> Yuxi Fu</b>
+[contactinfo]<font size=2> [affiliation]Department of Computer Science School of Electronics and Informatics
+Shanghai Jiaotong University[/affiliation][address]800 Dongchuan Road Shanghai 200240[/address]
+<b>Email:</b> [email]fu-yx(at)cs.sjtu.edu.cn[/email] or [email]yxfu(at)sjtu.edu.cn[/email]
+<b>Phone:</b> [phone]+86 21 34202497[/phone] (Minhang Campus), or [phone]+86 21 62932758[/phone] (Xuhui Campus)
+<b>Fax:</b>[fax]+86 21 34202495[/fax] (Minhang Campus), or [fax]+86 21 62932902[/fax] (Xuhui Campus)[/contactinfo]
+</font></font>
+
+[introduction]  I am a [position]professor[/position] of the [affiliation]Department of Computer Science, Shanghai Jiaotong University (SJTU)[/affiliation]. Currently I am serving as the [position]Departmental chairman[/position] and the [position]dean[/position] of the [affiliation]School of Software[/affiliation]. I am also the [position]director[/position] of [affiliation]BASICS, the Laboratory for the <b>Ba</b>sic <b>S</b>tudies in <b>C</b>omputing <b>S</b>cience[/affiliation], supported by the Shanghai Education Commission. My research interest is in [interests]theoretical computer science[/interests], [interests]focusing mainly on the concurrency theory[/interests], [interests]the type theory[/interests] and the [interests]related issues in formal method[/interests]. The evolution of my research interest can be seen from the list of my publications. Almost all the collaborators of these publications are my former and present PhD students. Our research effort has come up with results in type theory and its semantics, χ-Calculus, π-Calculus and Ambient Calculus. My present research work is supported by the projects from MIST and NNSFC.
+
+  I am an [position]executive member[/position] of the [affiliation]Asian Association for Foundation of Software (AAFOS)[/affiliation]. I am also involved in a number of other professional activities.
+
+  My teaching duty includes normally one postgraduate course per semester.[/introduction]
+
+  <b>PhD. Student</b>
+  <b>Former Student</b>
+
+    * Xiaoju Dong
+
+    * Farong Zhong
+
+  <b>Present Student</b>
+
+    * Yang Li
+
+    * Min Zhang
+
+    * Yonggen Gu
+
+    * Han Zhu
+
+    * Xian Xu
+
+    * Xiaojuan Cai
+
+    * Huan Long
+
+    * Xuan Cai
+
+  [resactivity]<b>Professional Acitivity</b>
+
+  I am involved in the following workshop/conference:
+
+    * Workshop and Summer School on Basic Studies in Computer Science (BASICS¡¯00), Shanghai, 2000. Co-chair
+
+    * Asian Computer Science Conference (ASIAN¡¯00), Malaysia, 2000.
+
+    * ICYCS¡¯01, Zhejiang, 2001.
+
+    * Workshop and Summer School on Basic Studies in Computer Science (BASICS¡¯01), Shanghai, August, 2001. Co-chair
+
+    * Workshop and Summer School on Basic Studies in Computer Science (BASICS¡¯02), Shanghai, 2002. Co-chair
+
+    * Asian Symposium on Programming Languages and Systems (APLAS¡¯02), Shanghai, August, 2002. Co-chair
+
+    * Asian Symposium on Programming Languages and Systems (APLAS¡¯03), Beijing, 2003.
+
+    * The Second International Workshop on Grid and Cooperative Computing (GCC¡¯03), Shanghai, 2003.
+
+    * ICYCS¡¯03, Harbin, October, 2003.
+
+    * Special Session: Grid Computing Techniques and Applications of The 2004 International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA¡¯04), Las Vegas, Nevada, June 21-24, 2004.
+
+    * 2004 IEEE International Conference on Services Computing (SCC 2004), advisory committee member.
+
+    * Workshop and Summer School on Basic Studies in Computer Science (BASICS¡¯04), Shanghai, 2004. Co-chair
+
+    * The 7th International Conference on Asian Digital Libraries ¡ª International Collaboration and Cross-Fertilization, Shanghai, December 13-17, 2004. Co-chair.
+
+    * The International Symposium on Computational and Information Sciences (CIS'04), Shanghai, December 16-18, 2004. Co-chair.
+
+    * Workshop and Summer School on Basic Studies in Computer Science (BASICS¡¯05), Yangzhou, 2005. Co-chair
+
+    * The 10th IEEE International Conference on the Engineering of Complex Computer Systems (ICECCS2005), Shanghai, 16-20 June, 2005, IEEE Computer Society. General Chair.
+
+    * The Third International Workshop on Software Development Methodologies of Distributed Systems, Shanghai, May, 2006.
+
+    * 28th International Conference on Software Engineering, 20-28 May, Shanghai, 2006.[/resactivity]
+
+  <b>Teaching Duty</b>
+
+  I normally teach one postgraduate course every semester. Over the years my courses have covered subjects on λ-calculus, domain theory, modal logic, concurrency theory, non-well-founded set theory, type theory and mathematical logics.
+
+  I am teaching concurrency theory this semester. The course is scheduled at 6 PM every Thursday in the lecture room D404.
+
+  Last updated: November 17, 2005 by Yuxi Fu (Chinese Page)
+
+</font>

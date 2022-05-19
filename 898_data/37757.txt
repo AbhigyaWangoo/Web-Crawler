@@ -1,0 +1,112 @@
+<IMAGE src="minerva.gif" alt="CMB"/>
+
+<b>About CMB</b>
+
+Home Page
+
+People
+
+Publications
+
+<b>Research Groups</b>
+
+Algorithmics
+
+Protein Families
+and Evolution
+
+Gene Structure
+and Array Design
+
+Gene
+Regulation
+
+Computational
+Diagnostics
+
+Evolutionary Genomics
+
+<b>Services</b>
+
+SYSTERS
+
+GeneNest
+
+SpliceNest
+
+PRIDE
+
+CORG
+
+<b>Links</b>
+
+Courses
+
+Seminars
+
+Conferences
+
+<font size=2>Imprint</font>
+
+MPI for Molecular Genetics / Computational Molecular Biology
+
+[pic]<IMAGE src="Vingron_Balkon_05_04_04_web.jpg" alt="Martin Vingron"/>[/pic]
+
+
+
+Martin Vingron
+[introduction][position]Director[/position] at the
+[affiliation]Max Planck Institute for Molecular Genetics[/affiliation],
+[position]Head[/position] of [affiliation]Computational Molecular Biology Department[/affiliation]
+
+[position]Honorary Professor[/position] of Computer Science,
+[affiliation]Free University of Berlin[/affiliation][/introduction]
+
+[contactinfo]Contact:
+[affiliation]Max Planck Institute for Molecular Genetics[/affiliation]
+[address]Ihnestraße 63-73
+D-14195 Berlin, Germany[/address]
+Phone: [phone]++49 +30 / 8413-1151[/phone]
+Fax:     [fax]++49 +30 / 8413-1152[/fax]
+Email: [email]martin.vingron at molgen.mpg.de[/email][/contactinfo]
+
+
+
+
+
+[introduction]Martin Vingron is a [affiliation]mathematician by education[/affiliation] who has done his PhD in [phdmajor]computational biology[/phdmajor] at [phduniv]EMBL[/phduniv] in [phddate]1991[/phddate]. At the time and for a number of years of postdoctoral training his research has focused on the [interests]analysis of protein sequences[/interests], [interests]sequence analysis[/interests], [interests]sequence comparison[/interests], and [interests]molecular evolution[/interests]. Methods of discrete optimisation were used for the design of comparison algorithms and probability theory was applied to answer questions of significance of computational results. Later, as a department head at the German Cancer Research Center, his focus shifted towards the processing and mathematical analysis of DNA microarrays. Accordingly, the methods largely drew on statistical data analysis techniques. During the last years his research interest lies in utilizing gene expression data as well as evolutionary data for the elucidation of gene regulatory mechanisms[/introduction].
+
+For further information see group's homepage
+http://cmb.molgen.mpg.de
+
+
+Honors
+
+  * 2004:   Member of the German Academy of Natural Scientists Leopoldina
+
+  * 2004:   Max Planck Research Award for International Cooperation ("Max Planck Forschungspreis") in Bioinformatics (together with Gene Myers)
+
+  * 2001:   Awarded Honorary Professor, Free University of Berlin, Dept. of Mathematics and Computer Science
+
+  * 2000:   Scientific Member of the Max-Planck-Society
+
+
+[publication]Selected Publications
+
+  * 
+
+    Dieterich C, Rahmann S, Vingron M (2004). Functional inference from non-random distributions of conserved predicted transcription factor binding sites. Bioinformatics 20 (Suppl.1) 2004: i109-i115 (Proceedings of ISMB 2004)
+
+  * Manke T, Bringas R, Vingron M (2003). Correlating Protein-DNA and Protein-Protein Interaction Networks. J Mol Biol 333:75-85
+
+  * Huber W, Heydebreck A v, Vingron M (2003). Analysis of microarray gene expression data. In: Handbook of Statistical Genetics, Wiley, 2nd Edition, Vol 1, 162 �?187
+
+  * 
+
+    Fellenberg K, Hauser N, Brors B, Neutzner A, Hoheisel J, Vingron M (2001). Correspondence Analysis Applied to Microarray Data. Proc Natl Acad Sci USA 98, 10781-10786
+
+  * Müller T, Vingron M (2000). Modeling amino acid replacement. J Computat Biol 7(6), 761-776[/publication]
+
+Complete list of publications
+
+<font size=2>Martin Vingron - Last Change: 08.04.2005.</font>

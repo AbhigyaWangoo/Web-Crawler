@@ -1,0 +1,170 @@
+<IMAGE src="/images/logo_uf.gif" alt="University of Florida"/><IMAGE src="/images/logo_uf-bw.gif" alt=" "/>
+
+
+<IMAGE src="/images/gator-engineering-logo.gif" alt="Gator Engineering"/><IMAGE src="/images/graphics/gator-engineering-logo-bw.gif" alt=" "/>
+
+<IMAGE src="/images/graphics/spacer.gif" alt="Department of Computer and Information Science and Engineering"/><IMAGE src="/images/graphics/large-strip-600-dpi-greyscale.gif" alt=" "/>
+
+/ Faculty & Staff / Faculty Information / Arunava Banerjee
+
+Quick Links
+
+Dept. Administration
+Faculty
+Affiliate Faculty
+Office Staff
+System Staff
+
+CISE Faculty & Staff
+
+College of Engineering
+
+Graduate School
+
+University of Florida
+
+CISE Faculty Positions
+CISE Staff Positions
+Student On-Campus Positions
+Career Resource Center
+Job Boards
+
+Employment Opportunities
+
+Undergraduate Information
+Graduate Information
+Academic Tutor Center
+Staff
+
+Student Services Center
+
+ASCIE Graduate Student Organization
+
+Information For
+
+CISE Computer Help
+
+Prospective Students
+
+Undergraduate Students
+
+Graduate Students
+
+Distance Education for Graduate Students
+
+International Students
+
+Current Courses
+
+Faculty & Staff
+
+Alumni
+
+Maps and Directions
+Parking
+
+Visitors
+
+Programs
+
+Computer Systems
+Database and Information Systems
+High-Performance Computing/Applied Algorithm
+Computer Graphics, Modeling, and Art
+Intelligent Systems and Computer Vision
+
+Research Areas
+
+Centers and Labs
+
+Industrial Advisory Board
+
+Technical Reports
+
+Seminars
+
+International Activities
+
+ABET Accreditation
+
+<b>Faculty Information</b>
+
+[pic]<IMAGE src="picture.png" alt="Arunava Banerjee, Ph.D."/>[/pic]
+
+[contactinfo][affiliation]University of Florida
+
+Computer and Information Science and Engineering[/affiliation]
+
+Arunava Banerjee, Ph.D.
+
+[position]Assistant Professor[/position]
+
+
+
+<b>Mailing Address:</b> [address]CSE Building, Room E301
+University of Florida, P.O.Box 116120
+Gainesville, Florida 32611-6120[/address]
+
+<b>Office Location:</b> [address]CSE E336[/address]
+
+<b>Office Phone:</b> [phone](352) 392-1476[/phone]
+
+<b>Departmental FAX:</b> [fax](352) 392-1220[/fax]
+
+<b>Email:</b> [email]arunava@cise.ufl.edu[/email][/contactinfo]
+
+<b>Website:</b> [homepage]http://www.cise.ufl.edu/~arunava[/homepage]
+
+[education]<b>Education</b>
+
+[phddegree]Ph.D.[/phddegree], [phduniv]Rutgers University[/phduniv], [phddate]2001[/phddate][/education]
+
+<b>Current and Recent Courses</b>
+
+<b>Semester</b> <b> Number</b> <b> Title</b>
+
+Spring 04  CIS 6930  Introduction to Computational Neuroscience
+
+Fall 04  COT 3100  Applications of Discrete Structures
+
+Spring 05  CIS 6930  Introduction to Computational Neuroscience
+
+Fall 05  COT 3100  Applications of Discrete Structures
+
+Spring 06  CIS 6930  Introduction to Computational Neuroscience
+
+
+It is possible that changes in listings are pending; contact the (CISE Student Services Center) at 352-392-1090 for the most up-to-date information.
+Additional course information is available at:
+
+  *  CISE Undergraduate Courses
+
+  *  CISE Graduate Courses
+
+  * UF Undergraduate and Graduate Catalog Course Descriptions
+
+[publication]<b>Selected Publications</b>
+
+  *  Meng, H., Banerjee A., Zhou, L. (2006) BLISS: biding site level identification of shared signal-modules in DNA regulatory sequences. BMC Bioinformatics, 7:287.
+
+  *  Banerjee A. (2006) On the Sensitive Dependence on Initial Conditions of the Dynamics of Networks of Spiking Neurons. Journal of Computational Neuroscience, 20(3), pp. 321-348.
+
+  *  Banerjee A., Paul A. (2005) Average Fill Rate and Horizon Length. Operations Research Letters, 33(5), pp. 525-530.
+
+  *  Macskassy S. A., Hirsh, H., Banerjee A., Dayanik A. A. (2003) Converting Numerical Classification into Text Classification. Artificial Intelligence, 143(1), pp. 51-77.
+
+  *  Banerjee A. (2001) On the Phase-Space Dynamics of Systems of Spiking Neurons. I: Model and Experiments . Neural Computation, 13(1), pp. 161-193.
+
+  *  Banerjee A. (2001) On the Phase-Space Dynamics of Systems of Spiking Neurons. II: Formal Analysis. Neural Computation, 13(1), pp. 195-225.[/publication]
+
+[contactinfo]Phone:  [phone](352) 392-1200[/phone]
+
+Fax: [fax](352) 392-1220[/fax]
+
+[address]CSE Building Room E301
+University of Florida - P.O. Box 116120
+Gainesville, FL  32611-6120 USA[/address][/contactinfo]
+
+webmaster@cise.ufl.edu
+Last modified:
+Jul 11 12:56:41 2006

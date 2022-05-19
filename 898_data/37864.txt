@@ -1,0 +1,79 @@
+Wayne P. Burleson, [contactinfo][position]Professor[/position]
+
+[pic]<IMAGE src="./wpb_salathe.JPG" alt="wpb on salathe"/>[/pic]
+
+  * Office: [address]309C Knowles Engineering Building[/address]
+
+  * Address: [address]Department of Electrical and Computer Engineering
+    University of Massachusetts
+    Amherst, MA 01003[/address]
+
+  * Phone: [phone]413-545-2382[/phone] (office), Fax: [fax]413-545-1993[/fax]
+
+  * Email: [email]burleson@ecs.umass.edu[/email]
+
+  * Web (this page): [homepage]www.ecs.umass.edu/ece/vspgroup/burleson.html[/homepage]
+
+  * Assistant (Christine Langlois): [email]langlois@ecs.umass.edu[/email], [phone]413-545-3621[/phone], KEB309[/contactinfo]
+
+  * cv.doc cv.pdf
+
+
+Recent Courses:
+
+  * ECE 558/658, VLSI Design (Fall 2006) previous years available on CD/online
+
+  * ECE 354, Computer Systems Lab (Spring 2006)
+
+  * ECE 559/659, VLSI Design Project (Digital System Design with ASIC and FPGA) (Spring 2006), also available on CD/online from Spring 2004
+
+  * Old courses
+
+
+[resinterests]Research:
+
+  * VLSI Systems and Circuits Group (current-mode signaling, multi-level, phase position signaling) (funded by SRC, Intel, NSF)
+
+  * [interests]RFID Security and Privacy[/interests] (RFID chips, RFID attacks and defenses)
+
+  * [interests]Embedded Systems Security[/interests] (configurable security) (in collaboration with CASA, UMASS Computer Science RFID, RSA Security, UBS Lorient, FRANCE, and Kwangwoon Univ, South Korea)
+
+  * [interests]Adaptive Systems on a Chip (old)[/interests] (funded by NSF, SRC)
+
+  * [interests]VLSI Signal Processing Group (old)[/interests]
+
+  * Previous Research Areas (not necessarily currently funded)
+
+    * [interests]VLSI algorithms/architectures for DSP and Communication Systems
+[/interests]
+    * [interests]VLSI and Algorithms for High-Speed Wireless LANs
+[/interests]
+    * [interests]Regular Array Synthesis[/interests]
+
+    * [interests]Wave-pipelining[/interests]
+
+    * [interests]Arithmetic Verification and Precision Analysis[/interests]
+
+    * [interests]Low-power CMOS Design[/interests]
+
+    * [interests]Low-power 3D Graphics[/interests][/resinterests]
+
+
+[introduction]Education and Outreach:
+
+  * <b>Center for Collaborative Adaptive Sensing of the Atmosphere (CASA)</b>, an NSF Engineering Research Center. I am [position]Co-Director[/position] of [affiliation]Education and Outreach for CASA[/affiliation]. This involves curriculum development and outreach from K12, to undergraduate, graduate and continuing education.
+
+  * <b>Research in Presentation Production Electronically. </b>A collaboration with UMASS Computer Science (Prof. Jim Kurose and Rick Adrion) exploring novel instructional technologies.[/introduction]
+
+
+Group, Department and University:
+
+  * VLSI Circuits and Systems Group
+
+  * Department of Electrical and Computer Engineering
+
+  * University of Massachusetts
+
+Wayne P. Burleson
+[contactinfo][email]burleson@ecs.umass.edu[/email][/contactinfo]
+Last update: October, 2006

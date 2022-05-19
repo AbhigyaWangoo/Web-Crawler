@@ -1,0 +1,40 @@
+<IMAGE src="ublogo_trans_stack_blue.gif" alt="UB
+Logo"/> <IMAGE src="CSE_old_logo.gif" alt="CSE Old Logo"/>
+
+<font size=4> <b>Venu Govindaraju, [introduction][position]Professor[/position]</b> </font>
+
+<b>Home</b> <b>Awards</b> <b>Research</b> <b>Projects</b> <b>Service</b>
+
+[pic]<IMAGE src="venu.jpg" alt=""/>[/pic]
+
+  <b>[position]Professor[/position]</b>, <b>[affiliation]Dept. of Computer Science & Engineering[/affiliation] </b>
+  <b>[position]Founding Director[/position]</b>, <b>[affiliation]Center for Unified Biometrics and Sensors (CUBS)[/affiliation]</b>
+  <b>[position]Associate Director[/position]</b>, <b>[affiliation]CEDAR[/affiliation]</b>
+
+
+Venu Govindaraju
+<font size=2><b>[affiliation]IEEE[/affiliation] [position]Fellow[/position], [affiliation]IAPR[/affiliation] [position]Fellow[/position]</b> </font>
+
+Dr. Venu Govindaraju is a [position]Professor[/position] of Computer Science and Engineering at the [affiliation]University at Buffalo (UB), State University of New York[/affiliation]. He received his B-Tech (Honors) from the [bsuniv]Indian Institute of Technology (IIT)[/bsuniv], Kharagpur, India in [bsdate]1986[/bsdate], and his Ph.D. degree in [phdmajor]Computer Science[/phdmajor] from [phduniv]UB[/phduniv] in [phddate]1992[/phddate].
+
+Govindaraju has co-authored more than 200 scientific papers. He is the [position]PI[/position] on current [affiliation]NSF sponsored projects on International Digital Libraries and Digital Government[/affiliation]. He is the [position]founding director [/position]of the [affiliation]Center for Unified Biometrics and Sensors (CUBS)[/affiliation].
+
+He serves on the editorial boards of the [affiliation]IEEE Transactions on Systems[/affiliation], [affiliation]Man[/affiliation], and [affiliation]Cybernetics (B)[/affiliation], the [affiliation]International Journal for Document Analysis and Recognition[/affiliation], The [affiliation]Journal of Pattern Analysis and Applications[/affiliation] and The [affiliation]Journal of Pattern Recognition[/affiliation].[/introduction]
+
+
+<b>Curriculum Vitae</b> <b><IMAGE src="PDF-Icon.gif" alt=""/></b>
+
+<b>Current Activities</b> <IMAGE src="new3.jpg" alt=""/>
+
+<b>"In the News" <IMAGE src="news3.jpg" alt=""/> </b>
+
+<b>Personal</b>
+
+[contactinfo]<b>Address</b>
+
+[address]520 Lee Entrance, Suite 202, UB Commons
+Amherst, NY 14228-2567[/address]
+Phone: [phone]+1 (716) 645-2356[/phone]
+Fax: [fax]+1 (716) 645-2377[/fax]
+
+[email]<IMAGE src="email.gif" alt=""/>[/email][/contactinfo]

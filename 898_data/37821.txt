@@ -1,0 +1,193 @@
+<IMAGE src="/images/logo.jpg" alt="FXPAL"/> <IMAGE src="/images/collage1.gif" alt=""/>
+
+printer friendly version
+
+<IMAGE src="/images/buttonUL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonUR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+home <IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonLL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonLR.gif" alt=""/>
+
+<IMAGE src="/images/buttonUL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonUR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+about us <IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonLL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonLR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonUL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonUR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+visit us <IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonLL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonLR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonUL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonUR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+employment <IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonLL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonLR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonUL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonUR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+our vision <IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonLL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonLR.gif" alt=""/>
+
+<IMAGE src="/images/buttonUL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonUR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+research <IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonLL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonLR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonUL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonUR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+collaborative
+intelligence <IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonLL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonLR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonUL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonUR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+multimedia
+computing <IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonLL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonLR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonUL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonUR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+smart
+environments <IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonLL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonLR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonUL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonUR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+research
+history <IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonLL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonLR.gif" alt=""/>
+
+<IMAGE src="/images/buttonUL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonUR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+publications <IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonLL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonLR.gif" alt=""/>
+
+<IMAGE src="/images/buttonUL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonUR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+people <IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonLL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonLR.gif" alt=""/>
+
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+
+Qiong Liu
+
+[pic]<IMAGE src="/people/portraits/liu.jpg" alt=""/>[/pic]
+
+[introduction][position]Senior Research Scientist[/position], [affiliation]FX Palo Alto Laboratory[/affiliation]
+
+Qiong Liu received his [phddegree]Ph.D.[/phddegree] degree in [phdmajor]computer science[/phdmajor] from the [phduniv]University of Illinois at Urbana-Champaign (UIUC)[/phduniv] in [phddate]2001[/phddate]. Before he came to the "Ivy in a Corn Field", he received his [msdegree]M.S.[/msdegree] in [msmajor]precision instruments[/msmajor] from [msuniv]Tsinghua University[/msuniv], Bejing, China, in [msdate]1992[/msdate], and his [bsdegree]B.S.[/bsdegree] in [bsmajor]biomedical engineering and instrument science[/bsmajor] from [bsuniv]Zhejiang University[/bsuniv], Hangzhou, China, in [bsdate]1989[/bsdate], respectively.
+
+He joined [affiliation]FX Palo Alto Laboratory[/affiliation] in 2001. Now, he is a [position]senior research scientist[/position] in the [affiliation]Immersive Conferencing and Interactive Media teams[/affiliation]. Before he joined FXPAL, he was a research assistant of Professor Thomas S. Huang and Professor Stephen E. Levinson at the Image Formation and Processing (IFP) group of the Beckman Institute for Advanced Science and Technology and Department of Computer Science at UIUC. During the summers of 1999 and 2000, he was a Research Intern with the Collaborative and Multimedia Systems Group , Microsoft Research Corp., Redmond, WA. His current research interests include immersive conferencing, image/video/audio processing, multimedia, computer vision, machine learning, human-computer interaction, and robotics.[/introduction]
+
+Personal site
+
+FXPAL Publications
+
+[contactinfo][phone]650-813-6957[/phone] (Office)[/contactinfo]
+
+Send email to Qiong Liu
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+
+
+Copyright ?999-2007 FX Palo Alto Laboratory | Last Revised Tuesday, April 11, 2006 3:47:08 PM | Send feedback to the webmaster

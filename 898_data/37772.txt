@@ -1,0 +1,26 @@
+Welcome
+
+Home
+Research
+Publications
+Resume
+Photo Gallery
+
+
+[contactinfo][pic]<IMAGE src="Images/eric2.JPG" alt=""/>[/pic] Eric Shaffer
+[position]Postdoctoral Research Associate[/position]
+[affiliation]Computational Science and Engineering
+Center for Simulation of Advanced Rockets
+University of Illinois[/affiliation]
+[address]1304 W. Springfield Avenue
+Urbana, IL 61801[/address]
+
+[phone]1.217.333.8985[/phone] office   
+[fax]1.217.333.1910[/fax] fax
+[email]shaffer1@uiuc.edu[/email][/contactinfo]
+
+[introduction]I am currently a [position]postdoc[/position] at the [affiliation]Center for Simulation of Advanced Rockets at the University of Illinois[/affiliation], developing [interests]mesh smoothing methods[/interests] for use in scientific computation. I recently received a Ph.D. in [phdmajor]computer graphics[/phdmajor] at [phduniv]the University of Illinois[/phduniv], working with Michael Garland. My doctoral research involved the development of scalable methods for working with massive geometric data sets[/introduction].
+
+Home | Research | Publications | Resume | Photo Gallery
+
+This site was last updated 09/04/04

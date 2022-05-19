@@ -1,0 +1,75 @@
+<b>Siu-Wing Cheng      </b>
+
+<b>[introduction][position]Associate Professor[/position]</b>
+
+<b> </b>
+
+[affiliation]Department of Computer Science and Engineering
+
+The Hong Kong University of
+
+Science and Technology[/affiliation][/introduction]
+
+[pic]<IMAGE src="scheng2.jpg" alt=""/>[/pic]
+
+<b> </b>
+
+<b> Biographical Information</b>
+
+[introduction]Employment
+
+1998 - now [position]Associate Professor[/position], [affiliation]Dept. of Computer Science and Engineering of HKUST[/affiliation]
+
+1992 - 1998 Assistant Professor, Dept. of Computer Science of HKUST[/introduction]
+
+[education]Education
+
+[phddate]1992[/phddate] [phddegree]Ph.D.[/phddegree] in [phdmajor]Computer Science[/phdmajor], [phduniv]University of Minnesota[/phduniv] (Twin Cities)
+
+[bsdate]1987[/bsdate] [bsdegree]B.Sc.[/bsdegree] ([bsmajor]Computer Studies[/bsmajor]), [bsuniv]University of Hong Kong[/bsuniv][/education]
+
+Professional Activities
+
+[resinterests]<b> Research</b>
+
+I belong to the [affiliation]Theoretical Computer Science Group[/affiliation].  My major research areas include [interests]computational geometry[/interests], [interests]algorithms[/interests], and [interests]data structures[/interests].  I am currently interested in [interests]algorithmic problems in geometric modeling[/interests].  Recently, I spend most of my time on problems in mesh generation and manifold reconstruction.  Mesh generation is an important task in numerical simulations in scientific and engineering applications.  In manifold reconstruction, I study curve and surface reconstruction from noisy samples, as well as manifold reconstruction in arbitrary dimensions.[/resinterests]
+
+<b> Publications</b>
+
+Click here to see the descriptions of my recent papers. I also maintain a full list of my publications catergorized by topics.
+
+<b>Students</b>
+
+I am working with one Ph.D. student Yajun Wang. I am also working with several undergraduate students on implementing some of the algorithms that we designed. My former PhD student Sheung-Hung Poon did a thesis on curve and surface reconstruction from noisy samples.
+
+<b>Teaching</b>
+
+I teach the following course in Fall 2006:
+
+COMP 271H Design and Analysis of Algorithms (Honors Track)
+
+I have taught the following courses before:
+
+COMP 300B Introduction to Computational Geometry
+
+COMP 171 Data Structures and Their Algorithms
+
+COMP 271 Design and Analysis of Algorithms
+
+COMP 573 Computational Geometry
+
+[contactinfo]<b>Contact Information</b>
+
+Email: [email]scheng@cse.ust.hk[/email]
+
+Homepage: [homepage]http://www.cse.ust.hk/~scheng[/homepage]
+
+Tel: [phone]+852-23586973[/phone]
+
+Fax: [fax]+852-23581477[/fax]
+
+Mailing address: [address]Department of Computer Science and Engineering
+
+HKUST, Clear Water Bay
+
+Hong Kong[/address][/contactinfo]

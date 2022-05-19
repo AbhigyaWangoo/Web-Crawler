@@ -1,0 +1,47 @@
+<IMAGE src="pics/background.gif" alt=""/>
+
+Linköpings universitet > Department of Computer and Information Science > Laboratory for Intelligent Information Systems > Patrick Lambrix
+
+<IMAGE src="pics/alb.gif" alt=""/>
+
+home research commissions publications supervision teaching
+
+<IMAGE src="pics/alb.gif" alt=""/>
+
+<IMAGE src="pics/alb.gif" alt=""/>
+
+Patrick Lambrix
+
+[pic]<IMAGE src="pics/lambrix2005.gif" alt=""/>[/pic]
+
+
+[introduction][position]Associate professor[/position] in Computer Science
+
+Patrick Lambrix is the [position]Deputy Director[/position] of the [affiliation]Division for Databases and Information Techniques (ADIT)[/affiliation] and [position]member[/position] of the [affiliation]Laboratory for Intelligent Information Systems[/affiliation]. He received his [phddegree]PhD[/phddegree] in [phdmajor]Computer Science[/phdmajor] from [phduniv]Linkings universitet[/phduniv] in [phddate]1996[/phddate].[/introduction]
+[resinterests]His current research interests relate to the areas of
+
+  *  [interests]Semantic Web[/interests]
+
+  *  [interests]Ontologies[/interests]
+
+  *  [interests]Databases[/interests]
+
+  *  [interests]Bioinformatics[/interests][/resinterests]
+
+
+
+
+
+
+
+Degree projects related to Computer Science and the Life Sciences available.
+
+<IMAGE src="pics/blue.gif" alt=""/>
+
+<b>
+[contactinfo]e-mail:</b> [email]patla (at) ida.liu.se[/email]
+<b>phone:</b> [phone]+46 (13) 28 26 05[/phone], fax: [fax]+46 (13) 14 22 31[/fax]
+<b>office:</b> [address]Building B, Ground floor, Room 2B:474[/address]
+<b>post address:</b> [address]Department of Computer and Information Science (IDA), Linkings universitet, S-581 83 Linking, Sweden[/address][/contactinfo]
+
+<IMAGE src="pics/background.gif" alt=""/>

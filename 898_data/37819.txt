@@ -1,0 +1,46 @@
+<IMAGE src="images/top_banner.gif" alt="Bioinformatics, CSE, UCSD"/>
+
+<IMAGE src="images/pixel.gif" alt=""/> <IMAGE src="images/pixel.gif" alt=""/>
+
+Zufar Mulyukov's
+Home Page
+
+<IMAGE src="images/pixel.gif" alt=""/> <IMAGE src="images/pixel.gif" alt=""/> Contact Info
+<IMAGE src="images/pixel.gif" alt=""/>
+Research Interests
+<IMAGE src="images/pixel.gif" alt=""/>
+Resume
+<IMAGE src="images/pixel.gif" alt=""/>
+Personal Interests
+<IMAGE src="images/pixel.gif" alt=""/>
+
+<IMAGE src="images/pixel.gif" alt=""/>
+[contactinfo][affiliation]Bioinformatics Lab
+<IMAGE src="images/pixel.gif" alt=""/>
+CSE Department
+<IMAGE src="images/pixel.gif" alt=""/>
+UCSD[/affiliation]
+<IMAGE src="images/pixel.gif" alt=""/> <IMAGE src="images/pixel.gif" alt=""/> [pic]<IMAGE src="images/zufar.jpg" alt="Zufar's Photo"/>[/pic] <IMAGE src="images/pixel.gif" alt=""/>
+<b><font size=5>Zufar Mulyukov</font></b>
+[position]Postdoctoral Research Associate[/position]
+
+<b> Updated contact info (October, 2002) </b>
+
+<b>E-mail</b>: [email]zmulyukov@ceres-inc.com[/email]
+<b>Phone</b>: [phone](310) 317-8952[/phone]
+
+<b>Mailing address:</b>
+[address]Ceres Inc.
+3007 Malibu Canyon Road
+Malibu, CA 90265[/address][/contactinfo]
+
+[resinterests]<b>Research Interests:</b>
+[interests]Computational Molecular Biology[/interests] and [interests]Bioinformatics[/interests][/resinterests].
+
+[education]<b>Educational Background:</b>
+[phddegree]Ph.D.[/phddegree] [phdmajor]Physics[/phdmajor], [phduniv]USC[/phduniv], Los Angeles, U.S.A.
+Diploma, [bsuniv]Moscow Engineering Physics Institute[/bsuniv], Moscow, Russia[/education] <IMAGE src="images/pixel.gif" alt=""/>
+
+<IMAGE src="images/bottom_banner.gif" alt="ucsd"/>
+<font size=1>
+Send comments to zufar@ucsd.eduLast updated: October, 2002 </font>

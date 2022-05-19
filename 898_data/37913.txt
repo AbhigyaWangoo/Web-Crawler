@@ -1,0 +1,8 @@
+<font size=6> Meurig Sage's Home Page </font>
+
+[pic]<IMAGE src="me.jpg" alt=""/>[/pic]
+
+Who am I? Research Teaching Contact Personal
+
+Last updated January 2001.
+[contactinfo]email: [email]meurig@dcs.gla.ac.uk[/email][/contactinfo]

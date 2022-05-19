@@ -1,0 +1,94 @@
+[pic]<IMAGE src="vlr.JPG" alt="ramachandran.jpeg"/>[/pic]
+
+
+
+Vijaya Ramachandran
+
+[introduction][position]Blakemore Regents Professor[/position] of Computer Sciences
+The [affiliation]University of Texas[/affiliation] at Austin[/introduction]
+
+
+[resinterests]Research Interests My research interests are in [interests]algorithms and computational theory[/interests], [interests]primarily in the areas of graph algorithms[/interests], [interests]data structures[/interests], [interests]randomized algorithms[/interests], [interests]parallel algorithms and effective models for computation[/interests][/resinterests].
+
+You can access copies of recent papers of mine.
+
+A complete listing of my publications is available in my vita.
+[vita in postscript] [vita in Adobe pdf]
+
+
+
+Research Opportunities
+
+<b> Graduate students:</b> Check out my CS398T presentation (pdf file) to new doctoral students
+
+<b> Undergraduate honors thesis projects </b> are available in cache-efficient algorithms, phylogenetics, and adaptive sorting.
+Send me email with details on your background if you are interested in a thesis in these or other algorithmic topics.
+
+
+Ph.D. Students and Postdoctoral Associates
+
+Rezaul Alam Chowdhury, current Ph.D. student.
+
+Dan Fernholz, current Ph.D. student.
+
+Ganeshkumar Ganapathy, current Ph.D. student (co-supervised with Tandy Warnow).
+
+Seth Pettie, ``On the Shortest Path and Minimum Spanning Tree Problems,'' Ph.D., University of Texas at Austin, August 2003.
+
+Chung Keung Poon, Postdoctoral Associate, September 1995 to August 1996.
+
+Philip D. MacKenzie , Postdoctoral Associate, September 1992 to August 1994. Co-supervised by Greg Plaxton.
+
+Tsan-sheng Hsu , ``Graph Augmentation and Related Problems: Theory and Practice,'' Ph.D., University of Texas at Austin, December 1993.
+
+Pierre Kelsen , ``Efficient Computation of Extremal Structures in Graphs and Hypergraphs,'' Ph.D., University of Illinois at Urbana-Champaign, Summer 1992.
+
+Arkady Kanevsky, ``Vertex Connectivity of Graphs: Algorithms and Bounds,'' Ph.D., University of Illinois at Urbana-Champaign, Summer 1988.
+
+
+Classes
+
+<b>SPRING 2006 </b>
+
+CS357: Algorithms
+
+<b> Office Hours:</b> Mondays 3-4 and Wednesdays 1:30-2:30
+
+<b> Office Hours during Exam Week.</b>
+Monday, May 8: 3-4 in Tay 3.152 (Prof. Vijaya Ramachandran)
+Tuesday, May 9: 11-noon in Tay 3.152 (Prof. Vijaya Ramachandran)
+Wednesday, May 11: 1:30-2:30 in Tay 3.152 (TA Rezaul Alam Chowdhury)
+
+
+<b>FALL 2005 </b>
+
+CS388G: Algorithms: Techniques and Theory
+
+
+fb06.pdf
+
+
+[contactinfo]Contact Information
+
+<b>Email:</b>
+
+[email]vlr"at"cs"dot"utexas"dot"edu[/email]
+
+<b>Phone:</b>
+
+[phone](512) 471-9554[/phone]
+
+<b>Fax:</b>
+
+[fax](512) 471-8885[/fax]
+
+<b>Office:</b>
+
+[address]Taylor Hall 3.152[/address]
+
+<b>Postal:</b>
+
+[address]Department of Computer Sciences
+Taylor Hall 2.124 (Mailcode C0500)
+The University of Texas at Austin
+Austin, Texas 78712-1188[/address][/contactinfo]

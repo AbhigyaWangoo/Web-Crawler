@@ -1,0 +1,136 @@
+[pic]<IMAGE src="index_files/image002.jpg" alt=""/>[/pic]
+
+<b>Kim, Sehwan</b>
+
+<b><IMAGE src="index_files/uvr-logo.gif" alt=""/></b>
+
+[contactinfo][affiliation]KJIST-DIC U-VR Lab[/affiliation]
+[address]Gwangju 500-712, South Korea[/address]
+Tel. [phone]+82-62-970-3157[/phone]
+Fax. [fax]+82-62-970-2004[/fax]
+Email: [email]skim@kjist.ac.kr[/email][/contactinfo]
+[homepage]http://vr.kjist.ac.kr/~skim[/homepage]
+
+<IMAGE src="index_files/image003.gif" alt=""/>_[education]Education
+
+  * 2000.3 - Current: Pursuing Ph.D. in U-VR Lab., Dept. of [phdmajor]Info. & Comm.[/phdmajor] (DIC), [phduniv]KwangJu Institute of Science and Technology (K-JIST)[/phduniv], Gwangju, Korea.
+
+  * 1998.3 - [msdate]2000.2[/msdate]: M.S. in [msmajor]Visual Communication[/msmajor] Lab., Dept. of [msmajor]Info. & Comm.[/msmajor] (DIC), [msuniv]KwangJu Institute of Science and Technology (K-JIST)[/msuniv], Gwangju, Korea.
+
+  * 1994.3 - [bsdate]1998.2[/bsdate]: B.S. in Dept. of [bsmajor]Electronics Engineering[/bsmajor], [bsuniv]University of Seoul (UOS)[/bsuniv], Seoul, Korea.[/education]
+
+<IMAGE src="index_files/image003.gif" alt=""/>_[resinterests]Research Interest
+
+  * [interests]Multimodal Perceptual HCI[/interests], [interests]3D Vision[/interests], [interests]pi-VE[/interests], [interests]Augmented/Mixed Reality[/interests].
+
+  * [interests]Content-based Image Retrieval (MPEG-7)[/interests]
+
+  * [interests]Face Detection & Tracking[/interests]
+
+<IMAGE src="index_files/image003.gif" alt=""/>_Computer Skills
+
+  * [interests]Programming Languages[/interests]: [interests]C/C++[/interests], [interests]Visual C++ (MFC)[/interests], [interests]MS Access[/interests], [interests]MatLab[/interests], [interests]HTML[/interests], [interests]UNIX[/interests], [interests]Scheme[/interests]
+
+  * [interests]Operating Systems[/interests]: [interests]Win95/98/2000[/interests], [interests]Linux[/interests], [interests]Dos[/interests][/resinterests]
+
+<IMAGE src="index_files/image003.gif" alt=""/>_[resactivity]Activities & Work Experience
+
+  * 2001. 8 â€?Current: [position]Student member[/position] of [affiliation]IEEE[/affiliation]
+
+  * 2002. 1 â€?Current: [position]Student member[/position] of [affiliation]SPIE[/affiliation]
+
+  * 2002. 9: Volunteer, VSMM Conference, Gyungju, Korea
+
+  * 2001. 6 â€?2001. 8: Summer Sessions Student at University of California at Berkeley (UCB)[/resactivity]
+
+o Taken Classes: Scheme Language (Dept. of Computer Science), Technical Writing
+
+  * Award in Public Subscription of Thesis for Activating S/W Industry in Gwangju (Jan. 2002), Korea IT Industry Promotion Agency (KIPA),Gwangju, Korea
+
+<IMAGE src="index_files/image003.gif" alt=""/>_Teaching Experience
+
+  * Teaching Assistant, 2003 Spring, Random Process (Prof. Woontack Woo), Dept. of Info. & Comm., KJIST.
+
+  * Teaching Assistant, 2002 Spring, Human Computer Interaction (Prof. Woontack Woo), Dept. of Info. & Comm., KJIST.
+
+o Video Capture using USB and IEEE 1394 Camera
+
+  * Grader, 2000 Spring, Digital Signal Processing (Prof. Yo-Sung Ho), Dept. of Info. & Comm., KJIST.
+
+<IMAGE src="index_files/image003.gif" alt=""/>_[publication]Publications
+
+  * <b>Photo-realistic Virtual Environment</b>
+
+    * S. Kim and W. Woo, â€œIMAGE-BASED PANORAMIC 3D VIRTUAL ENVIRONMNET USING ROTATING TWO MULTI-VIEW CAMERAS,â€?IEEE Proc. ICIP2003, vol. xxx, pp. xxx-xxx, Sept. 14-17, 2003 (accepted).
+
+    * S. Kim and W. Woo, â€œResearch trend on 3D image-based immersive virtual environment generation techniques,â€?Journal on Korea Information Processing Society (KIPS03), vol. 10, pp. 32-39, Jan. 1, 2003.
+
+    * S. Kim and W. Woo, â€œVirtual Environment Generation using 3D Image-based Panorama,â€?15th Workshop on Image Processing and Image Understanding (IPIU03), pp. 111-116, Jan. 8-10, 2003.
+
+    * S. Kim and W. Woo, â€œImage-based 3D Mosaicking using Multiple 3D Cameras,â€?Korean Institute of Communication and Sciences (KICS02), vol. 26, pp. 58-61, Nov. 23, 2002.
+
+  * <b>Wearable Computing</b>
+
+    * S. Kim, N. Zhang and W. Woo, â€œWearable Data Retrieval System using 3D Vision-based HMD,â€?HCI Korea 2002, Feb. 4-7, 2002
+
+  * <b>Media Systems: 3D Interface</b>
+
+    * J. Yoon, S. Kim, J. Ryu and W. Woo, â€œA Full Body Multimodal Kendo Game with an Intelligent Cyber Fighter,â€?IEEE TRANSACTIONS ON MULTIMEDIA, VOL. 6, NO. 3, NOVEMBER, 2002 (Under Examination)
+
+    * J. Yoon, S. Kim, J. Ryu and W. Woo, â€œAn Immersive Multimodal Gumdo Game with a Cyber-Fighter,â€?Journal on Korea Information Science Society (KISS). May. 13, 2003.
+
+    * J. Yoon, S. Kim, J. Ryu and W. Woo, â€œMultimodal Gumdo Simulation: The Whole Body Interaction with an Intelligent Cyber Fencer,â€?Lecture Notes in Computer Science, vol. 2532, pp. 1088-1095, Dec. 16, 2002.
+
+    * J. Yoon, S. Kim, J. Ryu and W. Woo, "An Immersive Kendo (Gum-do) Game?with an Intelligent Cyber-Fighter," VRAI02, pp. 400-407, April. 9, 2002.
+
+    * J. Yoon, S. Kim, J. Ryu, W. Woo, "An Immersive Multi-modal Virtual Kendo (Gum-do) Game with an Intelligent Cyber Fighter," in Proc. of KHCI, vol., no., pp., Feb. 2002.
+
+    * S. Kim and W. Woo, "3D Movement Tracking with Asynchronous Digital Cameras for Interactive Systems," in Proc. SPIE PW-EI-VCIP'02, vol. , pp. , Jan. 2002.
+
+  * <b>Image Retrieval</b>
+
+    * S. Kim, W. Woo and Y. Ho, "Image Retrieval using Multi-Scale Color Clustering," IEEE Proc. ICIP2001, vol. I, pp. 666-669, Oct. 7-10, 2001.
+
+    * S. Kim, W. Woo and Y. Ho, "Image Segmentation using Multi-Scale Color Clustering for Image Retrieval Systems," ITC-CSCC2001, vol. II, pp. 889-982, July, 2001.
+
+  * <b>Face Detection</b>
+
+    * S. Kim and Y. Ho, â€œIllumination-Adaptive Face Detection and Facial Feature Extraction,â€?World Multiconference on SCI 2000, vol. 5, part 1, pp. 128-132, July 23-26, 2000.
+
+    * S. Kim and Y. Ho, â€œIllumination-adaptive Face Detection and Facial Feature Extraction in Color Images,â€?Proceeding of the 1999 Korean Signal Processing Conference, vol. 12, No. 1, pp. 1097-1100, Oct. 2, 1999.[/publication]
+
+<IMAGE src="index_files/image003.gif" alt=""/>_Notices
+
+  * Do you want to Know about me more? Visit Here!!
+
+  * Would you visit the WearComp Group?
+
+  * WearComp (Wearable Computing)
+
+  * Stereo Vision
+
+  * Mosaicking (Panorama)
+
+  * Basic Teminology of Stereo Vision
+
+  * Useful Expressions for Writing Papers
+
+  * Activities
+
+  * Frequently Used Codes
+
+  * Internet Dictionary
+
+  * References
+
+<b> </b>
+
+<b>S/W</b>
+
+Intel OpenCV b3.1 Library
+
+Intel IPL 2.5
+
+Digiclops 2.3
+
+Triclops 3.1

@@ -1,0 +1,44 @@
+[pic]<IMAGE src="index_files/Chen-Photo-S.JPG" alt=""/>[/pic]
+
+
+
+Welcome to Professor Chen's home page......
+
+
+Professional Profiles
+
+
+[resinterests]Research Areas
+
+  * Wireless Sensor Networks
+
+  * Mobile Wireless Communications
+
+  * Image and Video Processing
+
+  * Networked and Streaming Multimedia[/resinterests]
+
+
+Teaching at FIT - Spring 2006: ECE5118 <IMAGE src="index_files/WICE-Logo.jpg" alt=""/>
+
+
+[contactinfo]Contact Information:
+
+  Chang Wen Chen, [phddegree]Ph.D[/phddegree].
+  [position]Allen S. Henry Distinguished Professor[/position]
+  [position]Director[/position], [affiliation]Wireless Center of Excellence[/affiliation]
+  [affiliation]Department of Electrical & Computer Engineering
+  Florida Institute of Technology[/affiliation]
+  [address]150 West University Blvd.
+  Melbourne, FL 32901
+  U.S.A.[/address]
+
+  Office: [address]305 Olin Engineering Complex[/address]
+  Phone: [phone](321) 674-8769[/phone]
+  Fax: [fax](321) 674-8192[/fax]
+  Email: [email]cchen@fit.edu[/email][/contactinfo]
+
+
+<IMAGE src="black-pixel.gif" alt=""/>
+
+Copyright ?2005 Wireless Center of Excellence, Florida Institute of Technology Prof. Chang Wen Chen

@@ -1,0 +1,173 @@
+Min Chen, BSc ([bsuniv]Fudan[/bsuniv]) PhD ([phduniv]Wales[/phduniv])
+
+
+[position]Professor[/position]
+
+[pic]<IMAGE src="images/MC.jpg" alt=""/>[/pic]
+
+[resinterests]<b>Research Interests:</b> [interests]Computer Graphics and Visualisation[/interests] (1987-present); [interests]Multimedia Communication[/interests] (1996-present); [interests]Distributed Computation[/interests] (1995-present); [interests]Computational Geometry[/interests] (1987-present); [interests]Computer-Aided Engineering[/interests] (1984-1990).
+Please visit the www pages of the <b>Visual and Interactive Computing Group</b>.[/resinterests]
+My biggest wish is to have more time for research. I will be taking a research sabbatical in the 2005/2006 session.
+
+<b>Teaching Interests:</b> Operating Systems (CS_228, 1991-2002); Computer Graphics II (CS_307, 1995-2005); Data Communications and Computer Networks (CS_238, 1995-2002); Computer Graphics Algorithms (1992-1994); Introduction to Algorithms (1991-1993); Projects Supervision (CS_334/344, 1991-present, my favourite).
+Students will be informed of a specific web address for course notes at the end of each module.
+
+<b>Administration:</b> [position]Co-director[/position] of [affiliation]WDA-CETIC Centre for Communications and Software Technologies[/affiliation] (2002-present); Departmental Director of Research (1996-2005); Departmental Course Handbook (1996-2005); MPhil/PhD Admissions (1996-2001); Examination Secretary (1992, 1995).
+
+<b>Others:</b> I had a perhaps naive suggestion for dealing with spams and junk emails using a two stage email transfer protocol. I would love to hear from experts as to whether it is workable and how it can be improved.
+
+[contactinfo]Tel.: [phone](+44) 1792 295663[/phone]
+Fax: [fax](+44) 1792 295708[/fax]
+E-mail: [email]m.chen at mail host swansea.ac.uk[/email][/contactinfo]
+
+
+[publication]Publications since 2001
+
+  1. M. Chen, R.P. Botchen, R.R. Hashim, D. Weiskopf, T. Ertl and I.M. Thornton, <b>Visual signatures in video visualization</b>, IEEE Transactions on Visualization and Computer Graphics, 12(5):1093-1100, 2006.
+
+  2. C. Correa, D. Silver and M. Chen, <b>Feature aligned volume manipulation for illustration and visualization</b>, IEEE Transactions on Visualization and Computer Graphics, 12(5_:1069-1076, 2006.
+
+  3. D. Rodgman and M. Chen, <b>Refraction in volume graphics</b>, to appear in Graphical Models, 2006.
+
+  4. S. Islam, D. Silver and M. Chen, <b>Volume splitting and its applications</b>, IEEE Transactions on Visualization and Computer Graphics 13(2), 2007, in press. Download draft for personal use only (10M)
+
+  5. D. Chisnall, M. Chen and C. Hansen, <b>Knowledge-based out-of-core algorithms for data management in visualization</b>, in Proc. EuroVis 2006, May 2006.
+
+  6. M. Strengert, T. Klein, R. Botchen, S. Stegmaier, M. Chen and T. Ertl, <b>Spectral volume rendering using GPU-based raycasting</b>, accepted by Visual Computer.
+
+  7. S.Z.Z. Abidin, M. Chen and P.W. Grant, <b>Designing interaction protocols using noughts and crosses type games</b>, to appear in Journal of Networks and Computer Applications, in 2006.
+
+  8. A. Abdul-Rahman and M. Chen, <b>Spectral volume rendering based on the Kubelka-Munk theory</b>, Computer Graphics Forum, 24(3), 2005, and presented in Eurographics 2005.
+
+  9. M. Chen, C. Correa, S. Islam, M.W. Jones, P.-Y. Shen, D. Silver, S.J. Walton and P.J.Willis, <b>Deforming and animating discretely sampled object representations</b>, presented in Eurographics 2005, State of the Art Report, Dublin, 2005.
+
+  10. K. Brodlie, J. Brooke, M. Chen, D. Chisnall, A. Fewings, C. Hughes, N.W. John, M.W. Jones, M. Riding and N. Roard, <b>Visual supercomputing -- technologies, applications and challenges</b>, in Computer Graphics Forum, 24(2), 2005; It was initially presented in Eurographics 2004, State of the Art Report, Grenoble, 2004. Download draft for personal use only (0.8M)
+
+  11. D. Rodgman and M. Chen, <b>Regularised anisotropic nonlinear diffusion for rendering refraction in volume graphics</b>, in Proc. IMA Conference on Vision, Video and Graphics July 2005.
+
+  12. M. Chen <b>Combining point clouds and volume objects in volume scene graphs</b>, in Proc. Volume Graphics, June 2005. Download PDF for personal use only (3.3M, with correction to an equation) and Color Plate (1.4M)
+
+  13. D. Rodgman and M. Chen, <b>Volume denoising for visualizing refraction</b>, in G.-P. Bonneau, T. Ertl, G.M. Nielson (eds), Scientific Visualization: The Visual Extraction of Knowledge from Data, Springer, 2006.
+
+  Download draft for personal use only(1M)14. S. Islam, S. Dipankar, D. Silver and M. Chen, <b>Spatial and temporal splitting of scalar fields in volume graphics</b>, in Proc. IEEE Symposium of Volume Visualization and Graphics, Austin, October 2004.
+
+  15. D.P. Clark, M. Chen and J.V. Tucker, <b>Automatic program translation - the third way</b>, in Proc. IEEE Multimedia Software Engineering, Miami, December 2004.
+
+  16. S.Z.Z. Abidin, M. Chen and P. Grant. <b>Managing Interaction and Interest - through the Keyhole of Noughts and Crosses Games</b>, in Proc. IEEE Multimedia Software Engineering, Miami, December 2004.
+
+  17. D.P. Clark, M. Chen and J.V. Tucker, <b>GALE: graphical anamorphic language environment</b>, in Proc. 8th World Conference on Systemics, Cybernetics and Informatics, Volume 2, pp.135-140, Orlando, July 2004.
+
+  18. J. Gooch and M. Chen, <b>Virtual secretary: a knowledge-based user interface for file management</b>, in Proc. 8th World Conference on Systemics, Cybernetics and Informatics, Orlando, July 2004.
+
+  19. G.W. Daniel and M. Chen, <b>Video visualization</b>, Proc. IEEE Visualization 2003, 409-416, Seattle, WA, October 2003. Download draft for personal use only (10M)
+
+  20. M. Chen, R.H. Clayton, A.V. Holden and J.V. Tucker, <b>Constructive volume geometry applied to visualisation of cardiac anatomy and electrophysiology</b>, International Journal of Bifurcation and Chaos, Vol. 13, No. 12, 2003.
+
+  21. G.W. Daniel and M. Chen, <b>Visualising video sequences using direct volume rendering</b>, Proc. the 1st International Conference on Vision, Video and Graphics (VVG2003), 103-110, Eurographics/ACM Workshop Series, Bath, July 2003.
+
+  22. G.W Daniel and M. Chen, <b>Interaction control protocols for distributed multi-user multi-camera environments</b>,  Journal on Systemics, Cybernetics and Informatics, Vol. 1, No.5, 2003, a short version of this paper was published in Proc. the 7th World Multiconference on Systemics, Cybernetics and Informatics, Vol. I, 448-453, Orlando, Florida, July 2003.
+
+  23. A. Smith, M. Chen and M. F. Webster, <b>Vista: a Web-based virtual environment for automatically managing and exhibiting imagery data</b>, Proc. the 7th World Multiconference on Systemics, Cybernetics and Informatics, Orlando, Florida, July 2003.
+
+  24. M. Chen, D. Silver, A. S. Winter, V. Singh and N. Cornea, <b>Spatial transfer functions - a unified approach to specifying deformation in volume modeling and animation</b>, Proc. Volume Graphics 2003, 35-44, 163, Eurographics/ACM Workshop Series, Tokyo, July 2003.
+
+  25. A. Smith, M. Chen and M. F. Webster <b>Developing a global repository and showplace for imagery data</b>, Proc. 2003 Conference on Theory and Practice of Computer Graphics, 178-184, M. W. Jones (ed), Birmingham, IEEE Computer Society, June 2003.
+
+  26. M. Chen, R. H. Clayton, A. V. Holden and J. V. Tucker, <b>Visualising cardiac anatomy using constructive volume geometry</b>, Functional Imaging and Modeling of Heart, Lecture Notes in Computer Science, 2674, 30-38, I. E. Magnin, J. Montagnat, P. Clarysse, J. Nenonen, T. Katila (Eds.), June 2003.
+
+  27. M. Chen, A. S. Winter, D. Rodgman and S. M. F. Treavett, <b>Enriching volume modelling with scalar fields</b>, in F. Post, G. M. Nielson and G.-P. Bonneau (eds) Data Visualization: the State of the Art, 345-362, Kluwer Academic Publishers, 2003 (appeared in 2002). Download draft DataVis2003.pdf (1M)
+
+  28. H. Zhou, M. Chen and M.F. Webster, <b>Comparative evaluation of visualization and experimental results using image comparison metrics</b>, Proc. IEEE Visualization 2002, Boston, USA, 315-322, Nov. 2002. Download draft Vis2002.pdf (1.2M)
+
+  29. A. S. Winter and M. Chen, <b>Image-swept volumes</b>, Computer Graphics Forum, volume 21, no. 3, 441-456, 460, 2002. Download draft for personal use only (618K)
+
+  30. A.S. Haji-Ismail, M. Chen, P.W. Grant and M. Kiddell, <b>JACIE - an authoring language for rapid prototyping net-centric, multimedia and collaborative applications</b>, Annals of Software Engineering, 12, 47-75, 2001.
+
+  31. S. M. F. Treavett, M. Chen, R. Satherley and M. W. Jones, <b>Volumes of expression: artistic modelling and rendering of volume datasets</b>, Proc. Computer Graphics International 2001, Horace, Magnenat-Thalmann, Lau and Chua (eds.), 99-106, Hong Kong, July 2001, IEEE Computer Society, 2001.
+
+  32. A. S. Winter and M. Chen, <b>vlib: A Volume Graphics API</b>, K. Mueller and A. Kaufman (eds.), Volume Graphics 2001, 133-147, Springer Wien New York, 2001.
+
+  33. D. Rodgman and M. Chen, <b>Refraction in Discrete Raytracing</b>, K. Mueller and A. Kaufman (eds.), Volume Graphics 2001, 3-17, Springer Wien New York, 2001.
+
+  34. M. Chen, <b>Volume graphics</b>, Encyclopedia of Microcomputers, Vol. 26, A. Kent and J.G. Williams (eds.), 363-387, Marcel Dekker, New York, 2001; also to appear in Encyclopedia of Computer Science and Technology.
+
+
+Publications between 1996 and 2000
+
+  * A.S. Haji-Ismail, M. Chen, P.W. Grant and M. Kiddell, <b>JACIE - an authoring language for rapid prototyping net-centric, multimedia and collaborative applications</b>, (shortened version), Proc. IEEE International Symposium on Multimedia Software Engineering, Taipei, IEEE Computer Society, 385-392, December 2000.
+
+  * M. Chen and J. V. Tucker, <b>Constructive volume geometry</b>, Computer Graphics Forum, Vol.19, No.4, 281-293, 2000. Download draft CGF2000.pdf (450K)
+
+  * S. Treavett and M. Chen, <b>Pen-and-Ink rendering in volume visualization</b>, Proc. IEEE Visualization 2000, Salt Lake City, Utah, Ertl, Hamann and Varshney (eds.), 203-209, IEEE Computer Society, October, 2000.
+
+  * S. Hong and M. Chen, <b>A modular environment for modelling and simulatong multimedia conferencing over interconnected networks</b>, Proc. International Conference on Communications Technology 2000, Beijing, IEEE Catalog 00EX420, Volume II, 1220-1227, August 2000.
+
+  * M. Kiddell and M. Chen, <b>Multimedia communications in remote interviews</b>, Proc. the First International Workshop on Intelligent Multimedia Computing and Networking (IMMCN'2000), Atlantic City, New Jersey, February/March, 2000.
+
+  * M. Chen, A. E. Kaufman and R. Yagel (eds.), <b>Volume Graphics</b>, Springer, London, ISBN-1-85233-192-5, February 2000.
+
+  * M. Kiddell, M. Chen, D.J. Oborne, F.W. Slater and M. McCulloch, <b>A system architecture for remote multimedia interviewing</b>, Proc. Second International Conference on Information, Communications, and Signal Processing (ICICS'99), Singapore, November 1999.
+
+  * A. S. Haji-Ismail, M. Chen, P. W. Grant, <b>Managing interactions and communications in collaborative multimedia applications: the JACIE way</b>, Proc. Second International Conference on Information, Communications, and Signal Processing (ICICS'99), Singapore, November 1999.
+
+  * A. Leu and M. Chen, <b>Modeling and rendering graphics scenes composed of multiple volumetric datasets</b>, Computer Graphics Forum, Vol.18, No.2, 159-171, June 1999. Download draft CGF1999.pdf (450K)
+
+  * M. Kiddell, M. Chen, D.J. Oborne, F.W. Slater and M. McCulloch, <b>TRIUMF - a system for remote multimedia interviewing</b>, Proc. IEEE International Conference on Multimedia Computing and Systems (ICMCS'99), Volume II, 715-719, Florence, Italy, June 1999.
+
+  * M. Chen, J.V. Tucker and A. Leu, <b>Crove - A rendering system for constructive representations of volumetric environments</b>, Preprint of International Workshop on Volume Graphics, 275-294, Swansea, UK, March 1999. Also in M. Chen, A. E. Kaufman and R. Yagel (eds), Volume Graphics, Chapter 6, Springer, London, February 2000.
+
+  * A. Leu and M. Chen, <b>Direct rendering algorithms for complex volumetric scenes</b>, Proc. 16th Eurographics UK Conference, Leeds, 1-15, March 1998
+
+  * J. Ennis, M. Chen and M.K. Perrella, <b>The integration of multimedia information and multimedia communication</b>, Proc. 15th Eurographics UK Conference, Norwich, 157-166, March 1997.
+
+  * S.M.F. Treavett and M. Chen, <b>Statistical techniques for the automated synthesis of non-photorealistic images</b>, Proc. 15th Eurographics UK Conference, Norwich, 201-210, March 1997.
+
+  * M. Chen, M.W. Jones, and P. Townsend, <b>Volume distortion and morphing using disk fields</b>, Computer & Graphics, Vol.20, No.4, 567-575, 1996. Download draft CG1996.pdf (250K)
+
+  * A.Z.B. Haji Talib, M. Chen and P. Townsend, <b>Three major extensions to Kirkpatrick's point location algorithm</b>, Proc. Computer Graphics International (CGI'96), Pohang, Korea, 112-121, IEEE Computer Society Press, June 1996.
+
+  * M.D. Bews and M. Chen, <b>A novel design for a portable, efficient, affordable 3D surface digitiser</b>, Proc. 14th Eurographics UK Conference, London, Vol.2, 317-326, March 1996.
+
+  * S. Michael and M. Chen, <b>The 3D reconstruction of facial features using volume distortion</b>, Proc. 14th Eurographics UK Conference, London, Vol.2, 297-306, March 1996
+
+  * M. Chen and A. Leu, <b>Parallel multi-volume rendering on distributed memory architectures</b>, Proc. the 1st Eurographics Workshop on Parallel Graphics and Visualisation, Bristol, 173-187, March 1996.
+
+  * M. Chen, P. Townsend and J. Vince (eds.), <b>High Performance Computing for Computer Graphics and Visualisation</b>, Springer-Verlag, London, ISBN 3-540-76016-4, 1996.[/publication]
+
+<IMAGE src="images/VGs.jpg" alt=""/>
+see also
+[contactinfo][email]vg.swan.ac.uk[/email][/contactinfo]
+
+<IMAGE src="images/HPCGVs.jpg" alt=""/>
+
+
+[publication]Selected Publications before 1996
+
+You will find a complete list of publications at http://www-compsci.swan.ac.uk/~cschenm/publications.html (under construction).
+
+  * M.W. Jones and M. Chen, <b>Fast cutting operations on three dimensional volume datasets</b>, Visualization in Scientific Computing, M. Goebel, Hueller and B. Urban (eds.), 1-8, Springer-Verlag, Berlin, 1995.
+
+  * M. Chen, M.W. Jones and P. Townsend, <b>Methods for volume metamorphosis</b>, Image Processing for Broadcast and Video Production Y. Parker and S. Wilbur (eds.), 280-292, Springer-Verlag, Berlin, 1995. Download draft WIC1994.pdf (59K)
+
+  * M.W. Jones and M. Chen, <b>A new approach to the construction of surfaces from contour data</b>, Computer Graphics Forum Vol.13, No.4, 75-84, 1994.
+
+  * H.A. Barker, M. Chen, P.W. Grant, C.P. Jobling and P. Townsend, <b>An open architecture for computer-aided control engineering</b>, IEEE Control Systems Vol.13, 17-27, 1993.
+
+  * H.A. Barker, M. Chen, P.W. Grant, C.P. Jobling and P. Townsend, <b>Modelling environments for computer-aided control engineering</b>, International Journal of Modelling and Simulation Vol.13, 67-71, 1993.
+
+  * H.A. Barker, M. Chen, P.W. Grant, C.P. Jobling and P. Townsend, <b>Graphical user interfaces in computer aided control system design</b>, CAD for Control Systems, D. Linkens (ed.), 561-578, Marcel Dekker, New York, 1993.
+
+  * M. Chen, P. Townsend and C.Y. Wang, <b>A development environment for constructing graph-based editing tools</b>, Computer Graphics Forum Vol.2, No.3, 345-355, 1992.
+
+  * H.A. Barker, M. Chen, P.W. Grant, C.P. Jobling and P. Townsend, <b>Development of an intelligent man-machine interface for computer-aided control system design and simulation</b>, Automatica, Vol.25, No.2, 1989.
+
+  * H.A. Barker, M. Chen, C.P. Jobling and P. Townsend, <b>Interactive graphics for the computer aided design of dynamic systems</b>, IEEE Control Systems Magazine, Vol.7, No.3, 19-25, 1987.
+
+  * H.A. Barker, M. Chen, P.W. Grant, C.P. Jobling and P. Townsend, <b>A graphical pre-processor for computer-aided control system design</b>, Trans. Inst. M.C., Vol.9, No.1, 40-44, 1987.
+
+  * M. Chen and P. Townsend, <b>Efficient and consistent algorithms for determining the containment of points in polygons and polyhedra</b>. Eurographics'87, 423-438, North-Holland, 1987.[/publication]
+
+University Home | Computer Science Home
+Contact Page Editor
+
+Last updated at 10:00am on 19 February 2006 by Prof. M. Chen

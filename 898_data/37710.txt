@@ -1,0 +1,65 @@
+[pic]<IMAGE src="spielman.jpg" alt=""/>[/pic]
+
+
+[contactinfo]Daniel A. Spielman
+[position]Professor[/position] of Applied Mathematics and Computer Science
+[affiliation]Department of Computer Science
+Yale University[/affiliation]
+[address]PO Box 208285
+New Haven, CT 06520-8285[/address]
+phone: [phone](203) 436-1264[/phone]
+fax: [fax](203) 432-0593[/fax]
+[email]lastname at cs dot yale dot edu[/email][/contactinfo]
+Follow this link to schedule an appointment
+
+[resinterests]<b>Current Research interests:</b> [interests]Design and Analysis of Algorithms and Heuristics[/interests], [interests]Smoothed Analysis[/interests], [interests]Combinatorial Scientific Computing[/interests], [interests]Error-Correcting Codes[/interests][/resinterests]
+
+<b>Research:</b> <b>Research Overview</b>, in Postscript or PDF (outdated)
+
+<b>My Papers</b>, sorted by Year or sorted by Subject (slightly outdated)
+
+[publication]<b>My Thesis:</b> Computationally Efficient Error-Correcting Codes and Holographic Proofs[/publication]
+
+<b>More Information on:</b> Smoothed analysis, at the <b>Smoothed Analysis Homepage</b>, including our analysis of the Simplex Method.
+
+Other work on Algorithms, including Graph Partitioning, and Solving linear systems
+
+My work on Error Correcting Codes, including Tornado Codes and Linear-Time Codes
+
+My work on Computational Complexity, including Quantum Computation and Holographic Proofs
+
+My work on Fault-Tolerant Parallel Computation
+
+<b>Seminar:</b> Discrete Math and Theoretical Computer Science Seminar
+
+<b>Course Homepages:</b> AMTH/CPSC 462/562: Graphs and Networks
+
+CPSC 365: Design and Analysis of Algorithms
+
+Spectral Graph Theory and its Applications
+
+Error-Correcting Codes Laboratory (MIT)
+
+Eigenvalues of Graphs with Applications (MIT)
+
+The Behavior of Algorithms (MIT)
+
+Advanced Complexity Theory (MIT)
+
+Applied Extremal Combinatorics (MIT)
+
+<b>Former Students:</b> Adam Klivans (Ph.D. 2002), Louay Bazzi (Ph.D. 2003)
+
+Mohammad Mahdian (Ph.D. 2004), Arvind Sankar (Ph.D. 2004)
+
+<b>Present Students:</b> Amit Deshpande, Jon Kelner
+
+<b>Bio, CV, etc.</b> Short Bio, CV in Postscript, CV in PDF, Picture.
+
+[resactivity]<b>Professional Activities:</b> [position]Editorial Board[/position] of [affiliation]Theory of Computing[/affiliation][/resactivity]
+
+<b>Useful links:</b> For combinatorial scientific computing, theory of computation, coding theory, software.
+
+Daniel A. Spielman
+
+Last modified: Fri Jan 6 11:13:08 EST 2006

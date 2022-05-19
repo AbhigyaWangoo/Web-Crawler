@@ -1,0 +1,88 @@
+  * Skip to Page Content
+
+  * Skip to Site Navigation
+
+  * Skip to Section Navigation
+
+<IMAGE src="/images/bluelogo.gif" alt="Brunel University - West London"/><IMAGE src="/images/whitespace.gif" alt="Skip Site Navigation"/>
+
+  * <IMAGE src="/images/about.gif" alt="About Us"/>
+
+  * <IMAGE src="/images/courses.gif" alt="Courses"/>
+
+  * <IMAGE src="/images/life.gif" alt="Life at Brunel"/>
+
+  * <IMAGE src="/images/research.gif" alt="Research"/>
+
+  * <IMAGE src="/images/international.gif" alt="International Students"/>
+
+  * <IMAGE src="/images/business.gif" alt="Business"/>
+
+  * <IMAGE src="/images/news.gif" alt="News & Events"/>
+
+  * <IMAGE src="/images/search.gif" alt="Search"/>
+
+  * <IMAGE src="/images/disabled_users.gif" alt="Disabled Users"/>
+
+  * <IMAGE src="/images/contact_us.gif" alt="Contact Us"/>
+
+<IMAGE src="School+Staff.bjpg?theme=business" alt="School Staff"/>
+
+Brunel Home > ... > Staff > Business and Management > Kevin Lu
+
+
+
+Kevin Lu
+
+<b>Name:</b>
+
+Dr Kevin Lu [pic]<IMAGE src="/334/BusinessManagement/New%20Staff%20Images/KevinLuWEB.jpg" alt="Kevin Lu"/>[/pic]
+
+<b>Job Title:</b>
+
+[contactinfo][position]Lecturer[/position]
+
+<b>Email:</b>
+
+[email]Kevin.Lu@Brunel.ac.uk[/email]
+
+<b>Office:</b>
+
+[address]BSBM76[/address]
+
+<b>Phone:</b>
+
+[phone]65254[/phone]
+
+<b>Direct Line:</b>
+
+[phone]01895 265254[/phone][/contactinfo]
+
+<b>Personal Web Site:</b>
+
+[homepage]http://www.brunel.ac.uk/~cbstkjl/
+[/homepage]
+<b>Profile:</b>
+
+[introduction]Kevin is a [position]Business Computing specialist[/position]. He teaches Databases and Data Mining Systems and Enterprise Information Systems.[/introduction]
+
+[resinterests]<b>Research Interests:</b>
+
+[interests]Business computing[/interests]; [interests]Enterprise information systems[/interests]; [interests]Data management and data mining[/interests]; [interests]Multi-agent systems[/interests].[/resinterests]
+
+[publication]<b>Publications:</b>
+
+â€œResolving Logistic Issues for London Underground Using Multi-agent Techniquesâ€? International Journal of Intelligent Systems Technologies and Applications. V2 N1 2007.
+
+A Heterogeneous Computing System for Data Mining Workflows in Multi-agent Environments. Expert Systems: the Journal of Knowledge Engineering, 23(5), 258-272 (2006).
+
+â€œA Preprocess Algorithm of Filtering Irrelevant Information Based on the Minimum Class Differenceâ€? Journal of Knowledge-Based Systems. 19 (2006) 422-429.  Elsevier. 
+
+â€œModelling Parallel Oracle for Performance Predictionâ€? Journal of Distributed and Parallel Databasesâ€? vol. 13, issue 3, Kluwer Academic Publishers, ISSN: 0926-8782, pp. 251-269, May 2003.
+
+â€œAn Analytical Tool for Predicting the Performance of Parallel Relational Databasesâ€? Journal of Concurrency: Practice and Experience, Volume 11 Number 11, September 1999. John Wiley & Sons.[/publication]
+
+<IMAGE src="/images/whitespace.gif" alt="Skip Section Navigation"/>Business and Management
+
+
+Back to top of pageÂ© Brunel University 2007 Intranets | Disclaimer | Site Map | Powered by Primalis Â©<IMAGE src=" http://uk.sitestat.com/brunel/brunel-ext/s?SchoolStaff.KevinLu" alt=""/>

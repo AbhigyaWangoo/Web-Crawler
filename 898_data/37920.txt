@@ -1,0 +1,107 @@
+Piotr Indyk
+
+[pic]<IMAGE src="mee.JPG" alt="my picture"/>[/pic]
+
+[introduction]I am an [position]Associate Professor[/position] in the [affiliation]Theory of Computation Group , Computer Science and Artificial Intelligence Lab[/affiliation]. I moved in here from the [phdmajor]Computer Science[/phdmajor] Department, [phduniv]Stanford University[/phduniv], where I finished my [phddegree]Ph.D.[/phddegree] by defending this thing. See my bio for more information.[/introduction]
+
+
+News: Check out our new web page on the new LSH algorithm and code.
+
+
+[resinterests]Research Interests: For the past few years I have been working mainly on [interests]high dimensional computational geometry[/interests], [interests]data stream algorithms[/interests], and [interests]low-distortion embeddings[/interests]. Additional interests include [interests]algorithmic coding theory[/interests] , [interests]geometric and combinatorial pattern matching[/interests], [interests]learning theory[/interests] etc.[/resinterests]
+
+
+Students:
+
+  * Alex Andoni
+
+  * Mihai Badoiu
+
+  * Anastasios Sidiropoulos
+
+  * Nitin Thaper
+
+  * David Woodruff
+
+
+[resactivity]Program committees:
+
+  * VLDB'07 (33rd International Conference on Very Large Data Bases, Vienna, Austria)
+
+  * STOC'06 (38th ACM Symposium on Theory of Computing, Seattle, WA)
+
+  * SIGMOD'06 (25th ACM SIGMOD International Conference on Management of Data, Chicago, IL)
+
+  * PODS'05 (24th ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems, Baltimore, MA)
+
+  *  SODA'05 (16th ACM-SIAM Symposium on Discrete Algorithms, Vancouver, Canada)
+
+  *  KDD'04 (10th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Seattle, WA)
+
+  *  Workshop on Discrete Metric Spaces and Their Algorithmic Applications , Princeton, August 20-23, 2003.
+
+  *  Workshop on Approximate Nearest Neighbors Methods for Learning and Vision , at NIPS, Whistler, BC, Canada, December 2003.
+
+  *  KDD'03 (9th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Washington, DC)
+
+  *  FOCS'02 (42nd Symposium on Foundations of Computer Science, Vancouver)
+
+  * SoCG'01 (17th ACM Symposium on Computational Geometry, Tufts U, Medford, MA)[/resactivity]
+
+
+[publication]Publications: Here is a list of some of my papers (with PS files).
+
+
+Talks:
+
+  *  A tutorial on Low-distortion embeddings and data structures, given at the Concentration Week on Metric Geometry and Geometric Embeddings of Discrete Metric Spaces, Texas A&M University, 2006.
+
+  *  A talk on "Near-Optimal Hashing Algorithms for Approximate Near(est) Neighbor Problem", given at MMDS'06: Workshop on Algorithms for Modern Massive Data Sets, Stanford, 2006.
+
+  * Approximation Algorithms for Embedding Problems, given at Fast Manifold Learning Workshop, College of William and Mary, 2006.
+
+  *  An invited talk on "Streaming Algorithms for Geometric Problems" at CCCG'04, FSTTCS'04 , FOCM'05 and Sublinear Algorithms Workshop.
+
+  *  A talk on Efficient Similarity Search in High Dimensions" that I gave at LEMS, Brown University, July 2004.
+
+  *  An invited talk on "Embedded Stringology" at the Symposium on Combinatorial Pattern Matching (CPM 2004)".
+
+  *  An invited talk on "Algorithmic Applications of Low-Distortion Embeddings" at the Snowbird Learning Workshop 2004 .
+
+  *  Two surveys for the upcoming 2nd edition of "CRC Handbook of Discrete and Computational Geometry": "Nearest Neighbors in High-dimensional Spaces" and "Low Distortion Embeddings of Finite Metric Spaces" (with Jiri Matousek).
+
+  * An invited talk on Approximate Nearest Neighbor (Beyond the l_p norms) at the International Workshop on Designing Tomorrow's Category-Level 3D Object Recognition Systems.
+
+  *  An invited talk on "Approximate Algorithms for High-Dimensional Geometric Problems" at the DIMACS Workshop on Computational Geometry'02.
+
+  *  A tutorial at FOCS 2001 on "Algorithmic Aspects of Geometric Embeddings".
+
+  *  A short course on "Nearest Neighbors and Other Problems in High Dimensional Computational Geometry" at AT&T during the summer of 1999.[/publication]
+
+
+Courses: Fall 2006: Computational Biology, Too (6.895/6.085).
+
+Fall 2005: Computational Biology (6.895/6.095).
+
+Spring 2005: Geometric Computing (6.838) .
+
+Fall 2003: Geometric Computing (6.838) .
+
+Fall 2002: Algorithms for Massive Data Sets (6.897).
+
+Fall 2001: Geometric Computation (6.838)
+
+Fall 2000: Algorithmic Aspects of Embeddings (6.978).
+
+
+[contactinfo]Contact:
+
+Piotr Indyk
+[affiliation]MIT Computer Science and Artificial Intelligence Lab[/affiliation]
+[address]Stata Center
+32 Vassar Street
+Cambridge, Massachusetts 02139[/address]
+
+Phone: [phone](617) 452-3402[/phone]
+Fax: [fax](617) 258-8682[/fax]
+email: [email]indyk ατ theory.lcs.mit.edu[/email][/contactinfo]

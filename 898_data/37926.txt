@@ -1,0 +1,43 @@
+[pic]<IMAGE src="Sylvester_03.jpg" alt=""/>[/pic]
+
+[contactinfo]<font size=6>Dennis Sylvester</font>
+<font size=4>[position]Associate Professor[/position]</font>
+<font size=2>[affiliation]Department of Electrical Engineering and Computer Science
+University of Michigan[/affiliation]</font>
+
+<font size=4>Contact Information:</font>
+<font size=3> Dr. Sylvester is currently on sabbatical for the 2006-2007 academic year at the [affiliation]National University of Singapore[/affiliation].</font>
+
+<font size=2> [affiliation]Department of Electrical Engineering and Computer Science[/affiliation]
+[address]1301 Beal Ave., 2417C EECS
+Ann Arbor, MI 48109-2122[/address]
+
+Telephone:    [phone]734-615-8783[/phone]
+Fax:             [fax]734-763-9324[/fax]
+Email:           [email]dennis@eecs.umich.edu[/email]
+
+Assistant:     [phone]734-615-3499[/phone]</font>[/contactinfo]
+
+<font size=4>FOR MORE IN-DEPTH INFORMATION PLEASE VISIT
+DENNIS SYLVESTER'S NEW RESEARCH GROUP HOMEPAGE.</font>
+
+[resinterests]<b>Research:</b>
+CV/Resume
+
+<font size=2>My research focuses on pressing issues in [interests]high-performance VLSI circuit design[/interests] and [interests]electronic design automation (EDA) in light of the aggressively
+scaled process geometries in modern MOS technologies[/interests].  My specific research interests are threefold:
+
+1) [interests]Low-power design and EDA[/interests]
+2) [interests]Variability-aware design methodologies[/interests] (i.e., Design for robustness)
+3) [interests]Interconnect modeling and analysis[/interests][/resinterests]
+
+For more details about the individual projects ongoing in my research group, please visit http://vlsida.eecs.umich.edu. For details on visiting VLSI lectures, please see: Micron Technology Foundation VLSI Seminar Series.
+
+[contactinfo]If you are interested in this type of research, please email me a resume and give me an idea of potential topics you may like to work on ([email]dennis@eecs.umich.edu[/email]).</font>[/contactinfo]
+
+<b><font size=2>Coursework:</font></b>
+<font size=2> Winter 2006 -  EECS 427 VLSI Design I
+Fall 2005 -      EECS 523 Digital Integrated Circuit Technology
+Winter 2004 -  EECS 427 VLSI Design I
+Fall 2003 -      EECS 427 VLSI Design I
+Winter 2002 -  EECS 312 Digital Integrated Circuits</font>

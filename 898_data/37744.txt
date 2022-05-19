@@ -1,0 +1,25 @@
+<IMAGE src="index_files/name.gif" alt=""/> [pic]<IMAGE src="index_files/jie_att.jpg" alt=""/>[/pic]
+
+[introduction]<b>Current affiliation</b>:
+[affiliation]Courant Institute at New York University[/affiliation]
+[position]PhD student[/position] in Computer Science
+advised by Yann LeCun.
+
+<b>Past affiliations</b>:
+NEC Research Institute, senior research associate.
+AT&T Labs-Research, consultant.
+Microsoft Research, intern.
+Carnegie Mellon University, graduate study.
+Peking University, undergraduate[/introduction].
+
+[resinterests]<b>Interests</b>:
+[interests]Machine learning and pattern recognition
+Computer vision[/interests], [interests]speech recognition[/interests]
+[interests]Programming language system development[/interests], [interests]Lush[/interests][/resinterests]
+
+[contactinfo]<b>Contact</b>:
+[email]jhuangfu [at] cs [dot] nyu [dot] edu[/email]
+[address]715 Broadway, Room 1024
+New York, NY, 10003[/address]
+Phone: [phone](212) 998-3347[/phone][/contactinfo]
+Direction by Google map

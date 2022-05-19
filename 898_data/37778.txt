@@ -1,0 +1,60 @@
+[pic]<IMAGE src="photo/cyw/cyw.jpg" alt=""/>[/pic]
+
+
+
+Claire Yingwei Cui
+
+[contactinfo][address]Rm. 420, Gates Hall
+Computer Science Department
+Stanford, CA 94305[/address]
+
+[phone](650)723-9273[/phone]
+[email]cyw@leland.stanford.edu[/email][/contactinfo]
+[homepage]http://www-db.stanford.edu/~cyw[/homepage]
+
+
+What's New
+
+  [introduction]Yingwei Cui. Lineage Tracing in Data Warehouses. Ph.D. thesis, [phduniv]Stanford University[/phduniv], [phddate]December, 2001[/phddate].
+  Graduation Ceremony, June 17, 2001. (Photographs courtesy of Prof. Hector Garcia-Molina.)[/introduction]
+
+
+[education]Education
+
+  <b>1995-[phddate]2001[/phddate] </b> [phddegree]Ph.D.[/phddegree], [phdmajor]Computer Science[/phdmajor] Department, [phduniv]Stanford University[/phduniv].
+  <b>1990-[bsdate]1995[/bsdate] </b> [bsdegree]B.S.[/bsdegree], [bsmajor]Computer Science Department[/bsmajor], [bsuniv]Tsinghua University[/bsuniv].
+  <b>1984-1990 </b> No.4 Middle School, Beijing, China.[/education]
+
+
+[resinterests]Research
+
+  I am with the [affiliation]database group in the CS department at Stanford[/affiliation]. My advisor is Prof. Jennifer Widom.
+
+  My research interests include:
+
+    * [interests]Database Management for Mobile Communication[/interests]: [interests]wireless network location management[/interests], [interests]authentication and billing systems[/interests].
+
+    * [interests]Data Warehousing[/interests] : [interests]materialized view maintenance and organization[/interests], [interests]view data lineage tracing[/interests], [interests]data integration using views[/interests].[/resinterests]
+
+  Projects, Publications, and Thesis Defense.
+
+
+Teaching
+
+  TA for CS145: Introduction to Databases, 1997 Fall.
+  Instructing CS245: Database System Principles, 1999 Summer.
+
+
+Hobbies
+
+  Volleyball, badminton, tennis, pingpong, skiing, bay area restaurants ...
+
+<IMAGE src="pictures/logo.stanford.gif" alt=""/> <IMAGE src="pictures/logo.csd.gif" alt=""/> <IMAGE src="pictures/logo.dbg.gif" alt=""/>
+
+
+Friends
+
+
+Bookmarks
+
+Last modified: June, 2000

@@ -1,0 +1,187 @@
+<IMAGE src="/images/logo.jpg" alt="FXPAL"/> <IMAGE src="/images/collage1.gif" alt=""/>
+
+printer friendly version
+
+<IMAGE src="/images/buttonUL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonUR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+home <IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonLL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonLR.gif" alt=""/>
+
+<IMAGE src="/images/buttonUL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonUR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+about us <IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonLL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonLR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonUL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonUR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+visit us <IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonLL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonLR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonUL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonUR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+employment <IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonLL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonLR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonUL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonUR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+our vision <IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonLL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonLR.gif" alt=""/>
+
+<IMAGE src="/images/buttonUL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonUR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+research <IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonLL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonLR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonUL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonUR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+collaborative
+intelligence <IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonLL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonLR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonUL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonUR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+multimedia
+computing <IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonLL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonLR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonUL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonUR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+smart
+environments <IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonLL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonLR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonUL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonUR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+research
+history <IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonLL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonLR.gif" alt=""/>
+
+<IMAGE src="/images/buttonUL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonUR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+publications <IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonLL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonLR.gif" alt=""/>
+
+<IMAGE src="/images/buttonUL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonUR.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+people <IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/buttonLL.gif" alt=""/>
+<IMAGE src="/images/spacer.gif" alt=""/>
+<IMAGE src="/images/buttonLR.gif" alt=""/>
+
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+
+Lynn Wilcox
+
+[pic]<IMAGE src="/people/portraits/wilcox.jpg" alt=""/>[/pic]
+
+[introduction]I am [position]Director[/position] of Research and [position]Project Leader[/position] of the Smart Environments project at [affiliation]FX Palo Alto Laboratory[/affiliation]. My current research interests are in[interests] audio and video editing[/interests], [interests]indexing[/interests], and [interests]retrieval[/interests]. I worked at Xerox PARC for 10 years on various projects involving audio and image wordspotting and segmentation. Before PARC, I worked at Hewlett Packard Laboratories developing a speech recognition system for personal computers. I have twenty-two patents in audio and image technologies, and have published a number of papers. I have a Ph.D. in [phdmajor]Mathematical Sciences[/phdmajor] from [phduniv]Rice University[/phduniv].[/introduction]
+
+FXPAL Publications
+
+[contactinfo][phone]650-813-7574[/phone] (Office)[/contactinfo]
+
+Send email to Lynn Wilcox
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+
+
+Copyright ?999-2007 FX Palo Alto Laboratory | Last Revised Thursday, April 13, 2006 11:11:19 AM | Send feedback to the webmaster

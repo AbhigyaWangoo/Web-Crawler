@@ -1,0 +1,34 @@
+Valerie King
+
+[pic]<IMAGE src="King-V.gif" alt=""/>[/pic]
+
+
+
+[contactinfo][position]Professor[/position]
+
+[affiliation]Department of Computer Science
+
+University of Victoria[/affiliation]
+
+[address]Victoria, B.C.
+
+CANADA V8W 3P6[/address]
+
+Phone: [phone](250) 721-7299[/phone]
+
+Fax: [fax](250) 721-7292[/fax]
+
+
+e-mail: [email]val followed by at uvic dot ca[/email][/contactinfo]
+
+
+[resinterests]Interests
+
+[interests]Randomized algorithms and data structures[/interests], [interests]applications to networks and computational biology[/interests].[/resinterests]
+
+  * Publications and Research
+
+  * CV (pdf)
+
+
+See you at STOC 2008 in Victoria!! <IMAGE src="tree.jpg" alt="Kayaking in the Broken Group Islands"/>

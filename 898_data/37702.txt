@@ -1,0 +1,231 @@
+[pic]<IMAGE src="images/Gao_Qing1.jpg" alt=""/>[/pic]
+
+
+Dr. Gao Qing
+
+
+[introduction][position]Visiting Professor[/position]
+
+
+[affiliation]School of Mechanical and Aerospace Engineering
+Oklahoma State University
+[/affiliation][/introduction]
+
+Academic Background and Professional Experience
+
+[education][phddegree]Ph.D.[/phddegree], [msdegree]M.S.[/msdegree], [bsdegree]B.S.[/bsdegree], [phdmajor]Mechanical Engineering[/phdmajor], [phduniv]JiLin University of Technology[/phduniv][/education].
+
+Professor and Head, Department of Thermal Energy Engineering, JiLin University, 2003 ;
+
+Professor, Department of Thermal Energy Engineering, JiLin University, 2000 2002;
+
+Professor, Department of Thermal Energy Engineering, JiLin University of Technology, 1999-2000
+
+Associate Professor, Department of Thermal Energy Engineering, JiLin University of Technology, 1993-1998
+
+Assistant Professor (Lecturer), Department of Thermal Energy Engineering, JiLin University of Technology, 1987-1992
+
+
+[resinterests]Areas of interest
+
+Ground Source Heat Pump and Underground Thermal Energy Storage
+
+Combustion of Clean Fuels in Engines
+
+Enhanced Heat Transfer
+
+Thermal Technology in Automobiles[/resinterests]
+
+
+[resactivity]Activities
+
+Council Member, Chinese (University) Society of Engineering Thermophysics, 2002  Present
+
+Vice President, JiLin Society of Engineering Thermophysics, 2002  Present
+
+Vice President, JiLin Society of HVAC, 2003  Present
+
+Council Member, JiLin Association of Building Saving Energy, 2003  Present
+
+Council Member, JiLin Society of Construction and Architecture, 2003  Present
+
+Member, Chinese Society of Engineering Thermophysics, Chinese Society of Automobile Engineering, Chinese Society of Internal Combustion Engine[/resactivity].
+
+
+[publication]Publication and Papers
+
+1. Li Ming, Gao Qing, Yu Ming and Xuan Zhehao, Experiment and Heat Transfer Analysis of Underground Wet Soil, Proceeding of Conference of Chinese HVAC and Refrigeration, ISBN 7-112-06769-3 LanZhou in China 2004.8 P292-297
+
+2. Li Ming and Gao Qing, Simulation and Effect of Arrangement Configuration of Borehole field, Proceeding of Conference of Chinese HVAC and Refrigeration, ISBN 7-112-06769-3 LanZhou in China 2004.8 P298-304
+
+3. Gao Qing, Li Ming, Qiao Guang, Yu Ming and Xuan Zhehao, Restorative Characteristics of Ground Temperature and Simulation Analysis of Behavior, Journal of Thermal Science and Technology, VOL.3, No.3, 2004.9 P224-228
+
+4. Gao Qing, Yu Ming, Li Ming, Qiao Guang and Fang Ying, Experiment Investigation about Enhanced Heat Transfer of Underground heat exchanger in Ground Source Heat Pump, Proceedings of the 3rd International Symposium on Heat Transfer and Energy Conservation, Vol.1, P553-558, GuangZhou In China, Jan., 2004
+
+5. Gao Qing, Li Ming, Yu Ming and Qiao Guang, Restorative Characteristics of Ground Temperature in the intermittent process about the Behavior of Earth Energy in Ground Source Heat Pump, Proceedings of the 3rd International Symposium on Heat Transfer and Energy Conservation, Vol.1, P547-552, Jan., GuangZhou In China, Jan., 2004
+
+6. Gao Qing, Yu Ming, Qiao Guang, Li Ming and  BaiJinyu, Underground temperature restoration characteristics and enhancement heat transfer in geothermal energy utilization, Journal of Jilin University (Engineering and Technology Edition)VOL.34, No.1, 2004 P107-111
+
+7. Jin Ying-ai, Gao Qing and Xuan Zhehao, Combustion Modeling in SI Engine and Prediction of Critical Knock, Journal of Combustion Science and Technology VOL.9, No.6, 2003.11 P521-524
+
+8. Gao Qing, Jin Ying-ai, Sun Zhijun, Sun Jimei and Fang Ying, Knock Measurement and Its Intensity Analysis for Spark Ignition Engines, Journal of Combustion Science and Technology VOL.9, No.4, 2003.11 P335-338
+
+9. Gao Qing, Jin Ying-ai, Xuan Zhehao, Li Ming and Fang Ying, An Experiment Study on Control Characteristics of Critical Knock in Engine, Automotive Engineering (Transaction of SAE-China), Vol.25, No.6, 2003.10 P547-551
+
+10. Li Ming and Gao Qing, Underground Heat Exchange Simulation of Multi-holes Source and Their Arrangement in GSHP, Proceedings of the 2003 Conference of Jilin HVAC ChangChun, In China, Nov., 2003
+
+11. Li Ming, Gao Qing, Yu Ming and Xuan Zhehao, Investigation and Analysis of Heat Transfer in the Wet Underground Soil, Proceedings of the 2003 Conference of Jilin HVAC ChangChun, In China, Nov., 2003
+
+12. Gao Qing , Qiao Guang , Yu Ming , Li Ming and Bai Jinyu, Ground Temperature Property and Characteristics to Enhance Heat Transfer in GSHP, Journal of Refrigeration (Transaction of Chinese Association of Refrigeration) VOL.24, No.3, 2003 P38-41
+
+13. Gao Qing, Li Ming, Qiao Guang, Yu  Ming and Xuan Zhehao, Simulation of underground Temperature Restoration in the Intermittent Working Condition of GSHP, Proceedings of the 10th Conference of Chinese University Society of Engineering Thermophysics , HeFei, in China, Oct., 2003, B03026, P378-382
+
+14. Gao Qing, Jin Ying-ai, Xuan Zhehao and Fang Ying, Combustion Phenomena of Knock Onset and Autoignition Reaction, Proceedings of the 10th Conference of Chinese University Society of Engineering Thermophysics , HeFei, in China, Oct., 2003, C03017, P580-585
+
+15. GaoQing, Jin Ying-ai, Li Ming and FangYing, Control and Characteristics of Critical Knock in S.I. Engine, Journal of Jilin University (Engineering and Technology Edition)VOL.33, No.4, 2003 P7-11
+
+16. Gao Qing, Yu ming, Bai Jinyu and Li Ming, Enhanced Heat Transfer for Increasing Utilization of Ground Energy, Acta Energiae Solaris Sinica VOL.24, No.3, 2003 P307-310
+
+17. Jin Ying-ai, Gao  Qing, Fang Ying, Xuan Zehao and Su Junlin, Analysis of critical knock and autoignition behavior , Journal of Jilin University (Engineering and Technology Edition) VOL.33, Sup, 2003.4 P36-40
+
+18. Li Ming, Gao Qing, Yu Ming and Xuan Zhehao, Modeling and calculation underground heat transfer in utilization of ground source energy, Journal of Jilin University (Engineering and Technology Edition)VOL.33,  Sup, April, 2003 P25-30
+
+19. Gao Qing, Li Ming, Yu Ming, Bai Jinyu and Fang Ying, Experiment Investigation of underground Temperature in the Intermittent Working Condition of GSHP, Proceedings of Chinese Society of Engineering Thermophysics Annual Meeting Heat Transfer and Mass Conference, ShangHai,  China Oct., 2002, #023027, P897-900
+
+20. Gao Qing, Jin Ying-ai, Li Ming and Jiao Zhenwei, Control Characteristics of Knock Combustion and Engine Performance, Proceedings of Chinese Society of Engineering Thermophysics Annual Meeting Combustion Conference, NanJing,  China Sep., 2002, #024085, P526-530
+
+21. Gao Qing and Jin Ying-ai,  Sun Zhijun, Sun Jimei, Engine Knock Combustion Measurement and Critical Knock Detection, JOURNAL OF COMBUSTION SCIENCE AND TECHNOLOGY VOL.8, No.4, 2002.8 P381-383
+
+22. Gao Qing, Visualization Technology of Combustion Photoelectric Measurement in Engine Cylinder, Journal of Jilin University (Engineering Edition), VOL.32, No.1, 2002.1 P12-15
+
+23. Gao Qing, Li Hu, Tian Wenkai, Zhang Jipeng and Sun Zhijun, COMBUSTION STABILITY OF NATURAL GAS FUELED WITH PILOT DIESEL, ACTA ARMAMENTARII VOL.22, No.3, 2001 P404
+
+24. Liu Bolan, Sun Baoye, Gao Qing and Sun Jimei, A Study on the Performance of the Electronically Controlled Dual Fuel (CNG/Diesel) Engine, Automotive Engineering(Transaction of SAE-China), VOL.23, No.4, 2001 P252
+
+25. Gao Qing and Yu Ming, Development of Heating and Cooling Equipment with Saving Energy & Environment Protection Ground Source Heat Pump System, Natural Science Journal of Jilin University of Technology, VOL.31, No.2, 2001 P96
+
+26. Liang Baoshan, Gao Qing, ZhangJipeng and Sun Jimei, Electro Controlled Gas Injection of Natural Gas/ Diesel Dual Fuel Engine, Natural Science Journal of Jilin University of Technology, VOL.31, No.2, 2001 P1
+
+27. Zhang Jipeng, Gao Q ing, Sun Zhijun, Sun Jimei and Zhang Zengjian, Matching and Characteristics of a Gas Fueled System in a Natural Gas and Diesel Dual Fueled Engine, Transactions of the Chinese Society for Agricultural Machinery,  VOL.32, No.2, 2001 P8
+
+28. Zhang Jipeng, Gao Qing and Sun Jimei , Analysis and Study on Some Questions of Premixed CNG / Diesel Bi-fuel Engines, Automobile Technology, Ser.299, No.8, 2000 P7
+
+29. Zhang Jipeng, Gao Qing, Liang Baoshan and Sun  Zhijun, Effect of Injection Pressure and Phase Position of Natural Gas Performance on Natural Gas/Diesel Double Fuel Engine, Natural Science Journal of Jilin University of Technology,  VOL.30, No.3, 2000 P5-8
+
+30. Zhang Jipeng, Gao Qing, Wang Lijun, Sun Zhijun and Sun Jimei, Emission Performance of CNG Diesel Dual-fuel Engine Is Determined by Rate of CNG Substitutes for Diesel, JOURNAL OF COMBUSTION SCIENCE AND TECHNOLOGY  No.3, 2000 P267
+
+31. Zhang Jipeng, Gao Qing, Wang Lijun, Sun Zhijun and Sun Jim ei, Emissions of Natural Gas Dual-Fuel Diesel Engine at Different Beginnings of Injection of Diesel Pilot, JOURNAL OF COMBUSTION SCIENCE AND TECHNOLOGY VOL.6, No.1, 2000，P73
+
+32. Gao Qing, Tian Wenkai, Li Hu, ZhangJipeng and SunJimei, Electrically Controlled Gas Injection of Natural Gas/Diesel Dual Fuel Engine, Automotive Engineering(Transaction of SAE-China), VOL.22, No.6, 2000 P389
+
+33. Gao Qing, Tian Wenkai, Zhang Jipeng, Sun Zhijun and Sun Jimei, Fuel Economy and Combust ion Stability of a Dual Fuel Engine, Transactions of the Chinese Society for Agricultural Machinery, VOL.31, No.6, 2000 P1--3
+
+34. Gao Qing Zhang Jipeng Wang Lijun Sun Zijun and Sun Jimei, Emission Performance of Natural Gas/Diesel Dual Fuel Engine, Automotive Engineering(Transaction of SAE-China), VOL.22, No.5, 2000 P342-345
+
+35. Gao Qing, Tian Wenkai, Zhang Jipeng and Sun Jimei, Combustion Characteristics of Natural Gas & Diesel Dual Fuel Engine<b>, </b>Transactions of CSICE(Chinese Society for Internal Combustion Engines), VOL.18, No.2, 2000 P127-132
+
+36. Sun Jimei and Gao Qing, Electronic-Controlled Gas Injection of Gas Engines, '99 CHINA CHANGCHUN  INTERNATIONAL SYMPOSIUM ON THE DEVELOPMENT OF AUTO INDUSTRY 1999.9
+
+37. Sun Jimei, Gao Qing, Liang Baoshan and Zhang Jipeng, Electronic Control Injection of CNG in Engines, Proceeding of the 99Chinese CNG/NGV Technology Symposium, July, 1999
+
+38. Sun Jimei, Gao Qing, Liang Baoshan and Zhang JiPeng, Performance of CNG & Diesel Dual Fuel Engine with Electronic Control Injection of CNG, Proceeding of the SiChuan Society of Automotive Engineering Conference, Dec., 1999, P1
+
+39. Gao Qing, Liang Baoshan, Zhang JiPeng and Sun Jimei , Control Manner of Gas Injection and Performance Contrast of Combustin and Emissions, Natural Gas Vehicle, VOL.10, No.3, 1999 P34-38
+
+40. Gao Qing, W u Xijun, RESEARCH AND TEST ON THERMAL CHARACTERISTIC FACTORS OF SOLAR HEATING ROOM STRUCTURE, Acta Energiae Solaris Sinica VOL.19, No.3, 1998 P299
+
+41. Sun Jimei, Gao Qing and Zhang Jipeng, Key Technology to Develop Gas fuel Autobobile, Natural Gas Vehicle, Vol.9, No.4, 1998 P15-18
+
+42. Zhang Jipeng, Gao Qing and Hao Lijun, Experimental Study on Improving Gasoline Engine Performance by Adding Hydrogen to Gasoline, JOURNAL OF COMBUSTION SCIENCE AND TECHNOLOGY VOL.4, No.4, 1998 P385
+
+43. Guo Konghui, Sun Jimei and  Gao Qing, Clean Gas Fuel---A Key Energy of Automobile in the 21th Century, Conference of Development and Advancement of Science and technology, General Assembly of Both Chinese Academy of Engineering and Sciences May, 1998
+
+44. Wu Xijun, Gao Qing, Xuan Zhehao, Zhao Xiaowen and Cui Shuqin, Investigation of Exchange Heat Capability of Air Heater with Tubes Coiled Fin, Transactions of the Chinese Society for Agricultural Machinery VOL.28, No.3, 1997 P18
+
+45. Zhang Jianhua, Gao Qing, Sun Zhijun and Sun Jimei, Spark Ignition Engine Knock Detection Using in Cylinder Fiber Optic Probes, Transactions of CSICE (Chinese Society for Internal Combustion Engines) VOL.15, No.4, 1997 P435
+
+46. Gao Qing, Zhang Jianhua, Ma Guangxing, Sun Zhijun and Sun Jimei, Study of Engine Combustion Detection Using Fiber-optical Photoelectric Probs, Automotive Engineering(Transaction of SAE-China), VOL.19, No.6, 1997 P352
+
+47. Gao Qing, Wu Xijun, Zhao Xiaowen and Jiang Baijun, Characteristics Research of Comprehensive Energy of Longitudinally Finned Cross Flow Tube Banks with Different Sections, CHEMICAL ENGINEERING & MACHINERY VOL.24, No.1,1997 P1
+
+48. Gao Qing and Wang Ke, Measurement of Heat Transfer Coefficient and Retaining Heat Parameter of Isolated Room Structure , ACTA METROLOGICA SINICA, VOL.18, No.1, 1997 P38
+
+49. Gao Qing, Li Xinxin, Wu Xijun, Xuan Zhehao, ENERGY PERFORMANCE IN THE PROCESS OF HEAT TRANSFER OF F INNED TUBE BANKS, Transactions of the Chinese Society for Agricultural Machinery, VOL.28, No.4, 1997 P59
+
+50. Gao Qing, Wu Xijun, Wang Ke and Zhao Xiaowen, CHARACTERISTIC FACTORS AND TEST METHOD OF HEAT TRANSFER PERFORMANCE OF DRYING ROOM STRUCTURE, Transactions of the Chinese Society for Agricultural Machinery, VOL.28, No.3, 1997 P43
+
+51. Gao Qing and Wu Xijun, Characteristics of Trapezoid and Rectangle Longitudinal Fin Tube Banks, JOURNAL OF CHEMICAL INDUSTRY AND ENGINEERING VOL.47, No.5, 1996 P627
+
+52. Gao Qing and Yuan shang, Thermo-comfort Quality of Automotive Air Condition and Design data Selection, Bus Exploiture and Manufacture, Ser.44, No.1, 1996 P18
+
+53. Gao Qing, Xuan Zhehao and Cui Shuqin, Enhanced Heat Transfer of Air Heater with Tubes Normally Coiled fins, Transactions of the Chinese Society for Agricultural Machinery, VOL.26, No.1, 1995 P122
+
+54. Gao Qing, Xuan Zhehao and Cui Shuqin, Optimization of Thermo-comfort Quality of Automotive Air Conditioning  Environment of Automobils, Refrigeration and Air Condition Technology, Ser.35, No.1, 1995 P22
+
+55. Gao Qing, Research and Analysis on the Necessary Refrigeration Load of Automotive Air Conditioning System, Automotive Researching, Vol.13, No.2, 1994 P67
+
+56. Xuan Zhehao, Gao Qing and Zhang Zhongjin, Exchange Heat Augment of Heating Tubes in Buses, Locomotive Engineering, Ser.30, No.3, 1994 P45
+
+57. Xuan Zhehao, Gao Qing and Cui Shuqin, Investigation of Heat Conduction and Flow-Resistance Characteristics of an Oil Radiator for IVECO Automobile , Automobile Technology Ser.226, No.7, 1994 P22
+
+58. Xuan Zhehao, Gao Qing, Cui Shuqin, The Comparative Test and Research of IVECO Oil Cooler, Automobile and Tractor, Ser.59, No.2, 1994 P33
+
+59. Gao Qing, Zhuo Ning, Characteristics of Flow Friction and Heat Transfer of Longitudinally Finned Tube Bank Heat Exchanger with Trapezoid Fins, CHEMICAL ENGINEERING & MACHINERY VOL.21, No.2, 1994 P63
+
+60. Xuan Zhehao, Gao Qing and Cui Shuqin, Thermodynamic Performance of Air flow in Tube under Two Conditions, Journal of Jilin University of Technology VOL.23, No.3, 1993 P67
+
+61. Gao Qing, Zhuo Ning, Thermodynamic  Energy Performance of Air Flow in Tube , ACTA Aerodynamica SINICA, VOL.11, No.3, 1993 P290
+
+62. Gao Qing, Xhuo Ning and Ma Qilang, Enhanced Heat Transfer of Glass Tube Heat Exchanger, Chinese Journal Of Chemical Engineering (English Edition), VOL.1, No.2, 1993, P105
+
+63. Xuan Zhehao, Gao Qing and Cui Shuqin, Analysis about the Flow and Heat Transfer Performance of Longitudinal fin tube banks, Applied Energy, Ser.36, No.2, 1994 P27
+
+64. Xuan Zhehao, Gao Qing and Cui Shuqin, Reclamation of Low Temperature Heat by Glass Tubes Air Pre-heater, Applied Energy, Ser.35, No.1, 1993 P31
+
+65. Gao Qing and Zhuo Ning, Ma Qilang, Investigation of Characteristics  of Heat Exchangers with Longitudinal fin tube banks, JOURNAL OF CHEMICAL INDUSTRY AND ENGINEERING, VOL.44, No.2, 1993 P230
+
+66. Gao Qing and Wu Shanli, Calculation of the Cooling Load of Air Condition in Automobiles, Fluid Engineering, Vol.21, No.2, 1993 P20
+
+67. Gao Qing and Zhuo Ning, Comprehensive Energy Analysis for Heat Transfer Enhancement, JOURNAL OF CHEMICAL INDUSTRY AND ENGINEERING, VOL.44, No.1, 1993 P90
+
+68. Gao Qing and Zhuo Ning, Analysis of Energy Performance on Heat Transfer Unit Inside Solar Collector, Acta Energiae Solaris Sinica, Vol.13, No.3, 1992 P280
+
+69. Gao Qing, Study of Evaluation Method of Enhanced Heat Transfer Performance of Heat Transfer Tubes, CHEMICAL ENGINEERING & MACHINERY, VOL.19, No.5, 1992 P277
+
+70. Gao Qing, Zhuo Ning and Ma Qilang, Study of Enhancement Heat Transfer of Glass tube Heat Exchangers, CHEMICAL ENGINEERING & MACHINERY, VOL.19, No.3, 1992 P125
+
+71. Gao Qing, Cui Shuqin and Zhao Xiaowen, Engineering Analysis of Glass Tubes Air Pre-heater Enhanced Heat Transfer, Saving Energy, Ser.119, No.6, 1992 P16
+
+72. Gao Qing, Test Method of Heat Transfer Performance of Drying Rooms, Transactions of the Chinese Society for Agricultural Machinery, VOL.23，No.4, 1992 P95
+
+73. Gao Qing, A New Principle of Experiment in  Refrigerator Van (Insulated), Fluid Engineering, Vol.20 No.6, 1992，P57
+
+74. Gao Qing, Inquiring into the Property of Heat Insulation of the Refrigeration Motor Vehicle, Automobile Technology, Ser.203, No.8, 1992 P17
+
+75. Gao Qing, Zhang Zhongjin and Jin Wengui, An unsteady method for measuring total heat transfer coefficient of closed box, Journal of Jilin University of Technology, VOL.22 No.1, 1992 P80
+
+76. Gao Qing, Zhang Zhongjin and Jin Wengui, A New Method of Measuring Insulated Heat Performance of the Box of Van, Proceedings of Chinese Society of Engineering Thermophysics Annual Meeting Beijing, China Oct., 1991,PI-27
+
+77. Gao Qing, Zhang Zhongjin, Jin Wengui, Investigation on Performance of Parallel Connected Air Conditioners for Automobiles, Automobile Technology , Ser.195, No.12, 1991 P30
+
+78. Gao Qing, Automobile Air Conditioner Performance Test System, Automotive Researching, Vol.10, No.3, 1991 P105
+
+79. Gao Qing, Experimental Studies on Automobile Air Conditioner Performance, Fluid Engineering, Ser.229, No.7, 1991 P45
+
+80. Gao Qing, Zhuo Ning and Ma Qilang, Approaching of Heat Transfer Performance in Heat Exchanger Test, Proceedings of Chinese Society of Engineering Thermophysics Annual Meeting Beijing, China Oct., 1991, PII-125
+
+81. Gao Qing, Zhuo Ning and Ma Qilang, Performance Evaluation for the Heat Transfer Enhancement in Tube, Fluid Engineering, Ser.227, No.5, 1991 P61
+
+82. Gao Qing, Zhuo Ning and Ma Qilang, Multi-parameters Optimization Approaching to Obtain both Exchange Heat Relations of Cooling and Heating Fluids, Journal of Jilin University of Technology, Ser.63 (Vol.21) No.3, 1991 P46
+
+83. Gao Qing, Zhuo Ning and Ma Qilang, Experiment Investigation of Water Pre-heater with longitudinal Fin Tube Banks, Energy Research, Vol.7, No.2, 1991 P15
+
+84. Gao Qing, Zhuo Ning and Sun Jiaqing, Experiment Research of the Glass Tube Air Pre-heater, Energy Research, Vol.6, No.3, 1990 P43
+
+85. Gao Qing, Zhuo Ning and Ma Qilang, Heat Transfer Augment in A Glass Tube Air Pre-heater with inside Disturb Promoters, Proceedings of Chinese Society of Engineering Thermophysics Annual Meeting ChengDu,  China Nov., 1987
+
+86. Gao Qing, Zhuo Ning and Ma Qilang, Experiment Investigation on Characteristics of Heat Transfer and Flow Pressure Drop of Longitudinal Fin Tube Banks in high Temperature Closed Wind Tunnel, Proceedings of ShangHai Society of Engineering Thermophysics Annual Meeting ShangHai,  China May, 1987
+
+87. Gao Qing, Zhuo Ning and Ma Qilang, Enhanced Heat Transfer of Air Heater inside Tubes with Disturb Promoters and Optimization Design, Proceedings of ShangHai Society of Engineering Thermophysics Annual Meeting ShangHai, China May, 1987[/publication]
+
+left; text-indent: -21.0pt; margin-left: 21.0pt">

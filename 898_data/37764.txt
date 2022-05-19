@@ -1,0 +1,138 @@
+<IMAGE src="personal_masthead.gif" alt="IBM Personal Communication"/>
+
+[pic]<IMAGE src="lucian.jpg" alt="Recent photo of Lucian"/>[/pic]
+
+
+<b>Lucian Popa's Home Page</b>
+
+
+[contactinfo][affiliation]IBM Almaden Research Center
+Dept. 8CC/B1[/affiliation]
+[address]650 Harry Road 
+San Jose, California 95120 USA[/address] 
+[email]lucian@almaden.ibm.com[/email]
+
+<b>Phone:</b> [phone](408) 927-1914[/phone] 
+<b>Fax:</b> [fax](408) 927-3215[/fax][/contactinfo]
+
+
+
+[introduction]Brief Information  I joined [affiliation]IBM Almaden Research Center[/affiliation] as a [position]Research Staff Member[/position] in [phddate]September 2000[/phddate], right after I received my [phddegree]PhD[/phddegree] in [phdmajor]Computer Science[/phdmajor] from the [phduniv]University of Pennsylvania[/phduniv]. Previously, I received an [msdegree]M.S.[/msdegree] in [msmajor]Computer Science[/msmajor] from [msuniv]Politehnica University of Bucharest[/msuniv], in Romania. My main research interests include data management, meta-data management, information integration, database theory. At Almaden, I am a [position]member[/position] of the [affiliation]Intelligent Information Integration group (aka the Clio group)[/affiliation] managed by Howard Ho[/introduction].
+
+
+
+Research Projects
+
+  * <b>Schema Mapping Generation (Clio).</b>
+
+At IBM Almaden and in collaboration with University of Toronto, we developed <b> Clio</b>, a semi-automatic system for data translation between different formats (schemas). Using a visual interface, a relatively non-expert user can rapidly construct, explore and select among several alternatives of transforming data conforming to a source schema to data conforming to a target schema. One of the novelties of the system is the automatic derivation of a finite set of queries (XQuery, XSLT or SQL enhanced with id creation) from the visual specification of the schema mapping.  The set of queries are derived based on the integrity constraints of the source and such that the integrity constraints of the target are satisfied. The use of constraints allows to build "intelligent" transformations between schemas with quite complex relationships (whether these schemas are relational or XML). 
+
+  Clio is a child of the Garlic project. More about semi-automatic generation of schema mappings and Clio can be found at the Clio Almaden site, or at the University of Toronto site .
+
+[publication]Publications: <b>
+</b>
+
+  * <b>Clio Grows Up: From Research Prototype to Industrial Tool, </b>with Laura Haas, Mauricio A. Hernandez, Howard Ho, and Mary Roth. Industrial paper in SIGMOD'05, Baltimore, MD, June 2005.
+
+  * <b>Translating Web Data, </b>with Yannis Velegrakis, Renee J. Miller, Mauricio A. Hernandez, and Ronald Fagin. VLDB'02, Hong Kong SAR, China, August 2002, pp.598-609.
+
+  * <b>Schema Management</b>, with Periklis Andritsos, Ronald Fagin, Ariel Fuxman, Laura Haas, Mauricio Hernandez, Howard Ho, Anastasios Kementsietsidis, Renee J. Miller, Felix Nauman, Yannis Velegrakis, Charlotte Vilarem and Ling-Ling Yan, IEEE Data Engineering Bulletin 25, 3, 2002, pp. 33-39.
+
+  * <b>Mapping XML and Relational Schemas with Clio</b>, with Mauricio A. Hernandez, Yannis Velegrakis, Renee J. Miller, Felix Naumann and Howard Ho. System Demo in  ICDE 2002, San Jose, CA.
+
+  * <b>The Clio Project: Managing Heterogeneity</b>, with Renee J. Miller, Mauricio A. Hernandez, Laura M. Haas, Ling-Ling Yan, C. T. Howard Ho and Ronald Fagin. SIGMOD Record 30(1), March 2001, pp. 78-83.
+
+
+  * <b>Schema Mapping Management.</b>
+
+The goal of this project is to study the algorithmic and foundational aspects as well as the implementation issues surrounding a system for schema mapping management. Such a system is envisioned to be an integral part of any meta-data management system that enables cooperation between applications at the data level. A somewhat similar framework (called there model management) is being investigated by Phil Bernstein and his group at Microsoft Research. Some of the main challenges that my collaborators and I are addressing are:
+
+    * design of a schema mapping language that:
+
+      * is high-level, declarative, and logic-based,
+
+      * is simple enough to be understood and manipulated by tools,
+
+      * facilitates (semi-)automatic generation of schema mappings,
+
+      * conveys enough information for runtime (e.g., to exchange data or answer queries, to generate XSLT transformations, etc.)
+
+    * semantics of schema mappings and data exchange based on schema mappings:
+
+      * what does a schema mapping mean in terms of the actual instances of the schemas
+
+      * how do we perform data translation, from a schema to another, based on a schema mapping specification
+
+    * code generation based on schema mappings:
+
+      * how to generate efficient queries or transformations in various languages to (fully or partially) implement the mappings
+
+      * Clio is an example of a first step in this direction
+
+    * query answering and query rewriting over schema mappings:
+
+      * how to rewrite a query over one schema into a query over another schema, given the schema mapping
+
+      * federation and data integration aspects of query answering and rewriting
+
+    * composition of sequential schema mappings:
+
+      * this is a crucial feature that enables re-use of mappings when schemas are different or change
+
+    * preserving mappings under schema evolution.
+
+      * schema evolution is a hard problem in many ways; here we are addressing the problem of maintaining schema mappings in the face of schema evolution (whether this evolution is incremental or more drastic)
+
+      * we have explored two approaches so far:
+
+        * incremental adaptation algorithm, using a change-based representation of schema evolution (see VLDB'03 paper)
+
+        * mapping composition approach, using a mapping-based representation of schema evolution (see VLDB'05 paper)
+
+Publications: <b>
+</b>
+
+  * <b>Semantic Adaptation of Schema Mappings when Schemas Evolve</b>, with Cong Yu. VLDB'05, Trondheim, Norway, September 2005.  To appear.
+
+  * <b>Composing Schema Mappings: Second-Order Dependencies to the Rescue</b>, with Ronald Fagin, Phokion G. Kolaitis and Wang-Chiew Tan. PODS'04, Paris, France, June 2004, pp. 83-94.
+
+  * <b>Constraint-Based XML Query Rewriting for Data Integration</b>, with Cong Yu. SIGMOD'04, Paris, France, June 2004, pp. 371-382. 
+
+  * <b>Mapping Adaptation under Evolving Schemas, </b>with Yannis Velegrakis and Renee J. Miller. VLDB'03, Berlin, Germany, September 2003, pp. 584-595. The full version (published in the VLDB Journal) can be found here. 
+
+  * <b>Data Exchange: Getting to the Core, </b>with Ronald Fagin and Phokion G. Kolaitis. PODS'03, San Diego, California, June 2003, pp. 90-101. The full version of this paper (to appear in TODS) can be found here .
+
+  * <b>Data Exchange: Semantics and Query Answering </b>  ( Springer LINK ), with Ronald Fagin, Phokion G. Kolaitis and Renee J. Miller. ICDT'03, Siena, Italy, January 2003, pp. 207-224. The full version of this paper (to appear in TCS) can be found here .
+
+
+  * <b>Query Optimization with Chase and Backchase (C&B). </b>
+
+At the University of Pennsylvania, my thesis work focused on a new and interesting technique for query rewriting. This technique uses two basic rules: chase and backchase. A query is chased with constraints in order to produce a larger, but equivalent, query that incorporates all the alternate ways of answering the original query (views, indexes, other relations or OO classes). This larger query can then be minimized, by using the backchase rule, to produce a complete set of  minimal and equivalent rewritings. There are many examples for which the C&B algorithm finds rewritings that are good candidates for execution but cannot be discovered by the more traditional query rewriting systems. One novelty of the algorithm is that it unifies disparate techniques such as semantic optimization based on integrity constraints,  rewriting queries using views, and rewriting queries using indexes. In fact, it can do any rewriting as long as the right set of constraints is specified. The data model considered includes nested relations as well as OO classes.
+Many of the ideas, concepts, techniques, as well as the experience accumulated while working on C&B turned out to be quite influential for my later projects (e.g., Clio).
+
+Publications:
+
+  * <b>A Chase Too Far?, </b>with Alin Deutsch, Arnaud Sahuguet and Val Tannen. SIGMOD'00, Dallas, Texas, May 2000, pp. 273-284.
+
+  * <b>Physical Data Independence, Constraints, and Optimization with Universal Plans</b>, with Alin Deutsch and Val Tannen. VLDB'99, Edinburgh, Scotland, September 1999, pp. 459-470
+
+  * <b>An Equational Chase for Path-Conjunctive Queries, Constraints, and Views, </b>with Val Tannen. ICDT'99, Jerusalem, Israel, January 1999, pp. 39-57.
+
+
+More about C&B query optimization can be found at the UPenn DB Group site or in my dissertation: <b>
+Object/Relational Query Optimization with Chase and Backchase</b>, PhD Thesis, 2000, Univ. of Pennsylvania, Advisor: Val Tannen.
+
+
+Other Publications
+
+  * <b>A Structure-Based Approach to Querying Semi-Structured Data </b>with Mary F. Fernandez and Dan Suciu. DBPL'97, Estes Park, Colorado, August 1997, pp. 136-159.
+
+  * <b>Querying an Object-Oriented Database using CPL </b>with Susan B. Davidson and Carmem S. Hara.  Proceedings of the Brazilian Symposium on Databases (SBBD'97), Fortaleza, Brazil, 1997, pp.137-15.[/publication]
+
+
+Personal
+I grew up in Romania and spent five years in Philadelphia, Pennsylvania. Now I live in San Jose, California with my wife and daughter Isabella.
+
+
+
+          <b> CS Home | Almaden Home | IBM Research | Feedback </b>

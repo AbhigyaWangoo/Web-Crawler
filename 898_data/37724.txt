@@ -1,0 +1,54 @@
+<font size=5>Where There is No Vision, The People Perish Proverbs 29:18</font>
+
+<IMAGE src="title.png" alt="IAM - Intelligence, Agents and Media"/>
+New! BCS President - A Year in Pictures
+
+[pic]<IMAGE src="w1.jpg" alt="Prof. Wendy Hall"/>[/pic]
+
+<IMAGE src="lowenhall.jpg" alt="Hypermedia and the Web by David Lowe and Wendy Hall"/>
+
+Career
+
+Publications
+
+Grants
+
+IAM Group
+
+Informal Photos
+
+
+
+[introduction][position]Professor[/position] Wendy Hall
+
+Wendy Hall is [position]Professor[/position] of Computer Science at the [affiliation]University of Southampton[/affiliation], UK.  She was the founding Head of the Intelligence, Agents, Multimedia (IAM) Research Group in the School of Electronics and Computer Science at Southampton and is currently the [position]Head[/position] of School. 
+
+Her research interests include the [interests]development of web technologies (particularly the Semantic Web)[/interests], [interests]open hypermedia systems and link services[/interests], [interests]advanced knowledge technologies[/interests], [interests]digital libraries[/interests], [interests]multimedia information management[/interests], [interests]agent-based systems and human computer interaction[/interests].  More information about her research interests and work can be found by looking at her publications.
+
+Her group developed the open hypermedia system, Microcosm, which was commercially exploited through Multicosm Ltd.  The Microcosm software was an ITEA'95 award winner and a BCS IT award winner in 1996.  The company is now called Active Navigation Ltd, and focuses on Web-based link services. 
+
+Wendy was awarded a CBE in the Queen's Birthday Honours list in June 2000, and became a Fellow of the Royal Academy of Engineering (FREng) in the same year.  She is a [position]Fellow[/position] of the [affiliation]British Computer Society (FBCS)[/affiliation] and a [position]Fellow[/position] of the [affiliation]IET (FIET)[/affiliation].  In 2002 she was made a Fellow of the City & Guilds of London Institute (FCGI) and was awarded an Honorary DSc by Oxford Brookes University.  She was made an Honorary Fellow of Cardiff University in 2004, and was awarded with an honorary DSc by the University of Glamorgan in 2005.---/grants
+
+She was recently awarded with the 2006 Anita Borg Award for Technical Leadership.
+
+She is a [position]member[/position] of the [affiliation]Prime Ministers' Council for Science and Technology (CST)[/affiliation], and a [position]member[/position] of the [affiliation]Scientific Council of the European Research Council (ERC)[/affiliation].
+
+She is currently [position]senior Vice President[/position] of the [affiliation]Royal Academy of Engineering[/affiliation], and was President of the British Computer Society (2003-2004).  She is currently [position]Vice President[/position] of the [affiliation]ACM[/affiliation].
+
+She is a [position]member[/position] of the [affiliation]IET Council and Publications Board[/affiliation]. 
+
+She was the holder of an EPSRC Senior Fellowship from 1996 - 2002.  She was a member of the EPSRC Council from 1997 - 2002, a member of the RAE 2001 Computer Science Panel and a member of the Technology Foresight ITEC panel from 1995-1998.  She is currently a member of the executive of the UK Computing Research Committee (UKCRC) and is on the RAE 2008 Computer Science Panel.
+
+She was program co-chair for ACM Multimedia '96 and '98 and conference co-chair of ACM Hypertext '97 which was held in Southampton.  Wendy is a [position]member[/position] of [affiliation]IW3C2[/affiliation], the committee that organises the annual international WWW conferences.  She was executive chair of WWW2006 which was held in Edinburgh.
+
+She regularly speaks at international conferences, and is a [position]member[/position] of a number of editorial boards of journals in her research area, including the Computer Journal, JoDI and the Royal Society's Interface Journal.  She is [position]co-editor[/position] of the new Journal, [affiliation]Foundations and Trends in Web Science[/affiliation].  She also holds a number of non-executive directorships.
+
+She is the [position]Chair of the Advisory Board[/position] of the new Company, [affiliation]Garlik Limited[/affiliation].
+
+Wendy also finds time for a busy social life and regular visits to the local gym and swimming pool in an attempt to keep sane and healthy despite a heavy work load!  Her interests include fine wine and dining, walking in the New Forest where she lives and trips to the theatre.  Holidays are very important and with her husband Pete she enjoys wine tasting all over the world and makes an annual pilgrimage to the island of Skiathos for a sun fix.  Pete is involved in the launch of a commercial project called SurfaceWeb.
+
+If Harrison Ford, or George Clooney read this page, Wendy would be very pleased to hear from them[/introduction] <font size=5>J</font>
+
+<font size=2> [contactinfo]Email: [email]wh@ecs.soton.ac.uk[/email][/contactinfo]
+?University of Southampton, 1997
+Last Modified: October 2006</font>

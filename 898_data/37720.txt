@@ -1,0 +1,248 @@
+[pic]<IMAGE src="index_files/image002.jpg" alt=""/>[/pic]
+
+[contactinfo]<b>Dr. Hayit Greenspan</b>
+
+[affiliation]<b>Department of Biomedical Engineering</b>
+<b>The Iby and Aladar Fleischman Faculty of Engineering</b>
+<b>Tel Aviv University</b>[/affiliation]
+<b>Ramat</b><b> Aviv</b>
+<b>ISRAEL</b>
+<b>Phone: [phone]+972-3-6407398[/phone]</b>
+<b>Fax: [fax]+972-3-6407939[/fax]</b>
+<b>E-mail: [email]hayit@eng.tau.ac.il[/email]</b>[/contactinfo]
+
+<b>
+</b><b>Visit the Lab homepage:</b> Short description of research projects, results, and links to published works
+
+<IMAGE src="index_files/image004.gif" alt=""/>
+
+[resinterests]<b>Research Interests:</b> <b>[interests]Medical image processing and analysis[/interests]; [interests]Medical information systems[/interests];</b> <b>[interests]Content-based image indexing and retrieval[/interests]</b>; <b>[interests]Image Segmentation[/interests];</b> <b>[interests]Computer Vision</b> <b>& Pattern Recognition[/interests];</b> <b>[interests]Classification and Learning systems[/interests][/resinterests]</b>
+
+<b>See Publication</b>
+
+<b>of Lab 鈥?p4-5</b><b></b>
+
+
+<IMAGE src="index_files/image006.jpg" alt=""/><b>
+
+</b>
+
+<b>Description of Selected Research Projects</b>
+
+<b>Extended Summary of Research</b>
+
+<b>Short Bio </b>
+
+<b>Extended CV
+
+</b>
+
+<b>Courses:</b>
+
+<b>Graduate</b>
+
+路 <b>NEW Grad Course (06): Segmentation, Registration, Super-Resolution</b>
+
+路 Computer Vision in Medical Applications
+
+路 Image Analysis in Digital Libraries & Medical Archives
+
+<b>Undergraduate</b>
+
+路 Fundamentals of Medical Image Processing
+
+路 Medical Image Processing and Analysis
+
+<b> </b>
+
+[publication]<b>Selected Publications:</b>
+
+<b>Quantitative Coronary Analysis (QCA)</b>
+
+路 H. Greenspan, M. Laifenfeld, S. Einav and O. Barnea,
+``Center-line Extraction in Quantitative Coronary Angiography as a Function of the Coronary Geometrical Complexity,"
+IEEE Transactions on Medical Imaging (IEEE-TMI), Vol. 20, No. 9, 928-941, Sept. 2001 (pdf)
+
+<b>Super-Resolution in MRI</b>
+
+路 H. Greenspan, G. Oz, N. Kiryati and S. Peled,
+``MRI Inter-Slice Reconstruction Using Super Resolution鈥?
+Magnetic Resonance Imaging 20: 437-446, 2002 (ps)
+
+<b>MRI Brain image Analysis</b>
+
+路 Ruf, H. Greenspan, and J. Goldberger. Tissue classification of noisy MR brain images using constrained GMM. International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2005.<b> </b>[pdf]
+
+<b>Statistical space-time segmentation of active multiple sclerosis lesions 
+
+</b>
+
+路 A. Shahar and H. Greenspan, 鈥淧robabilistic Spatial-Temporal Segmentation of Multiple Sclerosis Lesions,鈥?in Proceedings to the Computer Vision Approaches to Medical Image Analysis Workshop (CVAMIA), Prague, May 2004.
+
+路 A. Shahar and H. Greenspan, 鈥淎 Probabilistic Framework for the Detection and Tracking in Time of Multiple Sclerosis Lesions,鈥?in Proceedings to the IEEE Symposium on Biomedical Imaging, Arlington, VA, Apr. 2004 [pdf]
+
+路 H. Greenspan, A. Mayer, and A. Shahar, 鈥淎 Probabilistic Framework for the Spatio-Temporal Segmentation of Multiple Sclerosis Lesions in MR Images of the Brain,鈥?in Proceedings of SPIE International Symposium on Medical Imaging, San Diego, CA, pp. 1551-1559, Feb. 2003 [ps]
+
+<b>Bio-Imaging</b>
+
+路 Trattner S., Greenspan H., Tepper G. and Abboud S.
+"Automatic Identification of Bacterial Types Using Statistical Imaging Methods",
+IEEE Transactions on  Medical Imaging (IEEE-TMI) ,Volume: 23(7):807 - 820 , July 2004 [pdf]
+
+<b>Doppler Echocardiography Analysis </b>
+
+路 Shechner, M. Scheinowitz, M. S. Feinberg, H. Greenspan, "Image Analysis of Doppler Echocardiography for Patients with Atrial Fibrillation", International Symposium on Biomedical Imaging (ISBI), Washington DC, 2004 [pdf]
+
+路 H. Greenspan, O. Shechner, M. Scheinowitz and MS. Feinberg, Doppler echocardiography flow-velocity image analysis for patients with atrial fibrillation," Ultrasound in Medicine and Biology 31(8): 1031-1040, August 2005
+
+
+<b></b>
+
+<b>Content-based Retrieval in Medical Archives</b>
+
+<b> </b>
+
+路 H. Greenspan, C. Rothmann, T. Cycowitz, Y. Nissan, A. Cohen and Z. Malik,
+
+鈥淐lassification of Lymphoproliferative Disorders by Spectral Imaging of the Nucleus鈥?
+
+Journal of Histology and Histopathology 17(3): 767-73, 2002.
+
+路 A. Pinhas and H. Greenspan. 鈥淎 continuous and probabilistic framework for medical image representation and categorization鈥? In Proc. of SPIE . Vol. 5371, 230-238, 2004. [pdf]
+
+路 S. Gordon , G. Zimmerman and H. Greenspan. "Image segmentation of uterine cervix images for indexing in PACS", In Proc. of the 17th IEEE Symposium on Computer-Based Medical Systems, CBMS 2004. Bethesda, MD, 2004. [pdf]
+
+<b>Image Clustering, Similarity and Matching</b>
+
+路 J. Goldberger, S. Gordon and H. Greenspan, 鈥淯nsupervised image-set clustering using an information theoretic framework鈥?
+To appear in IEEE Trans. on Image Processing (IEEE-IP),2006
+
+路 J. Goldberger and H. Greenspan. 鈥淐ontext-based Segmentation of Image and Video data,"
+To appear in IEEE Trans on Pattern Analysis and Machine Intelligence (IEEE-PAMI), 2006
+
+路 H. Greenspan, G. Dvir and Y. Rubner,
+"Context-dependent segmentation and matching in image databases",
+Journal of Computer Vision and Image Understanding (CVIU),  93:86-109, 2004 [pdf]
+
+路 S. Gordon, H. Greenspan and J. Goldberger
+"Applying the Information Bottleneck principle to unsupervised clustering of discrete and continuous image representations",
+Oral presentation; In Proc. of  International Conference on Computer Vision (ICCV'03), pages 370-377, Nice, France, 2003.[ps]
+
+路 J. Goldberger, S. Gordon and H. Greenspan
+"An efficient image similarity measure based on approximations of KL-divergence between two Gaussian Mixtures", In Proc. of  International Conference on Computer Vision (ICCV'03), pages 487-493, Nice, France, 2003. [ps]
+
+路 J. Goldberger, H. Greenspan, and S. Gordon,
+"Unsupervised image clustering using the Information Bottleneck method", In DAGM 2002 [pdf]
+
+路 H. Greenspan, J. Goldberger and L.Ridel,
+"A continuous probabilistic framework for image matching",
+Journal of Computer Vision and Image Understanding (CVIU),  84:384-406, 2001 [pdf]
+
+路 H. Greenspan, S.Gordon and J. Goldberger.
+"Probabilistic models for generating, modeling and matching image categories",
+In Proc. of the International Conference on Pattern Recognition(ICPR'02)鈥? Quebec, August 2002 [pdf] 
+
+路 G. Dvir, H. Greenspan, and Y. Rubner,
+``Context-Based Image Modeling,"
+International Conference on Pattern Recognition (ICPR'02), Quebec, August 2002 (ps)
+
+<b>
+Video Representation and Indexing
+
+</b>
+
+路 H. Greenspan, J. Goldberger, A. Mayer.
+鈥漃robabilistic Space-Time Video Modeling via Piecewise GMM鈥?
+IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE-PAMI), 24(3):384-396, 2004. [pdf]
+
+路 H. Greenspan, J. Goldberger, A. Mayer.
+鈥滱 Probabilistic Framework for Spatio-Temporal Video Representation鈥? ECCV (4) 2002: 461-475. 
+
+<b> </b>
+
+<b>Face Color Modeling</b>
+
+路 H. Greenspan, J. Goldberger and Itai Eshet,
+``Mixture Model for Face Color Modeling and Segmentation",
+Pattern Recognition Letters, Vol. 22, 1525-1536, Sept. 2001. (pdf)
+
+<b> </b>
+
+
+
+Image Enhancement
+
+路 H. Greenspan, C. Anderson and S. Akber,
+
+``Image Enhancement by Non-Linear Extrapolation in Frequency Space,''
+
+IEEE Transactions on Image Processing (IEEE-IP), Vol. 9, No. 6, 1035-1048, June 2000. (pdf)
+
+<b> </b>
+
+<b>Content-based Image Retrieval / BlobWorld </b>
+
+o S. Belongie, C. Carson, H. Greenspan and J. Malik,
+``Recognition of Images in Large Databases using Color and Texture'';
+IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE-PAMI), 24(8): 1026-1038, 2002. (ps)
+
+路 Serge Belongie, Chad Carson, Hayit Greenspan and Jitendra Malik,
+Color- and Texture-based Image Segmentation Using the Expectation-Maximization Algorithm and Its Application to Content-Based Image Retrieval
+ICCV 1998, Mumbai, India, pp. 675-82.
+
+路 Chad Carson, Serge Belongie, Hayit Greenspan and Jitendra Malik,
+Region-Based Image Querying
+CBAIVL 1997, San Juan, Puerto Rico, pp. 42-9.
+
+路 David Forsyth, Jitendra Malik, Margaret Fleck, Hayit Greenspan, Thomas Leung, Serge Belongie, Chad Carson and Chris Bregler,
+``Finding Pictures of Objects in Large Collections of Images鈥?
+International Workshop on Object Recognition for Computer Vision, April 13-14 1996, Cambridge, England, pp. 335-60 (Proc. ECCV '96).
+
+路 Jitendra Malik, David Forsyth, Margaret Fleck, Hayit Greenspan, Thomas Leung, Chad Carson, Serge Belongie and Chris Bregler,
+Finding Objects in Image Databases by Grouping, Invited presentation
+International Conference on Image Processing (ICIP '96), special session on "Images in Digital Libraries," Sept. 1996, pp. 761-4 vol.2.
+
+<b> </b>
+
+<b>Steerable</b><b> Filters and Texture Recognition
+
+</b>
+
+路 H. Greenspan, S. Belongie, P. Perona, R. Goodman, S. Rakshit and C. Anderson,
+Overcomplete Steerable Pyramid Filters and Rotation Invariance
+CVPR 1994, Seattle, WA, pp. 222-8.
+
+路 H. Greenspan, S. Belongie, P. Perona and R. Goodman,
+Rotation Invariant Texture Recognition Using a Steerable Pyramid
+ICPR 1994, Jerusalem, Israel, pp. 162-7 vol 2.[/publication]
+
+
+
+<b>Courses:</b>
+
+<b>Course 0553.5535 (01-02) - Computer Vision in Medical Applications</b>
+
+<b>Course 0553.5547 (01-02) - Image Analysis in Digital Libraries & Medical Archives</b>
+
+<b>Course 0553.5535 (00-01) - Computer Vision in Medical Applications</b>
+
+<b>Course 0553.5547 (00-01) - Image Analysis in Digital Libraries & Medical Archives</b>
+
+<b>Student Projects</b>
+
+
+<IMAGE src="Hayit%20Greenspan%20鈥?20Web%20Page%20Info_files/groove.gif" alt="line"/>
+
+Return to:
+<b>[ </b><b>Department of Biomedical Engineering|Faculty</b>
+
+<b> of Engineering </b>
+
+<b> ] </b>
+
+<IMAGE src="Hayit%20Greenspan%20鈥?20Web%20Page%20Info_files/groove.gif" alt="line"/>
+
+Please send comments or questions about this page to:  mailto:webmaster@eng.tau.ac.il
+
+
+Last modified: Mon Mar 29 11:17 1999

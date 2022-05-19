@@ -1,0 +1,20 @@
+Giulio Sandini 
+<font size=5> personal page</font> [pic]<IMAGE src="giulio_lp.gif" alt=""/>[/pic] <font size=2>This is my picture in <b> log-polar</b> format
+If you want to know how it is obtained, clik here</font>
+
+[introduction]My lab is called [affiliation]LIRA-Lab[/affiliation] and is part of [affiliation]DIST (Dipartimento di Informatica Sistemistica e Telematica) of the University of Genova[/affiliation]. My past research activity and current agenda is described in LIRA-Lab Web site and is carried out around two main themes: [interests]Babybot and Retina-like sensors[/interests]. The main field has been defined in many ways (Biorobotics, Bionics, Bioengineering, Neuroengineering etc.) but in short we do computational neuroscience by using an engineering approach to try to understand how the brain works.
+
+In the past I had the luck of working with outstanding researchers and in a few exciting places: Vincenzo Tagliasco and Pietro Morasso (at the University of Genova), Lamberto Maffei, Concetta Morrone and Adriana Fiorentini (at the CNR and Scuola Normale in Pisa), Cesare Lombroso and Frank Duffy (at Boston's Children's Hospital and Harvard Medical School), Rod Brooks and the "zoo" at the MIT's AI-Lab.
+
+I also had the luck of finding (and  working with) some excellent young researchers who helped me avoiding the  "one man band" syndrome. Some of them are not so young anymore and some of them are now elsewhere. Most of them are still good friends and some of them are just colleagues (this is life!) I hope no one regrets having worked with me (from my side I learned a lot from all of them). You can find most of them among the authors of the papers listed in the LIRA-Lab website but I want to mention explicitly the current team (Giorgio Metta, Sajit Rao, Lorenzo Natale, Carlos Beltran, and Riccardo Manzotti). If we can stay together long enough.....[/introduction] 
+
+My suggestion is to look at what we did and we are doing at the LIRA-Lab but if you are really interested in my personal career you can see a brief CV here.
+
+[contactinfo][affiliation]LIRA-Lab, DIST-University of Genova[/affiliation]
+[address]Viale F. Causa, 13
+16145 - Genova - Italy[/address]
+
+[email]sandini@unige.it[/email]
+
+Ph. [phone]+39 010 353.2779[/phone]
+Fax. [fax]+39 010 3532948[/fax][/contactinfo]

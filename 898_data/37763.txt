@@ -1,0 +1,48 @@
+[pic]<IMAGE src="Mary_Roth_photo.gif" alt="Photo of Mary"/>[/pic] <font size=6>Mary Roth, Ph.D., P.E.</font>
+[contactinfo]<font size=5>[position]Professor and Department Head[/position]</font>
+[affiliation]<font size=5>Department of Civil and Environmental Engineering</font>
+<font size=5>Lafayette College</font>[/affiliation]
+
+[email]rothm@lafayette.edu[/email][/contactinfo]
+
+
+
+              * Courses
+
+                  * ES 225 - Engineering Professionalism and Ethics
+
+                  * CE 361 - Geotechnical Engineering
+
+                  * CE 372 - Design II
+
+                  * CE 461 - Foundation Engineering
+
+                  * CE 462 - Retaining Walls, Slopes, and Dams
+
+                  * CE 473 - Design III
+
+              * Research
+
+                * [interests]Earth Resistivity Testing in Karst[/interests]
+
+                *  Research in Norway (sabbatical 2000-2001)
+
+                  *  Representative Case Study Descriptions
+
+                    *  Stavanger
+
+                    *  Longøya
+
+                    *  Gardemoen
+
+                  *  Life in Norway
+
+              * Resume
+
+              * Links
+
+                * Lafayette College's Web Page
+
+                * Norwegian Geotechnical Institute's Web Page
+
+                *  Department of Civil and Environmental Engineering Home Page

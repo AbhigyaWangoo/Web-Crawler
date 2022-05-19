@@ -1,0 +1,27 @@
+[contactinfo]Dr. Hongmei Gu, [position]Post-Doctoral Research Associate[/position]
+
+[affiliation]Tennessee Forest Products Center
+
+Department of Forestry, Wildlife and Fisheries[/affiliation]
+
+[address]P.O. Box 1071
+
+University of Tennessee
+
+Knoxville, TN 37901-1071[/address]
+
+Phone [phone]865-946-1126[/phone]
+
+Fax [fax]865-946-1109[/fax]
+
+Email [email]hgu@utk.edu[/email][/contactinfo]
+
+[pic]<IMAGE src="New%20Person%20Pictures/gu.jpg" alt=""/>[/pic]
+
+[introduction]Post-Doctoral Research Associate: <b>[bsdegree]B.Sc[/bsdegree]</b>. in [bsmajor]Timber Engineering[/bsmajor] from [bsuniv]Beijing Forestry University[/bsuniv] in [bsdate]1991[/bsdate]; <b>[msdegree]M.Sc[/msdegree]</b>. and <b>[phddegree]Ph.D[/phddegree]</b>. in [phdmajor]Wood Science and Forest Products[/phdmajor] from [phduniv]Virginia Polytechnic Institute and State University[/phduniv] in [msdate]1997[/msdate] and [phddate]2001[/phddate] respectively; Working as a Research Assistant in the Chinese Academy of Forestry, Research Institute of Wood Industry at Beijing, China from 1991 to 1995; Worked as a Visiting Scientist for three months in EMPA (Swiss Federal Institute for Material Testing), Switzerland in 1999; Joined the Department of Forestry, Wildlife and Fisheries at the University of Tennessee as Post-Doctoral Research Associate working in the SPC group at Tennessee Forest Products Center in 2001.[/introduction]
+
+[resinterests]<b>Research Interests: </b>[interests]theoretical modeling for lumber drying[/interests], [interests]heat and mass transfer[/interests], [interests]relationship between physical material properties and wood anatomical structures[/interests], [interests]Statistical Process Control for wood industry improvement[/interests].[/resinterests]
+
+View Publications Listing
+
+You are welcome to visit my <font size=4>personal homepage</font>

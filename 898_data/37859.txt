@@ -1,0 +1,22 @@
+[pic]<IMAGE src="pix/D.Wagner.gif" alt="a picture of me"/>[/pic]
+
+
+[introduction]David Wagner [position]Associate Professor[/position]
+[affiliation]Computer Science Division
+University of California, Berkeley[/affiliation][/introduction]
+
+[resinterests]<b>Research interests.</b> [interests]Computer security[/interests], especially [interests]security of large-scale systems and networks[/interests]. [interests]Applications of static and dynamic program analysis to computer security[/interests]. I am currently working on [interests]software security[/interests], [interests]electronic voting[/interests], [interests]wireless security[/interests], [interests]sensor network security[/interests], [interests]cryptography[/interests], and other topics. I participate in the TRUST and ACCURATE centers. In the past, I was a co-founder of the ISAAC research group.[/resinterests]
+
+<b>Publications.</b> My technical papers and publications are all available online. Some of my technical talks are also available, too.
+
+<b>Teaching.</b> I am on sabbatical in Fall 2006 and Spring 2007. See also my past teaching.
+
+<b>Students.</b> I'm lucky to have the chance to work with a group of outstanding graduate students: Karl Chen, Arel Cordero, Chris Karlof, Adrian Mettler, David Molnar, Naveen Sastry, and Ka-Ping Yee. See also the students I've graduated.
+
+<b>Contacting me.</b> See my contact information for my address and other details.
+
+<b>Software.</b> Available: CQual++, a tool for type inference analysis of C and C++ code; MOPS, a tool for verifying security properties of C code; and BOON, a tool for finding buffer overrun vulnerabilities in C code.
+
+<b>Resources I maintain.</b> Information on collecting randomness for cryptographic purposes. A large list of the home pages of some crypto and security researchers. A list of random links.
+
+[contactinfo]David Wagner, [email]daw@cs.berkeley.edu[/email], [homepage]http://www.cs.berkeley.edu/~daw/[/homepage].[/contactinfo]

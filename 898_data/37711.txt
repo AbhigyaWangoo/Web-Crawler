@@ -1,0 +1,40 @@
+[pic]<IMAGE src="image.jpg" alt=""/>[/pic] <b><font size=6> Victor Shoup's Home Page</font> </b>
+
+[contactinfo][email]victor@shoup.net[/email]
+
+<b> Current address: </b>
+[address]New York University
+Courant Institute
+251 Mercer Street
+New York, NY 10012[/address]
+Tel: [phone]+1 (212) 998-3511[/phone]
+[email]shoup@cs.nyu.edu[/email][/contactinfo]
+
+
+[publication]A Computational Introduction to Number Theory and Algebra (Version 1)
+
+  A book introducing basic concepts from computational number theory and algebra, including all the necessary mathematical background.
+
+
+NTL: A Library for doing Number Theory (version 5.4)
+
+  NTL is a high-performance, portable C++ library providing data structures and algorithms for manipulating signed, arbitrary length integers, and for vectors, matrices, and polynomials over the integers and over finite fields.
+
+
+ISO 18033-2: An Emerging Standard for Public-Key Encryption
+
+  ISO 18033-2 is an emerging standard for public-key encryption. This project is being carried out by Working Group 2 of ISO/IEC JTC 1/SC27, and I am the editor for this project. Here, you can find a current draft, a reference implementation, and some supporting documentation[/publication].
+
+
+Research Papers
+
+[resinterests]  My research interests include:
+
+    *  [interests]the design[/interests], [interests]analysis[/interests], and [interests]implementation of algorithms for solving problems in the area of number theory and algebra[/interests];
+
+    *  [interests]the design and analysis of cryptographic protocols[/interests].[/resinterests]
+
+
+NYU Related Stuff
+
+  Courses, etc. (not always up to date).

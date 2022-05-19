@@ -1,0 +1,102 @@
+<b><font size=6>Mirek Riedewald</font></b>[pic]<IMAGE src="pictures/MR.jpg" alt="Photo"/>[/pic]
+
+[contactinfo][position]Research Associate[/position]
+[affiliation]Department of Computer Science[/affiliation]
+[address]4120 Upson Hall
+Cornell University
+Ithaca, NY 14853[/address]
+
+[email]<IMAGE src="email.jpg" alt=""/>[/email]
+
+<IMAGE src="pictures/icons/phone1.gif" alt="phone"/> [phone]+1-607-255 0110[/phone], fax (dept): [fax]+1-607-255 4428[/fax]<font size=4>
+</font>[/contactinfo]
+
+
+[resinterests]Research Interests
+
+My general areas of interest are databases and information systems. Currently I am focusing on the following topics:
+
+[interests]Cayuga[/interests]: [interests]Managing Data Streams[/interests]
+
+We have developed novel techniques for addressing resource constraints in data stream management systems [DGR03, DGR05], including an optimal offline algorithm, hardness results, and efficient heuristics. We also developed an approach for fast approximation of aggregate queries over spatial data [DGR04]. This technique can be used for highly accurate selectivity estimation in spatial databases. It's main advantage over previous work in the area is that approximation quality guarantees (confidence intervals) are returned to the user.
+
+Currently we are focusing on building highly scalable data stream processing systems. This includes the design of novel query languages with formal semantics [DGHRW06]. The goal is to find a sweet spot where we can achieve both expressiveness and scalable implementation. The resulting stream processor will be part of the Cornell Knowledge Broker system.
+
+
+<IMAGE src="pictures/icons/new.gif" alt=""/>[DGHRW06] A. Demers, J. Gehrke, M. Hong, M. Riedewald, and W. White. Towards Expressive Publish/Subscribe Systems. In Proc. Int. Conf. on Extending Database Technology (EDBT), pages 627-644, 2006
+[DGR05] A. Das, J. Gehrke, M. Riedewald. Semantic Approximation of Data Stream Joins. In IEEE Transactions on Knowledge and Data Engineering 17(1):44-59 (2005)
+[DGR04] A. Das, J. Gehrke, and M. Riedewald. Approximation Techniques for Spatial Data. In Proc. ACM SIGMOD Int. Conf. on Management of Data, 2004
+[DGR03] A. Das, J. Gehrke, M. Riedewald. Approximate Join Processing over Data Streams. In Proc. ACM SIGMOD Int. Conf. on Managament of Data, pages 40-51, 2003
+
+[interests]eScience[/interests]: [interests]Data Management and Analysis Services for the Sciences[/interests]
+
+I have collaborated with scientists from different areas since 1999. As a graduate student I designed new summarization techniques for digital libraries, e.g., [RAE01, RAE01b]. In recent collaborations with physicists at SLAC and Cornell's Wilson Lab the emphasis was on mining high-energy physics data and on managing metadata and provenance for elementary particle physics. Our ongoing collaboration with the Cornell Astronomy department is surveyed in [CCD+04]. Data flow challenges for managing and analyzing astronomy data, elementary particle physics, and snapshots of the WWW are discussed in [AAC+06]. We recently started working with researchers in Cornell's Sibley School of Mechanical and Aerospace Engineering. The goal of this collaboration is to improve the performance of long-running complex simulations of combustions [PRPG+06].
+
+Since September 2004 I am co-PI on an NSF ITR award whose goal is to develop novel approaches for tracking environmental change based on bird abundance data. Currently we are mining a wealth of citizen science data hosted by Cornell's Lab of Ornithology in order to determine the abundance of wild bird species in North America. This will enable us to generate accurate abundance maps and to discover abundance patterns and patterns of seasonal and irruptive movements. In the next phase we will search for relationships between environmental change and changes in bird populations.
+
+<IMAGE src="pictures/icons/new.gif" alt=""/>[PRPG+06] B. Panda, M. Riedewald, S. B. Pope, J. Gehrke, L. P. Chew. Indexing for Function Approximation. To appear in Proc. Int. Conf. on Very Large Databases (VLDB), 2006
+[AAC+06] W. Y. Arms, S. Aya, M. Calimlim, J. Cordes, J. Deneva, P. Dmitriev, J. Gehrke, L. Gibbons, C. D. Jones, V. Kuznetsov, D. Lifka, M. Riedewald, D. Riley, A. Ryd, and G. J. Sharp. Three Case Studies of Large-Scale Data Flows. In Proc. IEEE Workshop on Workflow and Data Flow for Scientific Applications (SciFlow). 2006
+[CCD+04] M. Calimlim, J. Cordes, A. Demers, J. Deneva, J. Gehrke, D. Kifer, M. Riedewald, and J. Shanmugasundaram. A Vision for PetaByte Data Management and Analysis Services for the Arecibo Telescope. Bulletin of the Technical Committee on Data Engineering, IEEE Computer Society, 27(4), 2004
+[RAE01] M. Riedewald, D. Agrawal, A. El Abbadi. Managing and Analyzing Massive Data Sets with Data Cubes. In J. Abello, P. M. Pardalos, and M. G. C. Resende, editors, Handbook of Massive Data Sets. Kluwer Academic Publishers, 2001
+[RAE01b] M. Riedewald, D. Agrawal, A. El Abbadi. Flexible Data Cubes for Online Aggregation. In Proc. Int. Conf. on Database Theory (ICDT), pages 159-173, 2001 (Copyright held by Springer-Verlag)
+
+[interests]Hilda[/interests]: [interests]Building Data-Driven Web Applications[/interests]
+
+An important class of applications are data-driven web applications, i.e., web applications that run on top of a back-end database system. Examples of such applications include online shopping sites, online auctions, and business-to-business portals. While developing data-driven web applications is a complex and challenging task, the application development interface provided by existing platforms is often too low-level or does not provide a unified model for the whole application stack. We are working on a novel high-level language, Hilda, for developing data-driven web applications [YSRGD05]. One result of this effort is a proof-of-concept compiler, which translates a Hilda program into executable J2EE code. The latest version of this compiler generates code, which automatically adapts the distribution of functionality between client and server to improve performance [GYD+06].
+
+<IMAGE src="pictures/icons/new.gif" alt=""/>[GYD+06] N. Gerner, F. Yan, A. Demers, J. Gehrke, M. Riedewald, and J. Shanmugasundaram. Automatic Client-Server Partitioning of Data-Driven Web Applications. In Proc. ACM SIGMOD Int. Conf. on Management of Data, 2006 (demo)
+[YSRGD05] F. Yang, J. Shanmugasundaram, M. Riedewald, J. Gehrke, and A. Demers. Hilda: A High-Level Language for Data-Driven Web Applications. In Proc. IEEE Int. Conf. on Data Engineering (ICDE), 2006
+
+[interests]Data Warehousing[/interests]
+
+Until recently my main research had concentrated on data warehousing, in particular on efficient aggregation and summarization techniques (see list of publications). I am still active in the area, but due to time constraints I am only focusing on active and real-time data warehousing, which are closely related to data stream management (see above).[/resinterests]
+
+
+Selected Professional Activities
+
+Invited Talks<IMAGE src="pictures/icons/teacher.gif" alt="typewriter"/>
+
+Towards Expressive and Scalable Publish/Subscribe (invited talk at Microsoft Research, Redmond, October 2005)
+Cayuga: Internet-Scale Monitoring of Data Streams (CS colloquium at the University of Florida, Gainesville, April 2005)
+Data Warehouse Meets Data Stream (Dagstuhl Perspectives Workshop: Data Warehousing at the Crossroads, August 2004)
+Efficient Processing of Data Streams for Mining and Monitoring (35th Symp. on the Interface, Salt Lake City, Utah, March 2003)
+Efficient Analysis of Massive Data in Data Warehouses and Data Stream Processing Systems (CS colloquium at the University of Rostock, Germany, December 2002)
+
+[resactivity]Professional Service (most recent)
+
+2007 Int. Conf. on Very Large Databases (VLDB), Program Committee
+2007 IEEE Int. Conf. on Intelligence and Security Informatics (ISI), Program Committee
+2007 IEEE Int. Conf. on Data Engineering (ICDE), Program Committee
+2006 ACM Conf. on Information and Knowledge Management (CIKM), Program Committee
+2006 Int. Conf. on Geosensor Networks (GSN)
+2006 Int. Conf. on Data Warehousing and Knowledge Discovery (DaWaK), Program Committee
+2006 ACM Int. Workshop on Data Warehousing and OLAP (DOLAP), Program Committee
+2006 IEEE Int. Conf. on Intelligence and Security Informatics (ISI), Program Committee
+2006 IEEE Int. Conf. on Data Engineering (ICDE), Program Committee
+2005 ACM Conf. on Information and Knowledge Management (CIKM), Program Committee
+2005 Int. Conf. on Data Warehousing and Knowledge Discovery (DaWaK), Program Committee
+2005 ACM Int. Workshop on Data Warehousing and OLAP (DOLAP), Program Committee
+2005 IEEE Int. Conf. on Intelligence and Security Informatics (ISI), Program Committee
+2004 ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining, Program Committee
+2004 ACM SIGMOD Int. Conf. on Management of Data, Program Committee
+2004 NSF/NIJ Symp. on Intelligence and Security Informatics (ISI), Program Committee
+2003 Int. Conf. on Machine Learning (ICML), Program Committee
+2003 Int. Conf. of Asian Digital Libraries (ICADL), Program Committee
+2003 NSF/NIJ Symp. on Intelligence and Security Informatics (ISI), Program Committee[/resactivity]
+
+[introduction][position]Reviewer[/position] for leading research journals: [affiliation]ACM Transactions on Database Systems (TODS)[/affiliation], [affiliation]ACM Transactions on Information Systems (TOIS)[/affiliation], [affiliation]VLDB Journal[/affiliation], [affiliation]IEEE Transactions on Knowledge and Data Engineering (TKDE)[/affiliation], [affiliation]IEEE Computer[/affiliation], [affiliation]Information Systems[/affiliation], [affiliation]Information Processing Letters (IPL)[/affiliation], and others[/introduction]
+
+
+Links
+
+  * <b>List of Publications</b>
+
+  * <b>Teaching</b><b> and Advising Experience</b>
+
+  * <b>Personal Interests</b>
+
+  * <b>Resume (available on request)</b>
+
+  <IMAGE src="/~mirek/pictures/Image5.gif" alt=""/>
+
+02 Aug 2006

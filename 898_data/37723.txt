@@ -1,0 +1,496 @@
+<IMAGE src="/images/jonesgsm/shim.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Rice MBA Program Overview
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Compare Programs
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Admissions Events
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Admission
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> MBA Curriculum
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Action Learning Project
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Joint Graduate Programs
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Career Management Center
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Students
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Rankings
+
+<IMAGE src="/images/jonesgsm/menu_bottom.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/shim.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Rice MBA for Executives Overview
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Compare Programs
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Admissions Events
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Application Requirements
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Educational Expenses
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Calendar
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Curriculum
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> FAQs
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Application
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Request Information
+
+<IMAGE src="/images/jonesgsm/menu_bottom.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/shim.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Rice MBA for Professionals Overview
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Compare Programs
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Admissions Events
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Curriculum
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Admissions
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Tuition
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> FAQs
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Career Services
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Rankings
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Driving Directions
+
+<IMAGE src="/images/jonesgsm/menu_bottom.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/shim.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Corporate Programs
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Course Listing
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Certificate Programs
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Custom Corporate Programs
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Accommodations
+
+<IMAGE src="/images/jonesgsm/menu_bottom.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/shim.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Faculty
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Faculty Experts
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Research Interests
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Open Faculty Positions
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> El Paso Corporation Finance Center
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Research Centers
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Business Information Center
+
+<IMAGE src="/images/jonesgsm/menu_bottom.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/shim.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> JGSAA
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Alumni Services
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Programs
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Calendar of Events
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Jones Partners
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Jones Journal
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> @Jones Newsletter
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> About Alumni
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Alumni Directory
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Alumni Update Information Form
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Alumni Event Photos
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Online Communities
+
+<IMAGE src="/images/jonesgsm/menu_line.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/orange_arrow.gif" alt=""/> Rice MBAby
+
+<IMAGE src="/images/jonesgsm/menu_bottom.gif" alt=""/>
+
+<font size=-1> </font> <font size=-1> </font>
+
+<IMAGE src="/images/jonesgsm/shim.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/JStype_01.jpg" alt=""/> <IMAGE src="/images/jonesgsm/Info1_05.jpg" alt=""/> <IMAGE src="/images/jonesgsm/Apply1_07.jpg" alt=""/> <IMAGE src="/images/jonesgsm/JSFlag_03.jpg" alt=""/>
+
+<IMAGE src="/images/jonesgsm/shim.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/bar1a.gif" alt=""/><IMAGE src="/images/jonesgsm/bar2a.jpg" alt=""/><IMAGE src="/images/jonesgsm/bar3a.jpg" alt=""/><IMAGE src="/images/jonesgsm/bar4a.jpg" alt=""/><IMAGE src="/images/jonesgsm/bar5a.jpg" alt=""/><IMAGE src="/images/jonesgsm/bar7c.jpg" alt=""/><IMAGE src="/images/jonesgsm/bar6c.jpg" alt=""/> <IMAGE src="/images/jonesgsm/bar7a.jpg" alt=""/>
+
+<IMAGE src="/images/jonesgsm/shim.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/shim.gif" alt=""/> <IMAGE src="/images/jonesgsm/1a.jpg" alt=""/><IMAGE src="/images/jonesgsm/2a.jpg" alt=""/><IMAGE src="/images/jonesgsm/mba-p-1-1.jpg" alt=""/><IMAGE src="/images/jonesgsm/3a.jpg" alt=""/><IMAGE src="/images/jonesgsm/4a.jpg" alt=""/><IMAGE src="/images/jonesgsm/5a.jpg" alt=""/>
+
+<IMAGE src="/images/jonesgsm/env3a.gif" alt=""/> <b>Contacts</b> <b>Site Map</b> <b>Directory</b> <b>Strategic Planning</b> <b>Give to Jones</b>
+
+<IMAGE src="/images/jonesgsm/shim.gif" alt=""/>
+
+<IMAGE src="/images/jonesgsm/srule2.jpg" alt=""/>
+
+[contactinfo]<font size=3><font size=4>Jing Zhou</font><b>
+<font size=2><b><font size=3>[position]Associate Professor[/position] of Management</font></b></font> </b></font>
+
+<font size=2>[pic]<IMAGE src="/FacImageNoCache.asp?FACMEMID=137&TY=1&FK=137" alt=""/>[/pic]
+<IMAGE src="/images/hrule2a.jpg" alt=""/> </font>
+
+<b>Contact:</b><font size=1>
+Email: [email]jzhou@rice.edu[/email]
+<b>Office</b>
+
+[address]<font size=1>Rm. 232
+Mailstop: 531[/address]
+Phone: [phone]713-348-5330[/phone]</font>[/contactinfo]
+
+</font>
+
+<b>Teaching Areas:</b>
+Organizational Behavior, Leadership
+
+<b>Scholarly Areas:</b>
+
+[introduction]<b>Affiliations:<font size=2> </font></b><font size=2>
+
+
+[affiliation]Academy of International Business[/affiliation]
+
+
+[affiliation]Academy of Management[/affiliation]
+
+
+[affiliation]American Psychological Association[/affiliation]
+
+[position]Founding Member[/position]
+[affiliation]Asia Academy of Management[/affiliation]
+
+[position]Founding Member[/position]
+[affiliation]International Association on Chinese Management Research[/affiliation]
+
+
+[affiliation]Society for Industrial and Organizational Psychology[/affiliation]
+
+
+[affiliation]Society for Personality and Social Psychology[/affiliation][/introduction]
+
+</font>
+
+<b>Grants:</b>
+
+Strategic Planning, Technology Commercialization, and Organizational Effectiveness in National Science Foundation National Science Foundation
+
+Promoting employee creativity in Chinese organizations: A social capital perspective Hong Kong Research Grants Council
+
+[education]<b>Education:</b>
+
+[bsdegree]B.S.[/bsdegree] ([bsdate]1987[/bsdate]) [bsuniv]Peking (Beijing) University[/bsuniv]
+
+[msdegree]M.A.[/msdegree] ([msdate]1990[/msdate]) [msuniv]Peking (Beijing) University[/msuniv]
+
+[phddegree]Ph.D.[/phddegree] ([phddate]1996[/phddate]) [phduniv]University of Illinois at Urban-Champaign[/phduniv][/education]
+
+<b>Bio Statement:</b>
+[introduction]Professor Zhou has taught organizational behavior, managing for creativity and innovation, and leadership at undergraduate, MBA, EMBA, and Ph.D. levels. Prior to joining the Jones Graduate School, she was an associate professor and Mays Faculty Fellow in the Management Department at the Mays Business School of Texas A&M University, where she received two teaching awards and one research award.
+
+Professor Jing Zhou teaches and does research in organizational behavior and international management. Her current research interests include [interests]organizational creativity and innovation[/interests], and [interests]cross-cultural issues in organizational behavior and human resource management[/interests]. Her research has been published, or accepted for publication, in such referred journals as Academy of Management Journal, Human Relations, Journal of Applied Psychology, Journal of Applied Social Psychology, Journal of Creative Behavior, Journal of Management, Journal of Organizational Behavior, and Personnel Psychology. Her work also appeared in the research series Research Personnel and Human Resource Management, and a practitioner journal HRMagazine. In addition, her work will be published in the Handbook of Organizational Creativity and the International Handbook of Innovation. Currently, she serves on the editorial boards of Journal of Applied Psychology, Journal of Management, and Management and Organization Review.
+
+Professor Zhou is a [position]member[/position] of the [affiliation]Academy of Management[/affiliation], [affiliation]American Psychological Association[/affiliation], [affiliation]Society for Industrial and Organizational Psychology (SIOP)[/affiliation], and [affiliation]Society for Personality and Social Psychology[/affiliation]. She was an Associate Program Chair for the 2002 SIOP annual conference, and the Chair of the Micro Organizational Behavior track of the Academy of International Business 2002 annual conference. She is a [position]founding member[/position] of the [affiliation]Asia Academy of Management[/affiliation], and of the [affiliation]International Association on Chinese Management Research[/affiliation]. She has served as a consultant to a number of organizations on issues related to promoting employee creativity and innovation[/introduction].
+
+[publication]<b>Publications:</b>
+
+
+<b>Book Chapters</b>
+
+J. Zhou, Jing. 2005. "Creativity." Entrepreneurship Encyclopedia Blackwell Encylopedia
+
+J. Zhou. 2005. "Promoting creativity through feedback. In C. Ford (Ed.)." Handbook of organizational creativity Hillsdale, NJ
+
+J. Zhou and C.E. Shalley. 2003. "Research on employee creativity: A critical review and directions for future research." Research in personnel and human resource management Oxford, England Elsevier Science 22 165-217
+
+J. Zhou and R. W. Woodman. 2003. "Managers' recognition of employees' creative ideas. In L. V. Shavinina (Ed.)." International handbook on innovation Hillsdale, NJ
+
+G. R. Oldham, A. Cummings, and J. Zhou. 1995. "The spatial configuration of organizations. In G. R. Ferris (Ed.)." Research in personnel and human resource management Greenwich, CT JAI Press 1-37
+
+
+<b>Journal Articles</b>
+
+C. E. Shalley, J. Zhou and G. R. Oldham. 2004. "The effects of personal and contextual characteristics on creativity: Where should we go from here?." Journal of Management 30 933-958
+
+J. Zhou and J. M. George. 2003. "Awakening employee creativity: The role of leader emotional intelligence." Leadership Quarterly 14 545-568
+
+S. Shin and J. Zhou. 2003. "Transformational leadership, conservation, and creativity: Evidence from Korea." Academy of Management Journal 46 703-714
+
+J. Zhou. 2003. "When the presence of creative coworkers is related to creativity: Role of supervisor close monitoring, developmental feedback, and creative personality." Journal of Applied Psychology 88, 413-422
+
+J. M. George and J. Zhou. 2002. "Understanding when bad moods foster creativity and good ones don't: The role of context and clarity of feelings." Journal of Applied Psychology 87, 687-697
+
+J. Zhou and J. J. Martocchio. 2001. "Chinese and American managers' compensation award decisions: A comparative policy-capturing study." Personnel Psychology 54, 115-145
+
+J. Zhou and G. R. Oldham. 2001. "Enhancing creative performance: Effects of expected developmental assessment strategies and creative personality." Journal of Creative Behavior 35, 151-167
+
+J. Zhou and J. M. George. 2001. "When job dissatisfaction leads to creativity: Encouraging the expression of voice." Academy of Management Journal 44, 682-696
+
+J. M. George and J. Zhou. 2001. "When openness to experience and conscientiousness are related to creative behavior: An interactional approach." Journal of Applied Psychology 86, 513-524
+
+E. Perry, C. Kulik and J. Zhou. 1999. "A closer look at the effects of subordinate-supervisor age differences." Journal of Organizational behavior 20, 341-357
+
+J. Zhou and G. R. Oldham. 1999. "Expected evaluation and creative performance." Academy of Management Best Paper Proceedings
+
+J. Zhou, G. R. Oldham and A. Cummings. 1998. "Employee reactions to the physical work environment: Effects of childhood residential attributes." Journal of Applied Social Psychology 28, 2213-2238
+
+J. Zhou. 1998. "Feedback valence, feedback style, task autonomy, and achievement orientation: Interactive effects on creative performance." Journal of Applied Psychology 83, 261-276
+
+G. R Oldham, A. Cummings, L. Mischel, J. Schmidtke and J. Zhou. 1996. "Can personal stereos improve productivity?." HR Magazine 95-99
+
+G. R. Ferris, D. Frank, M. C. Galang, J. Zhou, M. Kacmar and J. Howard. 1996. "Perceptions of organizational politics: Prediction, stress-related implications, and outcomes." Human Relations 49, 233-266
+
+G. R. Ferris, D. Frink, D. Bhawuk, J. Zhou and D. Gilmore. 1996. "Reaction of diverse groups to politics in the workplace." Journal of Management 22, 23-44
+
+G. R. Oldham, A. Cummings, L. Mischel, J. Schmidtke and J. Zhou. 1995. "Listen while you work?: Quasi-experimental relations between personal-stereo headset use and employee work responses." journal of Applied Psychology 80, 547-564
+
+J. Zhou and G. R. Ferris. 1995. "The dimensions and consequences of organizational politics perceptions: A confirmatory analysis." Journal of Applied Social Psychology 25, 1747-1764
+
+<b>Research in Progress:</b>
+
+J. Zhou."Leadership and Organizational Culture (Discussant)."
+
+J. Zhou."Writing Skills for Top Tier Journals (Chair and Organizer)."[/publication]
+
+<b>Recognition and Relationships:<font size=2> </font></b><font size=2>
+
+Mays Fellow, Mays Business School, Texas A&M University, 6/27/2002
+
+Distinguished Research Award, Mays Business School, Texas A&M University, 6/27/2002
+
+Fish Camp Namesake, Texas A&M University, 6/27/2002
+
+The Association of Former Students Distinguished Teaching Award, Texas A&M University, 6/27/2001
+
+Montague -- Center for Teaching Excellence Scholar, Texas A&M University, 6/27/2000
+
+Ford Research Fellow, Center for Human Resource Management, Texas A&M University, 6/27/2000
+
+OB/OMT Junior Faculty Consortium, Academy of Management meetings, Boston, MA, 6/27/1997
+
+University of Illinois candidate to the HR Doctoral Student Consortium, Academy of Management meetings, Vancouver, Canada, 6/27/1995
+
+University of Illinois candidate to the OB/OT/OD Doctoral Student Consortium, Academy of Management meetings, Dallas, Texas, 6/27/1994
+
+Winner of the Graduate College competition for creative research projects, University of Illinois at Urban-Champaign, 6/27/1994
+
+Recipient of the Arnold Beckman Award, University of Illinois Research Board competition for reseach projects, 6/27/1993
+
+Winner of the Graduate College competition for creative research projects, University of Illinois at Urbana-Champaign, 6/27/1993
+
+Gradute Distinguished Fellowship, Institute of Labor and Industrial Relations, University of Illinois, 6/27/1991
+
+Graduate Super-Fellowship, City University of New York, 6/27/1990
+
+Guanghua Distinguished Graduate Student Fellowship, Beijing University, 6/27/1990
+
+</font>
+
+[resactivity]<b>Services to Profession:</b>
+
+Editorial board member, Academy of Management Journal from 2004-present .
+
+Editorial board member, Journal of Applied Psychology from 2003-present .
+
+Editorial board member, Journal of Management from 2001-present .
+
+Editorial board member, Journal of Organizational Behavior Education from 2002-present .
+
+Editorial board member, Management and Organization Review from 2003-present .
+
+Editorial board member, Organizational Analysis from 2003-present .
+
+Reviewer, U.S. National Science Foundation from 2003-present .
+
+Reviewer, The Dutch Social Science Research council of the Netherlands Organisation for Scientific Research (NWO) from 2003-present .
+
+Reviewer, Hong Kong Research Grants Council from 2000-present .
+
+Reviewer, Prentice Hall from 1999-present .
+
+Reviewer, Oxford University Press from 1999-present .
+
+Reviewer, Academy of Management Journal from 1998-present .
+
+Reviewer, Academy of Management Review from 1998-present .
+
+Reviewer, Asia Pacific Journal of Mangement from 2001-present .
+
+Reviewer, Human Relations from 1999-present .
+
+Reviewer, Human Resource Management Journal from 2004-present .
+
+Reviewer, IEEE Transactions on Engineering Management from 2003-present .
+
+Reviewer, Industrial Relations Journal from 2001-present .
+
+Reviewer, Journal of Applied Psychology from 1998-2003 .
+
+Reviewer, Journal of Business Research from 2002-present .
+
+Reviewer, The Journal of Creative Behavior from 2000-present .
+
+Reviewer, Journal of Management from 2000-present .
+
+Reviewer, Journal of Managerial Psychology from 2003-present .
+
+Reviewer, Journal of Occupational and Organizational Psychology from 2004-present .
+
+Reviewer, Journal of Organizational Behavior from 1997-present .
+
+Reviewer, Organizational Behavior and Human Decision Processes from 2002-present .
+
+Reviewer, Organization Science from 2002-present .
+
+Reviewer, Applied Psychology: An International Review from 2003-present .
+
+Member, Nomination and Election Committee from 2003 International Association on Chinese Management Research.
+
+Member, Inaugural Conference Planning Committee from 2003 International Association on Chinese Management Research (IACMR).
+
+Member, Inaugural Conference Program Committee from 2003-2004 IACMR.
+
+Vice President and Program Chair, International Association on Chinese Management Research from 2004-2006 IACMR[/resactivity].
+
+
+<font size=1>Web Editor</font><font size=1> ::: </font><font size=1>Contacts</font><font size=1> ::: </font><font size=1>Feedback</font><font size=1> ::: Report Problems ::: </font><font size=1>Rice University
+Content by Jones Graduate School Office of Marketing Communications â€?Powered by xCatalyst
+Copyright Â© 2002-2007 Jesse H. Jones Graduate School of Management â€?Rice University
+PO Box 2932 â€?Houston, Texas â€?77252-2932</font>

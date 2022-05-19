@@ -1,0 +1,216 @@
+Soumen Chakrabarti [introduction][position]Associate Professor[/position]
+[affiliation]Computer Science and Engineering
+Indian Institute of Technology Bombay[/affiliation][/introduction] [pic]<IMAGE src="media/soumen_now.jpg" alt="Ancient history!"/>[/pic]
+Cartoon by Panjwani
+
+Facad Publications Downloads Book Blog
+
+
+[contactinfo]Contact information
+
+I am SOUMEN CHAKRABARTI, anagram for ANARCHISM OUTBREAK, a [position]faculty member[/position] in the [affiliation]Department of Computer Science[/affiliation].[/introduction]
+
+If you are from industry looking for <b>consultation</b>, please read the section titled Consultative practice rules and norms (1996) herein, and my informal notes.
+
+At the moment I am <b>not offering short-term projects</b> to students not enrolled in a regular program at IIT Bombay. Only if you are looking for at least a year-long position, send email with an ASCII resume. I am amazed at the number of people shooting me 2-month project requests despite this statement.
+
+If you are an IIT student looking for a project within the scope of your program (Btech, DD, Mtech) please read these guidelines first.
+
+The best way to contact me is to send mail to (please note that I am on a low-spam diet). Or you can call me at [contactinfo][phone]+91-22-2576-7716[/phone] or fax me at [fax]+91-22-2572-0290[/fax]. Please use <b>only email</b> to initiate a conversation with me if we haven't communicated before, unless it is an emergency. If you are visiting, here are directions to my office.[/contactinfo]
+
+This page is lazily mirrored at IITB and UC Berkeley. The IITB version is usually up-to-date.
+
+Content with URLs that have the current URL as a prefix has been hosted in accordance with fair use principles, for academic and non-profit purposes. By downloading the contents of this page, you agree to bring possible violation of fair use to my notice before taking legal recourse.[/contactinfo]
+
+
+[introduction]Education and career
+
+  * Don Bosco School, Park Circus, Calcutta, 1975--1987
+
+  * Indian Institute of Technology, Kharagpur, 1987--1991
+
+  * University of California, Berkeley, 1991--1996
+
+  * IBM Almaden Research Center, 1996--1999
+
+  * IIT Bombay, 1999--present
+
+  * Carnegie-Mellon University, Spring 2004[/introduction]
+
+
+[resinterests]Research interests
+
+[interests]Searching with entities and relations[/interests]
+      I am interested in building new search systems that integrate type and role annotations with keyword matches, thereby exploiting lexical ontologies and entity taggers.
+
+[interests]Integrating IR with databases[/interests]
+      In the BANKS project, we added two broad paradigms of keyword search in graphs that can represent text embedded in relational or XML-like data. Watch this space for updates on our SPIN project.
+
+[interests]The effect of search engines on the Web graph and page popularity[/interests]
+      Search engines are influenced by the (in)degree of Web pages, but their ranked lists modulate page popularity and eventually their (in)degree, setting up a feedback to some degree. Might the evolution of the Web graph be influenced substantially by the existence of search engines? Is there a need to regulate monopolies? What are healthy economic objectives, and how to optimize them?
+
+[interests]Focused crawlers to build topic-specific portals[/interests]
+      A focused crawler collects a topic-specific subgraph of the Web by coupling classifiers and reinforcement learners with crawlers. An open-source focused crawler project was started at the Lab. for Intelligent Internet Research and is available now.
+
+[interests]Mining hypertext to estimate topics and popularity[/interests]
+      I built a hypertext classifier that uses the text in and links around a given Web page to label it with a topic. This was an early application of Markov networks to Web analysis. As a member of the IBM Clever Project, I worked on algorithms to analyze the links around a web page and the text in pages that cite the given page to assign it a measure of popularity.
+
+[interests]Compiling and running parallel scientific programs[/interests]
+      My PhD thesis was on the design and implementation of compilers and runtime systems for distributed memory multiprocessors.[/resinterests]
+
+
+[resactivity]Professional activity
+
+Journal editorship
+
+        * ACM Transactions on the Web, a new journal starting in 2005/2006.
+
+        * Foundations and Trends in Information Retrieval, a new review journal starting in 2006.
+
+        * Data Mining and Knowledge Discovery (DMKD) Journal, Area Action Editor for Text and Web Mining, 2003--2005.
+
+        * IEEE Transactions on Knowledge and Data Engineering (TKDE), Special Issue on Mining and Searching the Web, Guest Editor.
+
+Conference organization
+
+        * VLDB 2007, Tutorial Co-Chair.
+
+        * ECML-PKDD 2006, Area Chair, Track for mining links, graphs, trees and high-dimensional data.
+
+        * WWW 2006, Deputy Chair, Data Mining track.
+
+        * COMAD 2005b, Associate Program Chair. Photos!
+
+        * WWW 2003, Vice Chair, Searching and Mining track.
+
+        * ICDE 2003. Vice Chair, Data, Text and Web Mining track.
+
+        * WWW 2002, Deputy Chair, Searching, Querying and Indexing track (CFP).
+
+Conference committee
+
+        * WWW 2007, AAAI 2007, SIGMOD 2007, SIGKDD 2006, EMNLP/HLT 2005, SIGKDD 2005, WWW 2005 (panel), SIGMOD 2005, SIGKDD 2004, SIGIR 2004, VLDB 2004, WWW 2004, ICDE 2004, SIGIR 2003, SIGKDD 2003, VLDB 2003 (IIS), SODA 2003, SIGIR 2002, ICDE 2002, SIGIR 2001, WWW 2001, WWW 2000, SIGKDD 1999, AAAI SIGKDD 1998.
+
+Other   
+
+        * ACM SIGKDD Curriculum Committee Member.[/resactivity]
+
+
+Courses
+
+  * Statistical foundations of machine learning: Autumn 2005, Autumn 2006.
+
+  *  Web search and mining (earlier called Hypertext retrieval and mining): Spring 2001, Spring 2002, Spring 2003, Spring 2005, Spring 2006 (new improved), Spring 2007.
+
+  * Undergraduate Programming Languages, Spring 2000, Autumn 2000, Autumn 2001, Autumn 2002, Autumn 2003, Autumn 2004.
+
+  * Graduate Software Lab: Autumn 1999, Autumn 2000.
+
+... your work is to keep cranking the flywheel that turns the gears
+that spin the belt in the engine of belief that keeps you and your desk in midair
+---Annie Dillard, in The Writing life.
+
+
+[publication]Representative publication DBLP
+
+  * Accelerating Newton optimization for log-linear models through feature redundancy. With Arpit Mathur. IEEE ICDM 2006, Hong Kong.
+
+  * Learning parameters in entity-relationship graphs from ranking preferences. With Alekh Agarwal. ECML-PKDD 2006, Berlin.
+
+  * Learning to rank networked entities. With Alekh Agarwal and Sunny Aggarwal. SIGKDD Conference 2006, Philadelphia.
+
+  * Optimizing Scoring Functions and Indexes for Proximity Search in Type-annotated Corpora. With Kriti Puniyani and Sujatha Das. WWW 2006, Edinburgh.
+
+  * Enhanced Answer Type Inference from Questions using Sequential Models. With Vijay Krishnan and Sujatha Das. EMNLP/HLT 2005, Vancouver.
+
+  * Bidirectional Expansion For Keyword Search on Graph Databases. With Varun Kacholia, Shashank Pandit, S. Sudarshan, Rushi Desai and Hrishikesh Karambelkar. VLDB 2005.
+
+  * Shuffling a Stacked Deck: The Case for Partially Randomized Ranking of Search Engine Results. With Sandeep Pandey, Sourashis Roy, Chris Olston, and Junghoo Cho. VLDB 2005.
+
+  * The influence of search engines on preferential attachment. With Alan Frieze and Juan Vera. SODA 2005.
+
+  * Is question answering an acquired skill? With Ganesh Ramakrishnan, Deepa Paranjpe, and Pushpak Bhattacharyya. WWW2004, New York City.
+
+  * Fast and accurate text classification via multiple linear discriminant projections. With Shourya Roy and Mahesh Soundalgekar. VLDB Journal, 12(2), pages 170--185 [conference version, talk slides].
+
+  * Cross-Training: Learning Probabilistic Mappings Between Topics. With Sunita Sarawagi and Shantanu Godbole. SIGKDD Conference 2003, Washington D.C.
+
+  * Monitoring the Dynamic Web to respond to Continuous Queries. With Sandeep Pandey and Krithi Ramamritham. WWW 2003, Budapest, Hungary, May 2003. (talk slides.)
+
+  * Accelerated focused crawling through online relevance feedback. With Kunal Punera and Mallela Subramanyam. WWW 2002, Hawaii. (Local copy.)
+
+  * The structure of broad topics on the Web. With Mukul Joshi, Kunal Punera, and David M. Pennock. WWW 2002, Hawaii. (Local copy.)
+
+  * Keyword Searching and Browsing in Databases using BANKS. With Gaurav Bhalotia, Charuta Nakhe, Arvind Hulgeri, and S. Sudarshan. In ICDE 2002. Also see the BANKS home page.
+
+  * Enhanced topic distillation using text, markup tags, and hyperlinks. With Mukul M. Joshi and Vivek B. Tawde. In SIGIR 2001 (talk slides).
+
+  * Integrating the Document Object Model with hyperlinks for enhanced topic distillation and information extraction. In the 10th International World Wide Web Conference, Hong Kong, May 2001.
+
+  * Memex: A browsing assistant for collaborative archiving and mining of surf trails. With Sandeep Srivastava, Mallela Subramanyam and Mitul Tiwari. Demo at VLDB 2000.
+
+  * Data mining for hypertext: A tutorial survey. SIGKDD Explorations, 1(2), pages 1--11, 2000.
+
+  * Using Memex to archive and mine community Web browsing experience. With Sandeep Srivastava, Mallela Subramanyam and Mitul Tiwari. In the 9th International World Wide Web Conference, Amsterdam, May 2000. Talk slides.
+
+  * Mining the Web's Link Structure.  With Byron E. Dom, S. Ravi Kumar, Prabhakar Raghavan, Sridhar Rajagopalan, Andrew Tomkins, David Gibson, and Jon Kleinberg. In IEEE Computer, vol. 32, no. 8, August 1999 (IEEE copy).
+
+  * Distributed Hypertext Resource Discovery Through Examples. With Martin van den Berg and Byron Dom. VLDB 1999, Edinburgh, Scotland. Talk slides.
+
+  * Hypersearching the Web. With Byron Dom, S. Ravi Kumar, Prabhakar Raghavan, Sridhar Rajagopalan, Andrew Tomkins, Jon M. Kleinberg, and David Gibson. Invited paper in Scientific American, June 1999.
+
+  * Surfing the Web Backwards. With D. A. Gibson and K. S. McCurley. In WWW 1999.
+
+  * Focused crawling: A new approach to topic-specific Web resource discovery. With M. van den Berg and B. Dom.  At WWW8, Toronto, May 1999. (Also see the project page.)
+
+
+Upcoming and recent talks
+
+  * Talk at WAW and a short course at Banff, Nov 2006.
+
+  * Invited talk at the International Workshop on Intelligent Information Access, Helsinki, July 2006.
+
+  * Invited talk at the ICML 2005 workshop on Learning in Web Search.
+
+  * Invited talk at the ICML 2005 workshop on Learning and Extending Lexical Ontologies by using Machine Learning Methods.
+
+  * Panel discussion on exploiting dynamic networking effects in Web advertising at WWW 2005.
+
+  * Invited talk and position paper at ECML/PKDD in Pisa, Sept. 2004.
+
+  * Short course on machine learning for hypertext applications at ADFOCS in Saarbrücken, Sept. 2004.
+
+  * Graph structures in data mining. A tutorial presented at SIGKDD 2004 with Christos Faloutsos.
+
+  * Text search for fine-grained semi-structured data. A tutorial presented at VLDB 2002.
+
+  * Beyond hubs and authorities: spreading out and zooming in. Invited talk at ICDT International Workshop on Web Dynamics, London, Jan. 2001.
+
+  * Data Mining and Learning on the Web. NIPS Workshop, Denver, Dec. 2000. By invitation.
+
+  * Nurturing content-based collaborative communities on the Web. Invited talk at the Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora (EMNLP/VLC), Hong Kong, Oct. 7--8, 2000.
+
+  * Hypertext data mining: A tutorial presented at the SIGKDD Conference, Boston, August 2000.
+
+  * Hypertext databases and hypertext data mining. SIGMOD 1999 Tutorial.
+
+
+Patents
+
+  * 6,418,433: System and method for focussed web crawling.
+
+  * 6,389,436: Enhanced hypertext categorization using hyperlinks.
+
+  * 6,112,221: System and method for scheduling web servers with a quality-of-service guarantee for each user.
+
+  * 6,336,112: Method for interactively creating an information database including preferred information elements, such as, preferred-authority, world wide web pages.
+
+  * 6,334,131: Method for cataloging, filtering, and relevance ranking frame-based hierarchical information structures.
+
+  * 6,233,575: Multilevel taxonomy based on features derived from training documents classification using fisher values as discrimination values.
+
+  * 6,189,005: System and method for mining surprising temporal patterns.
+
+  * 6,125,361: Feature diffusion across hyperlinks.[/publication]
+
+<b>VISITS</b> <IMAGE src="media/counter.gif" alt=""/> <b></b>

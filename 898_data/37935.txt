@@ -1,0 +1,152 @@
+<IMAGE src="../../images/spacer.gif" alt="Follow this link to skip to the main content"/>
+
+<IMAGE src="../../images/header_nasa_logo.gif" alt="NASA Logo"/>
+
+<IMAGE src="../../images/header_jpl_link.gif" alt="Jet Propulsion Laboratory"/>
+
+<IMAGE src="../../images/header_caltech_link.gif" alt="California Institute of Technology"/>
+
+<IMAGE src="../../images/header_vertical_bar.gif" alt=""/>
+
++ View the NASA Portal
+
+<IMAGE src="../../images/header_search_jpl.gif" alt="Search JPL"/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/nav_jpl_home.gif" alt="JPL Home"/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/nav_earth.gif" alt="Earth"/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/nav_solar_system.gif" alt="Solar System"/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/nav_stars_and_galaxies.gif" alt="Stars and Galaxies"/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/nav_technology.gif" alt="Technology"/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/roboticsBanner.jpg" alt="JPL Robotics"/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/search_robotics.gif" alt="Search Robotics"/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/leftnav-home-off.gif" alt="Home Page"/>
+
+<IMAGE src="../../images/leftnav-applications-off.gif" alt="Applications"/>
+
+<IMAGE src="../../images/leftnav-projects-off.gif" alt="Projects"/>
+
+<IMAGE src="../../images/leftnav-tasks-off.gif" alt="Tasks"/>
+
+<IMAGE src="../../images/leftnav-groups-off.gif" alt="Groups"/>
+
+<IMAGE src="../../images/leftnav-people-on.gif" alt="People"/>
+
+<IMAGE src="../../images/leftnav-systems-off.gif" alt="Systems"/>
+
+<IMAGE src="../../images/leftnav-facilities-off.gif" alt="Facilities"/>
+
+<IMAGE src="../../images/leftnav-publications-off.gif" alt="Publications"/>
+
+<IMAGE src="../../images/leftnav-patents-off.gif" alt="Patents"/>
+
+<IMAGE src="../../images/leftnav-awards-off.gif" alt="Awards"/>
+
+<IMAGE src="../../images/leftnav-news-off.gif" alt="News"/>
+
+<IMAGE src="../../images/leftnav-gallery-off.gif" alt="Image Gallery"/>
+
+<IMAGE src="../../images/leftnav-charter-off.gif" alt="Charter"/>
+
+<IMAGE src="../../images/leftnav-links-off.gif" alt="Links"/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/topnav-personal-on.gif" alt="Personal Page"/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/topnav-publications-off.gif" alt="Publications"/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/topnav_blank.gif" alt="Image Gallery"/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/topnav_blank.gif" alt="Videos"/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/>
+
+[pic]<IMAGE src="../../images/people-871.jpg" alt="Andres  Castano's Picture"/>[/pic]
+
+<IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> [contactinfo]<b>Address:</b>
+[address]Jet Propulsion Laboratory
+M/S 125-209
+4800 Oak Grove Drive
+Pasadena, CA 91109[/address] <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <b>Phone:</b>
+[phone]818.354.8817[/phone] <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <b>Fax:</b>
+[fax]818.393.0879[/fax] <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <b>Email:</b>
+Click here <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <b>Member of:</b>
+3474
+[affiliation]Computer Vision Group[/affiliation] <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/> <IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/>
+
+Andres Castano, PhD
+<b>[position]Senior Member of Technical Staff[/position]</b>[/contactinfo]
+<b>(Full description>>)</b>
+
+[introduction]Biography <b>(more>>)</b> Dr. Andres Castano is a [position]Senior Member of Technical Staff[/position] of the [affiliation]Machine Vision Group at NASA/JPL[/affiliation]. His work at JPL has focused on detection and recognition. He developed the dust devil and cloud detection algorithms of the NASA Mars Exploration Rovers (MER) - these are the first algorithms that have ever been used to automate science acquisition on a planetary rover (previous automation algorithms have addressed solely engineering processes, particularly mobility). He has also participated in various target detection projects for science acquisition and surveillance for both Nasa and military sponsors. Before joining JPL, he worked at the Information Sciences Institute at the University of Southern California (USC/ISI) where he was the lead roboticist for the CONRO project on reconfigurable robots.[/introduction]
+
+[education]Education <b>(more>>)</b> [phddegree]Ph.D.[/phddegree] [phddate]'98[/phddate], [msdegree]M.S.[/msdegree] [msdate]'92[/msdate], from the [phduniv]University of Illinois at Urbana-Champaign[/phduniv]
+
+[msdegree]M.S.[/msdegree] [msdate]'90[/msdate], [bsdegree]B.S.[/bsdegree] [bsdate]'87[/bsdate], from the [msuniv]Universidad de los Andes[/msuniv]
+
+All degrees in [phdmajor]Electrical Engineering[/phdmajor].[/education]
+
+[resinterests]Research Interests <b>(more>>)</b>
+
+  * [interests]Automatic target detection and recognition[/interests]
+
+  * [interests]Perception for autonomous navigation[/interests][/resinterests]
+
+
+<IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/> <b>NASA Privacy Statement</b> <IMAGE src="../../images/spacer.gif" alt=""/> <b>Glossary</b> <IMAGE src="../../images/spacer.gif" alt=""/> <b>Sitemap</b> <IMAGE src="../../images/spacer.gif" alt=""/> <b>Feedback</b> <IMAGE src="../../images/spacer.gif" alt=""/> <b>Contact Us</b> <IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/spacer.gif" alt=""/>
+
+<IMAGE src="../../images/footer_first_gov.gif" alt="First Gov - Your First Click to the U.S. Government."/> <IMAGE src="../../images/footer_nasa.gif" alt="National Aeronautics and Space Administration website."/>   Curator: Richard Volpe
+  Webmaster: Cecelia Lawshe

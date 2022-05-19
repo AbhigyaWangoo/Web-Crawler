@@ -1,0 +1,115 @@
+<IMAGE src="/images/topban_internal_yale.gif" alt="Yale University."/> <IMAGE src="/images/topban_internal_2.gif" alt=""/>
+
+<IMAGE src="/images/midban_internal_compsci.gif" alt="Computer Science."/> <IMAGE src="/images/midban_internal_2.jpg" alt=""/>
+
+<IMAGE src="/images/spacer.gif" alt=""/>
+
+<IMAGE src="../csedit/images/spacer.gif" alt=""/>
+
+<b>Computer Science</b>
+
+<IMAGE src="../images/spacer.gif" alt=""/> Main Page
+
+<b>Academics</b>
+
+<IMAGE src="../images/spacer.gif" alt=""/> Graduate Program
+<IMAGE src="../images/spacer.gif" alt=""/> Undergraduate Program
+<IMAGE src="../images/spacer.gif" alt=""/> Course Information
+<IMAGE src="../csedit/images/spacer.gif" alt=""/> Course Catalog
+<IMAGE src="../csedit/images/spacer.gif" alt=""/> Course Web Pages
+
+<b>Research</b>
+
+<IMAGE src="../images/spacer.gif" alt=""/> Our Research
+<IMAGE src="../images/spacer.gif" alt=""/> Research Areas
+<IMAGE src="../images/spacer.gif" alt=""/> Research Projects
+<IMAGE src="../images/spacer.gif" alt=""/> Publications
+
+<b>People</b>
+
+<IMAGE src="../images/spacer.gif" alt=""/> Faculty
+<IMAGE src="../images/spacer.gif" alt=""/> Graduate Students
+<IMAGE src="../images/spacer.gif" alt=""/> Research and Technical Staff
+<IMAGE src="../images/spacer.gif" alt=""/> Administrative Staff
+<IMAGE src="../images/spacer.gif" alt=""/> Alumni
+
+<b>Resources</b>
+
+<IMAGE src="../images/spacer.gif" alt=""/> Calendars
+<IMAGE src="../images/spacer.gif" alt=""/> Computing Facilities
+<IMAGE src="../images/spacer.gif" alt=""/> Yale Computer Science FAQ
+<IMAGE src="../images/spacer.gif" alt=""/> Yale Workstation Support
+<IMAGE src="../images/spacer.gif" alt=""/> Computing Lab
+
+<b>Department Information</b>
+
+<IMAGE src="../images/spacer.gif" alt=""/> Contact Us
+<IMAGE src="../images/spacer.gif" alt=""/> History
+<IMAGE src="../images/spacer.gif" alt=""/> Life in the Department
+<IMAGE src="../images/spacer.gif" alt=""/> Life About Town
+<IMAGE src="../images/spacer.gif" alt=""/> Directions
+
+<b>Job Openings</b>
+
+<IMAGE src="../images/spacer.gif" alt=""/> Faculty Positions
+
+<b>Useful Links</b>
+
+<IMAGE src="../images/spacer.gif" alt=""/> City of New Haven
+<IMAGE src="../images/spacer.gif" alt=""/> Yale Applied Mathematics
+<IMAGE src="../images/spacer.gif" alt=""/> Yale Faculty of Engineering
+<IMAGE src="../images/spacer.gif" alt=""/> Yale University Home Page
+
+<b>Internal</b>
+
+<IMAGE src="../images/spacer.gif" alt=""/> Internal
+
+
+Joan Feigenbaum
+[introduction][position]Henry Ford II Professor[/position] of Computer Science
+
+[bsdegree]B.A.[/bsdegree], [bsmajor]Mathematics[/bsmajor], [bsuniv]Harvard[/bsuniv], [bsdate]1981[/bsdate]
+Ph.D., [phdmajor]Computer Science[/phdmajor], [phduniv]Stanford[/phduniv], [phddate]1986[/phddate][/introduction]
+Joined Yale Faculty 2000
+Personal Homepage
+
+[contactinfo]Office Location: [address]AKW 512[/address]
+Telephone: [phone]203.432.6432[/phone][/contactinfo]
+
+[pic]<IMAGE src="../images/graphics/feigenbaum.gif" alt="Joan Feigenbaum."/>[/pic]<IMAGE src="../images/spacer.gif" alt=""/>
+
+[introduction]Joan Feigenbaum is the [position]Henry Ford II Professor[/position] of Computer Science at [affiliation]Yale University[/affiliation]. She received a [bsdegree]B.A.[/bsdegree] in [bsmajor]Mathematics[/bsmajor] from [bsuniv]Harvard[/bsuniv] and a [phddegree]Ph.D.[/phddegree] in [phdmajor]Computer Science[/phdmajor] from [phduniv]Stanford[/phduniv]. Between finishing her Ph.D. in [phddate]1986[/phddate] and starting at Yale in 2000, she was with AT&T, most recently in the Information Sciences Research Center of the AT&T Shannon Laboratory in Florham Park, NJ. There she established a research group in the emerging area of algorithmics for massive data sets and served as manager of the group for two years.
+
+Professor Feigenbaum’s research interests include [interests]Internet algorithms[/interests], [interests]computational complexity[/interests], [interests]security and privacy[/interests], and [interests]digital copyright[/interests]. She has a long-standing interest in [interests]fundamental problems in complexity theory[/interests] that are motivated by cryptology and is co-inventor (with former colleagues Matt Blaze and Jack Lacy) of the security-research area of "trust management." More recently, she has worked on basic algorithms for massive data sets, particularly those generated in network operations and business-to-consumer e-commerce. With collaborators Sampath Kannan, Martin Strauss, and Mahesh Viswanathan, Professor Feigenbaum has devised several highly influential algorithms for network-generated massive data, including a randomized algorithm for deciding whether two streams of router measurements are approximately equivalent and another for deciding whether a stream is close to having the "groupedness" property (a natural relaxation of the sortedness property). Within the area of e-commerce foundations, she has also worked on the interplay of incentives and computation. Using tools from microeconomics and game theory, computer scientists are now developing a theory of "incentive-compatible" distributed computation. In joint work with Arvind Krishnamurthy, Christos Papadimitriou, Rahul Sami, and Scott Shenker, Professor Feigenbaum has studied incentive-compatible protocols for multicast cost/sharing and interdomain routing.
+
+Professor Feigenbaum has an extensive record of distinguished service to the Computer Science community. From 1997 to 2002, she served as Editor-in-Chief of the Journal of Cryptology. She has also been an editorial-board member for the SIAM Journal on Computing, Program Chair for the Crypto 1991 and Complexity 1998 conferences, and Program Committee member for numerous conferences and workshops. Well known for her ability to establish and explicate research priorities, Professor Feigenbaum has given many high-profile, direction-setting, invited talks, including "Security and Privacy in the Information Economy" at the 1997 Grace Hopper Celebration of Women in Computing, "Games, Complexity, and Approximation Algorithms" at the 1998 International Congress of Mathematicians, and "Massive Graphs: Algorithms, Applications, and Open Problems" at the 1999 annual meetings of the American Mathematical Society and the Society for Industrial and Applied Mathematics[/introduction].
+
+[publication]Representative Publications:
+
+<IMAGE src="../images/bullet.gif" alt="Bullet."/>
+
+"Testing and Spot Checking of Data Streams," with S. Kannan, M. Strauss, and M. Viswanathan, Algorithmica 34:67-80, 2002.
+
+<IMAGE src="../images/bullet.gif" alt="Bullet."/>
+
+"Sharing the Cost of Multicast Transmissions," with C. Papadimitriou and S. Shenker, Journal of Computer and System Sciences, 63:21-41, 2001 (special issue on Internet Algorithms).
+
+<IMAGE src="../images/bullet.gif" alt="Bullet."/>
+
+"Compliance Checking in the PolicyMaker Trust-Management System," with M. Blaze and M. Strauss, Proceedings of the 2nd Financial Crypto Conference, Lecture Notes in Computer Science, v. 1465, Springer, Berlin, 1998, pp. 254-274.
+
+<IMAGE src="../images/bullet.gif" alt="Bullet."/> "Random Debaters and the Hardness of Approximating Stochastic Functions," with A. Condon, C. Lund, and P. Shor, SIAM Journal on Computing 26:369-400, 1997[/publication].
+
+<IMAGE src="../images/top_arrow.gif" alt="Top of Page."/>
+
+<IMAGE src="../csedit/images/spacer.gif" alt=""/>
+
+<IMAGE src="../csedit/images/spacer.gif" alt=""/> <IMAGE src="../csedit/images/spacer.gif" alt=""/> <IMAGE src="../csedit/images/spacer.gif" alt=""/> <IMAGE src="../csedit/images/spacer.gif" alt=""/>
+
+<IMAGE src="../images/yalelogo_home.gif" alt="Yale University."/>
+
+Copyright ?2002-2006 Department of Computer Science, Yale University.
+All rights reserved. Comments or suggestions to the site editor.
+Last modified: November 10, 2006 by Nancy
+<IMAGE src="../images/spacer.gif" alt=""/>
+Home URL: http://www.cs.yale.edu/

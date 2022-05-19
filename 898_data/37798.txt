@@ -1,0 +1,79 @@
+<IMAGE src="images/banner.gif" alt=""/>
+
+<IMAGE src="images/tab_1_a.gif" alt=""/> <IMAGE src="images/tab_2_a.gif" alt=""/> <IMAGE src="images/tab_3_a.gif" alt=""/> <IMAGE src="images/tab_4_a.gif" alt=""/> <IMAGE src="images/tab_6_a.gif" alt=""/> <IMAGE src="images/tab_5_a.gif" alt=""/>
+
+[pic]<IMAGE src="images/innerHarbor3.jpg" alt=""/>[/pic]
+
+[resinterests]Research Interests:
+
+  * [interests]Context-sensitive recommender systems[/interests]
+
+  * [interests]Explanation in recommender system interfaces[/interests]
+
+  * [interests]Digital library technologies[/interests]
+
+  * [interests]Collaborative Information Retrieval[/interests]
+
+  * [interests]Interfaces to support community information seeking and retrieval[/interests][/resinterests]
+
+
+
+[contactinfo]Nkechi J. Nnadi
+[position]PhD Candidate[/position]
+[affiliation]Department of Information Systems
+New Jersey Institute of Technology[/affiliation]
+
+Location: [address]GITC 5600[/address]
+Telephone: [phone]973-596-5292[/phone]
+Email:             [email]nn5@njit.edu[/email][/contactinfo]
+
+"If we knew what it was we were doing, it would not be called research, would it?"
+-Albert Einstein
+
+[introduction]I am currently a [position]graduate student[/position] at [affiliation]NJIT[/affiliation]. My research interests are driven by my fascination with the way people use information to solve everyday problems (or create more information that no one ever uses). I am driven to examine and create tools that can assist people in the process of making sense of the glut of information around them.
+
+On a personal note I am interested in [interests]using information technology to support grassroots economic development in underdeveloped nations[/interests]. I look foward to the day that we can truly begin to eliminate poverty in many parts of our world.[/introduction]
+
+  | Home | Publications | Teaching | Projects | Research | Ad idem |
+| Quick Links | News | NJIT |
+
+Copyright 2005 Mile4 Inc All Rights Reserved
+Last Updated: 9/15/2005
+Please send questions, comments, or complaints to the Site Administrator
+
+All quotes are obtained from Thinkexist.com
+*Courtesy of The Javascript Source
+
+
+
+
+*
+
+A little bit of verse
+
+Does my haughtiness offend you?
+Don't you take it awful hard
+'Cause I laugh like I've got gold mines
+Diggin' in my own back yard.
+-Still I rise, Maya Angelou
+
+I am a part of all that I have met
+Yet all experience is an arch wherethrough
+Gleams that untravelled world whose margin fades
+Forever and forever when I move
+-Ulysses, Alfred Lord Tennyson
+
+I love thee freely, as men strive for Right
+I love thee purely, as they turn from Praise
+I love with a passion put to use
+In my old griefs, and with my childhood's faith.
+-How do I love thee?, Elizabeth Browning
+
+Yea, though I walk through the valley of the shadow of death,
+I will fear no evil: for thou art with me;
+thy rod and thy staff they comfort me
+-Psalm 23
+
+Information Tidbits
+
+This is where the current list of interesting articles goes

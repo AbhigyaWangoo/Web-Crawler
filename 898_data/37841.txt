@@ -1,0 +1,191 @@
+Roderick Murray-Smith<IMAGE src="http://c6.statcounter.com/counter.php?sc_project=689402&java=0&security=f117455f" alt="frontpage hit counter"/>
+
+[pic]<IMAGE src="Rod.jpg" alt="rod2.jpg (8193 bytes)"/>[/pic][introduction]I am a [position]Reader[/position] in the [affiliation]Department of Computing Science[/affiliation], where I am part of the [affiliation]GIST group[/affiliation]. I am also a [position]Senior Researcher[/position] at the [affiliation]Hamilton Institute at NUI Maynooth[/affiliation], and a [position]member[/position] of the [affiliation]Centre for Systems and Control at Glasgow University[/affiliation].[/introduction]
+
+My publications are available online
+
+Videos
+
+<font size=2>
+</font>
+
+<IMAGE src="http://goodies.skype.com/graphics/skypeme_btn_small_blue.gif" alt=""/>
+[contactinfo]Phone [phone]+44 141 330 4984[/phone]
+FAX: [fax]+44 141 330 4913[/fax] 
+e-mail: [email]rod@dcs.gla.ac.uk[/email]
+
+Postal address:
+[address]Department of Computing Science[/address], <IMAGE src="shield.gif" alt=""/>
+[address]Glasgow University
+Glasgow G12 8QQ
+Scotland[/address][/contactinfo]
+
+(Personalised map)
+
+
+Dynamics and Interaction group.
+
+
+WORKSHOP NEWS:
+
+  * 
+
+
+    NIPS 2006 Workshop: Current Trends in Brain-Computer Interfacing, Matthias Krauledat , José del R. Millán , Klaus-Robert Mueller , Benjamin Blankertz , Roderick Murray-Smith
+
+  * 
+
+
+    CHI 2007 Workshop on Mobile Spatial Interaction, Peter Fröhlich, Rainer Simon, Lynne Baillie, Joi Roberts,
+    Roderick Murray-Smith, Matt Jones, Rahul Nair. (12 January 2007: Submission deadline for position papers)
+
+
+Researchers:
+
+  * Dr. John Williamson (GU, his Ph.D. thesis)
+
+  * Parisa Eslambolchilar (At the Hamilton)
+
+  * Steven Strachan (at the Hamilton)
+
+  * Andrew Ramsay (GU).
+
+
+Previous group members & visitors:
+
+  * Dr. Andrew Crossan (Glasgow University)
+
+  * Sommer Gentry, Ph.D. (M.I.T., now at U.S. Naval Academy)
+
+  * Dr. Agathe Girard (HSBC, her PhD thesis)
+
+  * Jostein Hansen (NTNU)
+
+  * Dr. Thomas Hermann (University of Bielefeld)
+
+  * Dr Vuokko Lantz (Nokia Research Centre, Helsinki)
+
+  * Morten Proschowsky (DTU)
+
+  * Dr. Jian Qing Shi (Newcastle)
+
+
+Current Funded Research Projects
+
+  1. OpenInterface. EC funded Research network. 2006-2009.
+
+  2. A dynamic systems approach to Negotiated Interaction on mobile devices, (�?64k), Science Foundation Ireland Research Frontier grant, Sept. 2006-08.
+
+  3. Dynamics, Uncertainty and Interaction, (�?6K) PASCAL Pump-priming project (EC-funded), 2005-2006, Roderick Murray-Smith & John Williamson, based in Glasgow, in collaboration with Fraunhofer FIRST, Berlin, and DTU, Denmark.
+
+  4. Body space: Feedback for Closed-loop control of Gesture input, �?36K, based at the Hamilton Institute, collaborating with the Palpable Machines group at Media Lab Europe, started November 2003
+
+  5. Nonparametric Methods for Curve Fitting and Prediction with Large Data-sets[/interests], EPSRC GR/T29253/01 (Jan. 2005—June 2007), Jian Qing Shi (PI), Mike Titterington & Roderick Murray-Smith as Collaborators.
+
+  6. PASCAL network member[/interests], EC-funded network in Pattern Analysis, Statistical Modelling and Computational Learning.
+
+  7. Intelligent Sound Project - supported by the Danish Technical Research Council, and led by Lars Kai Hansen.
+
+
+<b>Completed funded projects</b>
+
+  1. Continuous Gestural Interaction with Mobile devices (�?7K), with Stephen Brewster and Doug Leith, based at the Hamilton Institute. Sept. 2003-Sept 2006.
+
+  2. Audioclouds: Three-Dimensional Audio and Gestural Interfaces for Mobile and wearable Computers, Three year EPSRC funded research project (Principal Investigator Stephen Brewster), October 2002-2005. £237K, graded "Outstanding" by EPSRC.
+
+  3. The Glasgow Computing Science Research Festival 2005-06, Muffy Calder and Simon Gay and Roderick Murray-Smith (£19K), EPSRC.
+
+  4. MAC - Multi-Agent Control: Probabilistic reasoning, optimal co-ordination, stability analysis and controller design for intelligent hybrid systems. (�?.2M) A four year Research Training Network within the European Commission's 5th Framework, April 2000-2004.
+
+  5. Modern Statistical Approaches to off-equilibrium modelling for nonlinear system control. A three year EPSRC funded research project 2000-03, graded "tending to outstanding" by EPSRC reviewers.
+
+  6. Early recognition of rollover in large lorries, Industrially funded project (joint work with K. Hunt in Mechanical Engineering as Principal Investigator)
+
+  7. Portable Robotic Laboratories, EPSRC funded Public Understanding Award (Prof. Muffy Calder as Principal Investigator). See the legolab page for related information.
+
+  8. Design of controllers based on pattern recognition (Fondecyt Project 700397), (Principal Investigator Daniel Sbarbaro-Hofer, Universidad de Concepción, Chile)
+
+  9. Gesture-Based Interaction with Mobile Devices, (together with coinvestigator Stephen Brewster). Funded by SHEFC RDG85.
+
+<IMAGE src="mac2/Hamilton_white_blue.gif" alt=""/>
+
+I am employed 33% of my time on a secondment to the Hamilton Institute, at NUI Maynooth in Ireland.
+
+Teaching
+
+4th year projects
+
+Glasgow's Computing Science Research Festival 2005-06.
+
+
+[publication]Most recent Publications (last year): (full list of publications available here)
+
+<IMAGE src="LNCSbookpicture.jpg" alt=""/> Switching and Learning in Feedback Systems
+European Summer School on Multi-Agent Control, Maynooth, Ireland, September 8-10, 2003, Revised Lectures and Selected Papers
+Lecture Notes in Computer Science, Vol. 3355
+R. Murray-Smith, R. Shorten, (Eds), Springer-Verlag, 2005, pp343
+ISBN: 3-540-24457-3
+
+  * B. Blankertz, M. Krauledat, G. Dornhege, J. Williamson, R. Murray-Smith, and K.-R. Müller, A Note on Brain Actuated Spelling with the Berlin Brain-Computer Interface, HCI International, China, 2007. pdf
+
+  * J. Williamson, R. Murray-Smith, S. Hughes, Shoogle: Multimodal Excitatory Interaction on Mobile Devices, Proceedings of ACM SIG CHI Conference, San Jose, 2007.
+
+  * S. Strachan, J. Williamson, R. Murray-Smith, Show me the way to Monte Carlo: density-based trajectory navigation, Proceedings of ACM SIG CHI Conference, San Jose, 2007. pdf
+
+  * S. Strachan, R. Murray-Smith, S. O’Modhrain, BodySpace: inferring body pose for natural control of a music player, Extended abstracts of ACM SIG CHI Conference, San Jose, 2007.
+
+  *  S. J. Cho, R. Murray-Smith, C. Choi, Y. Sung, K. Lee, Y-B. Kim, Dynamics of Tilt-based Browsing on Mobile Devices, Extended abstracts of ACM SIG CHI Conference, San Jose, 2007.
+
+  * J. Williamson, R. Murray-Smith, S. Hughes, Shoogle: Multimodal Excitatory Interaction on Mobile Devices, Extended abstracts of ACM SIG CHI Conference, San Jose, 2007.
+
+  * P. Eslambolchilar, A. Crossan, R. Murray-Smith, S. Dalzel-Job, F. Pollick, Model-based Target Sonification in Small Screen Devices: Perception and Action, Handbook of Mobile HCI, 2007.
+    A. Crossan, R. Murray-Smith, S. Brewster, J. Kelly, B. Musizza, Instrumented Usability Analysis for Mobile Devices: Gait Phase Effects, Handbook of Mobile HCI, 2007.
+
+  * J. Q. Shi, B. Wang, R.Murray-Smith, D. M. Titterington, Gaussian process functional regression modelling for batch data, Biometrics (to appear).
+
+  * J. Williamson, R. Murray-Smith, S. Hughes, S., Excitatory Multimodal Interaction on Mobile Devices, DCS Technical Report Series TR-2006-228, Dept of Computing Science, University of Glasgow, 2006. pdf , video
+
+  * P. Eslambolchilar, R. Murray-Smith, Model-based, multimodal interaction in document browsing, 3rd Joint Workshop on Multimodal Interaction and Related Machine Learning Algorithms (MLMI'06), Washington DC, 2006. pdf
+
+  * B. Blankertz, G. Dornhege, M. Krauledat, M. Schröder, J. Williamson, R. Murray-Smith, K.R. Müller, The Berlin Brain-Computer Interface presents the novel mental typewriter Hex-o-Spell, 3rd International BCI Workshop and Training Course, Graz, 2006. pdf video (38Mb)
+
+  * J. Williamson, S. Strachan, R. Murray-Smith, It’s a Long Way to Monte-Carlo: Probabilistic GPS Navigation, Proceedings of Mobile HCI 2006, Helsinki, 2006. pdf video
+
+  * A. Crossan, R. Murray-Smith, Rhythmic Interaction for Song Filtering on a Mobile Device, Haptic and Audio Interaction Design, First International Workshop, HAID 2006, Glasgow, UK, August 31 - September 1, p45-55, 2006. pdf video
+
+  * D.J. Leith, W.E. Leithead and R. Murray-Smith, Inference of disjoint linear and nonlinear sub-domains of a nonlinear mapping, Automatica, Volume 42, Issue 5, pages 849-858, May 2006. pdf
+
+  * J. Hansen, R. Murray-Smith, T. A. Johansen, Nonparametric Identification of Linearizations and Uncertainty using Gaussian Process Models - Application to Robust Wheel Slip Control, Joint 44th IEEE Conference on Decision and Control and European Control Conference (CDC-ECC'05), Seville, Spain, 2005. pdf
+
+  * S. Strachan, P. Eslambolchilar, R. Murray-Smith, S. Hughes, S. O'Modhrain, gpsTunes - controlling navigation via audio feedback, Mobile HCI 2005. pdf
+
+  * S. Gentry, E. Feron, R. Murray-Smith, Human-human haptic collaboration in cyclical Fitts' tasks, to appear in IROS'05. pdf
+
+  * R. Murray-Smith, B. A. Pearlmutter, Transformations of Gaussian Process priors, in J. Winkler, N. Lawrence, M. Niranjan (Eds.): Deterministic and Statistical Methods in Machine Learning, LNAI 3635, Springer-Verlag, pp. 110�?23, 2005. pdf
+
+  * A. Crossan, R. Murray-Smith, S. Brewster, J. Kelly, B. Musizza, Gait Phase Effects in Mobile Interaction, CHI 2005, Portland. pdf
+
+  * R. Kamnik, T. Bajd, J. Williamson, R. Murray-Smith, Rehabilitation Robot Cell for Multimodal Standing-Up Motion Augmentation, International Conference on Robotics and Automation (ICRA 2005), Barcelona, 2005. pdf
+
+  * J. Williamson, R. Murray-Smith, Sonification of Probabilistic Feedback through Granular Synthesis, IEEE Multimedia, Vol. 12, No. 2, p45-52, April/June, 2005. pdf
+
+  * J. Williamson, R. Murray-Smith, Dynamics and probabilistic text entry, In: Proceedings of the Hamilton Summer School on Switching and Learning in Feedback systems, Ed. R. Murray-Smith, R. Shorten, Springer-Verlag, Lecture Notes in Computing Science, Vol. 3355, p333-342, 2005. pdf Springerlink pdf <font size=3>video (11Mb) </font>
+
+  * R. Kamnik, J. Q. Shi, R. Murray-Smith and T. Bajd, Nonlinear modelling of FES-supported standing up in paraplegia for selection of feedback sensors, IEEE Transactions on Neural Systems & Rehabilitation Engineering, Vol. 13, No. 1, p40-52, March, 2005. pdf
+
+  * J.Q Shi, R. Murray-Smith, D. M. Titterington, Hierarchical Gaussian process mixtures for regression, Statistics and Computing, vol. 15, pp31-41, 2005. pdf
+
+  * A. Girard, R. Murray-Smith, Gaussian Processes: Prediction at a noisy input and application to iterative multiple-step ahead forecasting of time-series, In: Proceedings of the Hamilton Summer School on Switching and Learning in Feedback systems, Ed. R. Murray-Smith, R. Shorten, Springer-Verlag, Lecture Notes in Computing Science, Vol. 3355, p158-184, 2005. pdf
+
+  * D. Sbarbaro, R. Murray-Smith, Self-tuning control of non-linear systems using Gaussian process prior models, In: Proceedings of the Hamilton Summer School on Switching and Learning in Feedback systems, Ed. R. Murray-Smith, R. Shorten, Springer-Verlag, Lecture Notes in Computing Science, Vol. 3355, p140-157, 2005. Springerlink pdf pdf
+
+  * J.Q. Shi, R. Murray-Smith, and D.M. Titterington, B. Pearlmutter, Learning with large data sets using filtered Gaussian Process priors, In: Proceedings of the Hamilton Summer School on Switching and Learning in Feedback systems, Ed. R. Murray-Smith, R. Shorten, Springer-Verlag, Lecture Notes in Computing Science, Vol. 3355, p128-139, 2005. Springerlink pdf pdf[/publication]
+
+
+[resinterests]Interests
+
+[interests]Gesture recognition[/interests], [interests]Dynamics and Interaction[/interests], [interests]Ambiguous [interests]interfaces[/interests], [interests]Gaussian Process priors[/interests], Human Operator Modelling and Cooperative Control systems[/interests], [interests]Probabilistic Intelligent Interfaces[/interests].[/resinterests]
+
+  * CV
+
+  * Publications are available online

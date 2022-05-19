@@ -1,0 +1,148 @@
+<IMAGE src="/sitehead.gif" alt=""/>
+
+[pic]<IMAGE src="/school/images/nat.JPG" alt=""/>[/pic]
+
+
+Nathalie Japkowicz<b>[introduction]Ph.D.</b>
+<b>[position]Associate Professor[/position][/introduction]</b>
+
+
+<font size=4>
+
+  * Research Interests
+
+  * Teaching
+
+  * Miscellaneous
+
+  *  How to reach me
+
+</font>
+
+<IMAGE src="/line2.gif" alt=""/>
+
+
+  [resinterests]Research Interests: My research interests are in the [interests]area of Artificial Intelligence[/interests] and, most specifically,[interests] Machine Learning[/interests], [interests]Neural Networks[/interests] and [interests]Natural Language Processing[/interests]. Here is a list of my research interests in recent years:
+
+    *  [interests]Evaluation Methods for Machine Learning[/interests]
+
+    * [interests] Event Characterization for Radioxenon Monitoring (with Health Canada)[/interests]
+
+    *  [interests]Computer Virus Detection[/interests]
+
+    *  [interests]Network Event Correlation (with Defense Research & Development Canada (DRDC))[/interests]
+
+    *  [interests]Learning from Imbalanced Data Sets[/interests]
+
+    *  [interests]Learning in the Absence of Negative Examples (with U.S. Navy, R & D)[/interests]
+
+    *  [interests]Feature Selection[/interests]
+
+    *  [interests]Soft Clustering[/interests]
+
+    *  [interests]Text Classification[/interests]
+
+    *  [interests]Natural Language Processing -- Machine Translation[/interests][/resinterests]
+
+  Publications Open Projects Research Students
+
+<IMAGE src="/line2.gif" alt=""/>
+
+
+  Teaching:
+
+
+  Fall 2006/Winter 2007 :
+
+    * Sabbatical Leave, Monash University, Australia
+
+
+  Previously:
+
+    * <b> CSI 2531: Gestion de Fichiers , </b> Hiver 2006
+
+    * <b> CSI 5387: Concept Learning Systems / Machine Learning , </b> Winter 2006
+
+    * <b> CSI 3525: Concepts des Languages de Programmation , </b>Automne 2005
+
+    * <b> CSI 4506: Introduction a l'Intelligence Artificielle , </b> Automne 2005
+
+    * <b> CSI 5388: Topics in Machine Learning , </b>Winter 2005
+
+    * <b> CSI 2531: Gestion de Fichiers , </b> Winter 2005
+
+    * <b> CSI 3525: Concepts des Languages de Programmation , </b>Automne 2004
+      <b> (Concepts of Programming Languages) </b>
+
+    * <b> CSI 4506: Introduction a l'Intelligence Artificielle , </b> Automne 2004
+
+    * <b> CSI 4506: Introduction a l'Intelligence Artificielle , </b> Hiver 2004
+
+    * <b> CSI 5388: Topics in Machine Learning , </b>Winter 2004
+
+    * <b> CSI 3525: Concepts des Languages de Programmation , </b>Fall 2003
+      <b> (Concepts of Programming Languages) </b>
+
+    * <b> CSI 5180: Topics in Artificial Intelligence: Natural Language Processing, a Statistical Approach , </b> Fall 2003
+
+    * <b> CSI 2531: Gestion de Fichiers , </b> Spring 2002
+      <b> (File Management) </b>
+
+    * <b> CSI 5387: Concept Learning Systems / Machine Learning , </b> Fall 2001
+
+    * <b> CSI 3525: Concepts des Languages de Programmation , </b>Fall 2001
+      <b> (Concepts of Programming Languages) </b>
+
+    * <b> CSI 2531: Gestion de Fichiers , </b> Spring 2001
+      <b> (File Management) </b>
+
+    * <b> CSI 3525: Concepts des Languages de Programmation , </b>Fall 2000
+      <b> (Concepts of Programming Languages) </b>
+
+    * <b> Natural Language Processing </b>, Dalhousie University, Spring 2000
+      ==> Abstracts of Students' Final Presentations
+
+    * <b> Data and File Structures </b>, Dalhousie University, Spring 2000.
+
+    * <b> Machine Learning </b>, Dalhousie University, Fall 1999
+      ==> Student's Final Projects
+
+    * <b> Survey of Artificial Intelligence I: Basic Techniques </b>, Ohio State University, Winter 1999, Spring 1999.
+
+<IMAGE src="/line2.gif" alt=""/>
+
+
+  Miscellaneous:
+
+    *  Education
+
+    *  AAAI'2006 Workshop on Evaluation Methods for Machine Learning
+
+    *  SIGKDD Explorations Special Issue on Learning from Imbalanced Data Sets
+
+    *  ICML'2003 Workshop on Learning from Imbalanced Data Sets II
+
+    *  AAAI'2000 Workshop on Learning from Imbalanced Data Sets I
+
+    *  NIPS'97 Workshop on Autoencoders/Autoassociators
+
+    *  Bibliography for Learning from Imbalanced Data Sets
+
+    *  Dissertation Abstract
+
+<IMAGE src="/icons/laddress.gif" alt=""/>
+
+  Nathalie Japkowicz
+  [contactinfo][affiliation]School of Information Technology and Engineering (SITE), University of Ottawa[/affiliation]
+  [address]800 King Edward Ave.
+  Ottawa, Ontario, Canada, K1N 6N5[/address]
+  Tel: [phone](613) 562-5800 ext. 6693[/phone], Fax: [fax](613) 562-5187[/fax]
+   Office: [address]SITE Building, Room 5-029[/address]
+  Email: [email]nat@site.uottawa.ca[/email][/contactinfo]
+
+<IMAGE src="/line.gif" alt=""/>
+
+  <font size=2> <b>Contactez: L'École d'ingénierie et de technologie de l'information / </b>
+  <b>Contact: School of Information Technology and Engineering </b>
+  <b> Copyright ?2001 Universit?d'Ottawa / University of Ottawa </b>
+  <b> Webmestre / Webmaster</b> </font>

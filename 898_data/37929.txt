@@ -1,0 +1,58 @@
+Prof. Dr. Helmut Seidl [pic]<IMAGE src="Pics/helmut.jpg" alt=" "/>[/pic]
+
+[contactinfo]Email:     <b>[email]seidl@in.tum.de[/email]</b>
+Address:   [address]<b>Institut für Informatik, I2</b>
+           <b>Technische Universität München</b>           <b>Boltzmannstr. 3</b>           <b>85748 Garching</b>           <b>Germany</b>[/address]
+Phone:     <b>[phone]+49 (89) 289-18155[/phone]</b>
+Fax:       <b>[fax]+49 (89) 289-18161[/fax]</b>
+Room:      [address]<b>02.07.054</b>[/address][/contactinfo]
+
+  *  <b> Teaching </b>
+
+  * <b>Research</b>
+
+      *  [resinterests]Interests:
+
+          *  [interests]Automatic Program Analysis[/interests]
+
+          *  [interests]Design and Implementation of Programming Languages[/interests]
+
+          *  [interests]Document Processing Systems[/interests]
+
+          *  [interests]Tree Automata[/interests]
+
+          * [interests]Y2K[/interests][/resinterests]
+
+      *  Publications
+
+  * <b>Activities</b>
+
+      *  FOSSACS'07
+
+      *  ICALP'06
+
+      *  TACAS'06
+
+      *  Int. Workshop on Numerical and Symbolic Abstract Domains 2005
+
+      *  FoSSaCS'04
+
+      * Plan-X'04
+
+      *  SAS'03
+
+      *  ESOP'03
+
+      * Pseudolus
+
+      * 6th Int. Conference on Implementation and Application of Automata (CIAA)
+
+      *  Compiler Construction '00
+
+      * 8. Theorietag "Automaten und Formale Sprachen"
+
+      *  FoSSaCS'98
+
+      * Dagstuhl Seminar on "Applications of Tree Automata..."
+
+Helmut Seidl - Homepage - 6-Oct.-2003

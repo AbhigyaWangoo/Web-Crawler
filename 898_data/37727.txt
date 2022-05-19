@@ -1,0 +1,49 @@
+[pic]<IMAGE src="lars05.JPG" alt=""/>[/pic]
+
+
+<b>Lars Arge</b>
+
+[contactinfo]<b>[position]Associate Professor[/position]
+[affiliation]Department of Computer Science
+Duke University[/affiliation]</b>
+<b>[address]Durham, NC 27708-0129[/address]</b>
+
+email: [email]large@cs.duke.edu[/email]
+phone: [phone]+1 919 660-6557[/phone]
+fax: [fax]+1 919 660-6519[/fax][/contactinfo]
+
+[introduction]I am currently on leave at BRICS, Department of Computer Science, University of Aarhus, Aarhus, Denmark. See my home page there or my cv has more detail.[/introduction]
+
+[contactinfo]<b>Contact</b>
+
+<b>Phone/Fax at Duke:</b>
+
+Office: [phone]+1 919 660-6557[/phone]
+Fax: [fax]+1 919 660-6519[/fax]
+Home:
+Cell:
+
+<b>Phone/Fax at Aarhus:</b>
+
+Office: [phone]+45 8942-9336[/phone]
+Department: [phone]+45 8942-5600[/phone]
+Fax: [fax]+45 8942-5601[/fax]
+Home: Ask
+Cell: Ask
+
+<b>Mail (snail or courier) at Duke:</b>
+
+[address]Department of Computer Science
+D205 Levine Science Research Center
+Duke University, Box 90129
+Durham, NC 27708-0129[/address]
+
+<b>Mail (snail or courier) at Aarhus:</b>
+
+[address]Department of Computer Science
+University of Aarhus
+IT-Parken, Aabogade 34
+DK-8200 Aarhus N
+Denmark[/address][/contactinfo]
+
+Last modified Monday, 08/07/2006

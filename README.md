@@ -58,7 +58,11 @@ correctly on the data directory. The web crawler class provides an interface to 
 
 ###### File List // list and link to the files. For each file, give a one-sentence description for it does.
 
-
+```
+The repo is organized into a standard github repo, titled Web-Crawler. This repo contains 5 total entities, 4 files and 1 directory. main.py serves as 
+the main entry point through which the user can enter information about training data, testing files, and professor html webpages. trained_model.pickle
+may or may not be present, depending on whether or not the repo has been run by the user already. It contains a trained set of weights for use by the classifier. urls_sample.txt contains a sample list of urls through which the user can find professor webpages, and thus use their htmls for testing purposes. The README.md is this file, and the 898_data directory contains the entire set of training data which is used by main.py
+```
 
 ###### Description // Explain how the code works – workflows, algorithms, or protocols.
 

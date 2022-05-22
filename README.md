@@ -66,7 +66,12 @@ may or may not be present, depending on whether or not the repo has been run by 
 
 ###### Description // Explain how the code works – workflows, algorithms, or protocols.
 
-
+```
+The code is organized into a few sections within the overall CRF_MODEL class, as specified earlier in the system architecture question. Beginning from the main function, as soon as the module is run, the first task completed is the training of the model. If a model file with valid weights already exists, then the model is loaded from the file and the training is completed. Otherwise, the model will begin training the weights, which have been randomly initialized
+from 0.5 to 10, decimal, inclusive. It does so by iterating through each weight, and the respective feature function, and calling the formula 
+specified by the following link's gradient descent section: https://medium.com/data-science-in-your-pocket/named-entity-recognition-ner-using-conditional-random-fields-in-nlp-3660df22e95c. Once the weights have been fully trained, then we move on to the predicting. We have a few options at this point, including accuracy testing, page testing, or sentence testing. Accuracy testing involves calling the KFOLD_cross_validation() function, which will print out the overall accuracy of the model given the KFold technique. Page testing invloves calling find_page_labels(), which outputs a set of labels given an html page, specifically those regarding the descriptors of the professor. Sentence testing can be invoked by calling test_sentence(), which outputs a 
+classification set for a sample sentence, more used for minute testing. All the protocols/algorithms used by the model, includeing p_theta, gradient descent, and the testing formula can be found on the medium page specified earlier.
+```
 
 ###### Limitations and Improvements // What are pending issues to address.
 

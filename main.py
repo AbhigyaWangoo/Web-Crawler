@@ -339,17 +339,21 @@ def crawl_DBLP(researcher_name):
     for link in soup.find_all('a'):
         print(link.get('href'))
 
+
+# This is your main entry point. Uncomment what you wish to test/try
 if __name__ == "__main__":
-    sentence = "I am Bob"
+    # just a sample sentence
+    # sentence = "I am Bob"
 
-    CRF_MODEL = feature_functions()
+    # instiantiating the model
+    # CRF_MODEL = feature_functions()
 
-    all_sentences = [] # set of all sentences for all files.
-    all_labels = [] # corresponding labels for all files' sentences
+    # all_sentences = [] # set of all sentences for all files.
+    # all_labels = [] # corresponding labels for all files' sentences
 
-    some_sentences, some_labels = CRF_MODEL.page_tester('898_data')
-
-    # Get all training files
+    # for testing with a singular trained page
+    # some_sentences, some_labels = CRF_MODEL.page_tester('898_data')
+    # OR Get all training files
     # for filename in os.listdir('898_data'):
     #     f = os.path.join('898_data', filename)
         
@@ -358,6 +362,8 @@ if __name__ == "__main__":
     #         all_sentences.extend(sentences)
     #         all_labels.extend(labels)
 
-    CRF_MODEL.train(some_sentences, some_labels, True)
+    # trains model
+    # CRF_MODEL.train(all_sentences, all_labels, True)
 
+    # exists to test a singular sentence against a singular set of labels
     # print(CRF_MODEL.test_sentence(sentence, ["standard word", "standard word", "name"]))

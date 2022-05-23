@@ -1,0 +1,1754 @@
+<html>
+<head>
+<TITLE>Jon Kleinberg's Homepage</TITLE>
+</head>
+
+<body bgcolor=white text=black link=blue vlink=blue alink=blue>
+
+
+<h1> Jon Kleinberg </h1>
+<i>
+<dl>
+<dt> Tisch University Professor
+<dt> Department of <a href="http://www.cs.cornell.edu">Computer Science</a>
+<dt> Department of <a href="http://www.infosci.cornell.edu">Information Science</a>
+<dt> <a href="http://cuinfo.cornell.edu">Cornell University</a>
+<dt> Ithaca, NY  14853
+</dl>
+</i>
+
+<P>
+I am a professor at Cornell University.
+My research focuses on 
+algorithms and networks, 
+the roles they play in large-scale social and information systems,
+and their broader societal implications.
+My work has been supported by an 
+NSF Career Award,
+an ONR Young Investigator Award,
+a 
+<a href="http://www.macfound.org/fellows/763/">
+MacArthur Foundation Fellowship,</a>
+a 
+<a href="http://www.packard.org/what-we-fund/conservation-and-science/packard-fellowships-for-science-and-engineering/">
+Packard Foundation Fellowship,</a>
+a 
+<a href="https://www.simonsfoundation.org/mathematics-physical-sciences/simons-investigators/simons-investigators-awardees/">
+Simons Investigator Award,</a>
+a 
+<a href="http://www.sloan.org/fellowships">
+Sloan Foundation Fellowship,</a>
+a
+<a href="https://basicresearch.defense.gov/Programs/Vannevar-Bush-Faculty-Fellowship/">
+Vannevar Bush Faculty Fellowship,</a>
+and grants from Facebook, Google, Yahoo, the MacArthur Foundation,
+the ARO, and the NSF.
+I am a member of 
+the 
+<a href="http://www.nasonline.org/">
+National Academy of Sciences,</a>
+the 
+<a href="http://www.nae.edu">
+National Academy of Engineering,</a>
+and the 
+<a href="http://www.amacad.org">
+American Academy of Arts and Sciences.</a>
+
+
+<P>Link to: <a href="#contact">Contact information</a>.
+
+
+<hr>
+
+<H3><A NAME = "books">Books and Teaching</a></H3> <ul>
+
+<li>
+In Spring 2022, <a href="https://www.karen-levy.net/">Karen Levy</a>
+and I are teaching
+<a href="https://courses.cs.cornell.edu/cs1340/">
+Choices and Consequences in Computing (INFO 1260 / CS 1340).</a>
+The course is designed at an introductory level with no formal prerequisites,
+and covers a range of ethical, societal, and policy implications 
+of computing and information.
+
+<p><li>
+D. Easley, J. Kleinberg.
+<a href="http://www.cs.cornell.edu/home/kleinber/networks-book/">
+Networks, Crowds, and Markets: Reasoning About a Highly Connected World.</a>
+Cambridge University Press, 2010.
+
+<ul>
+<li>
+<i>
+This book is based on an inter-disciplinary course that we teach entitled 
+<a href="https://courses.cit.cornell.edu/info2040_2017fa/">
+Networks</a>.  
+The book, like the
+course, is designed at the introductory undergraduate
+level with no formal prerequisites. To support deeper
+explorations, most of the chapters are supplemented with
+optional advanced sections.
+</i>
+</ul>
+
+<li>
+J. Kleinberg, E. Tardos.
+<a href="https://www.pearson.com/us/higher-education/program/Kleinberg-Algorithm-Design/PGM319216.html">Algorithm Design.</a>
+Addison Wesley, 2005. 
+
+<ul>
+<li>
+<i>
+This book is based on the undergraduate algorithms course that we both teach.
+We also use the more advanced parts for our graduate algorithms course.
+</i>
+</ul>
+
+<li>
+An on-line course on <a href="https://www.edx.org">edX</a> entitled
+<a href="https://www.edx.org/course/networks-crowds-markets-cornellx-info2040x">Networks, Crowds, and Markets</a>, 
+with David Easley and Eva Tardos.
+
+<li>
+Recent courses at Cornell:
+<ul>
+<li><a href="https://www.cs.cornell.edu/courses/cs6850/">
+The Structure of Information Networks</a> <i>(CS 6850).</i>
+<li>
+<a href="https://courses.cit.cornell.edu/info2040_2017fa/">
+Networks</a> 
+<i>(with David Easley and Eva Tardos; ECON 2040 / SOC 2090 / CS 2850 / INFO 2040).</i>
+</ul>
+
+</ul>
+
+<hr>
+
+<H3>Advising</a></H3> 
+
+<ul>
+<li> Current and former Ph.D. students: 
+<a href="https://infosci.cornell.edu/~anna/">
+Anna Evtushenko</a>,
+<a href="https://www.cs.cornell.edu/~kvank/">
+Katherine Van Koevering</a>,
+<a href="https://sites.google.com/view/katedonahue/home">
+Kate Donahue</a>,
+<a href="https://scholar.google.com/citations?user=fkpwCJ0AAAAJ&hl=en">
+Katy Blumer</a>,
+<a href="https://michela-meister.github.io/">
+Michela Meister</a>,
+<a href="https://www.cs.cornell.edu/~kt/">
+Kiran Tomlinson</a>,
+<a href="https://www.cs.cornell.edu/~cazamere/">
+Cazamere Comrie</a>,
+<a href="https://papachristoumarios.github.io/">
+Marios Papachristou</a>,
+<a href="https://scholar.google.com/citations?user=Ch3YUgsAAAAJ&hl=en">
+Yanbang Wang</a>,
+<a href="http://www.cs.cornell.edu/~manish/">
+Manish Raghavan</a> (MIT),
+<a href="http://maithraraghu.com">
+Maithra Raghu</a> (Google),
+<a href="http://www.cs.cornell.edu/~red/">
+Rediet Abebe</a> (Berkeley; Harvard Society of Fellows),
+<a href="http://www.cs.cornell.edu/~rahmtin/">
+Rahmtin Rotabi</a> (Google),
+<a href="http://scholar.google.com/citations?user=WFR8zfMAAAAJ&hl=en&oi=ao">
+Isabel Kloumann</a> (Facebook),
+<a href="http://www.stanford.edu/~jugander/">
+Johan Ugander</a> (Stanford),
+<a href="http://sites.google.com/site/sigal3/">
+Sigal Oren</a> (Ben-Gurion Univ)</a>,
+<a href="http://www.dromero.org">
+Daniel Romero</a> (U. Michigan),
+<a href="https://www.linkedin.com/pub/lars-backstrom/4/a76/862">
+Lars Backstrom</a> (Facebook),
+<a href="http://research.microsoft.com/en-us/people/slivkins/">
+Alex Slivkins</a> (Microsoft Research),
+<a href="http://research.google.com/pubs/author2357.html">
+Mark Sandler</a> (Google),
+<a href="http://www.cs.rpi.edu/~eanshel/">
+Elliot Anshelevich</a> (RPI),
+<a href="http://www-rcf.usc.edu/~dkempe/">
+David Kempe</a> (USC),
+<a href="http://www.cse.iitd.ernet.in/~amitk/">
+Amit Kumar</a> (IIT Dehli),
+<a href="https://scholar.google.com/citations?user=RfSx82sAAAAJ&hl=en&oi=ao">
+Debra Goldberg</a> (CU Boulder).
+
+<p><li> Current and former postdocs:
+<a href="https://people.cam.cornell.edu/jsj85/">
+Jonas Juul</a>,
+<a href="https://people.cam.cornell.edu/lnv22/">
+Nate Veldt</a> (TAMU),
+<a href="http://www.cs.cornell.edu/~hh732/">
+Hoda Heidari</a> (CMU),
+<a href="http://www.cs.cornell.edu/~arb/">
+Austin Benson</a> (Cornell),
+<a href="http://www.chierichetti.name">
+Flavio Chierichetti</a> (Sapienza University of Rome),
+<a href="http://cs.stanford.edu/people/jure/">
+Jure Leskovec</a> (Stanford),
+<a href="http://www.sidsuri.com/">
+Sid Suri</a> (Microsoft Research),
+<a href="http://research.google.com/pubs/author38367.html">
+Gregory Kossinets.</a> (Google),
+<a href="https://ai.google/research/people/MohammadMahdian">
+Mohammad Mahdian</a> (Google),
+<a href="http://www.frankmcsherry.org">
+Frank McSherry</a> (Microsoft Research)
+<a href="http://www.cs.cmu.edu/~anupamg/">
+Anupam Gupta</a> (CMU).
+
+</ul>
+
+<hr>
+
+
+<H3><A NAME = "research">Research Papers</a></H3> <ul>
+
+<dt>
+The papers below are also available 
+in a <a href="chrono.html">chronological list</a>.
+Additional bibliographic information can be found at
+<A HREF="https://dblp.uni-trier.de/pers/hd/k/Kleinberg:Jon_M=.html">DBLP</A> and
+<a href="http://scholar.google.com/citations?user=VX7d5EQAAAAJ&hl=en&oi=ao">Google Scholar</a>.
+
+</ul> <h4>Recent Papers</h4> <ul>
+
+<LI>
+J. Kleinberg, M. Raghavan, S. Mullainathan.
+<a href="https://arxiv.org/abs/2202.11776">The Challenge of Understanding What Users Want: Inconsistent Preferences and Engagement Optimization.</a>
+arXiv/2202.11776, 2022.
+
+<LI>
+J. Kleinberg, E. Ryu, E. Tardos.
+<a href="https://arxiv.org/abs/2203.00233">
+Ordered Submodularity and its Applications to Diversifying Recommendations.</a>
+arXiv/2203.00233, 2022.
+
+<LI>
+D. Fudenberg, J. Kleinberg, A. Liang, S. Mullainathan.
+<a href="jpe22-completeness.pdf">
+Measuring the Completeness of Economic Models.</a>
+Journal of Political Economy, 2022.
+
+<LI>
+N. Veldt, A. Benson, J. Kleinberg.
+<a href="https://arxiv.org/abs/2001.02817">
+Hypergraph Cuts with General Splitting Functions.</a>
+SIAM Review, to appear, 2022.
+
+<LI>
+M. Papachristou, J. Kleinberg.
+<a href="https://arxiv.org/abs/2106.07560">
+Allocating Stimulus Checks in Times of Crisis.</a>
+Proc. 31st International World Wide Web Conference, 2022.
+
+<LI>
+R. Abebe, T-H Chan, J. Kleinberg, Z. Liang, D. Parkes, M. Sozio, C. Tsourakakis.
+<a href="https://arxiv.org/abs/2011.02583">Opinion Dynamics with Varying Susceptibility to Persuasion via Non-Convex Local Search.</a>
+ACM Transactions on Knowledge Discovery from Data, 2022.
+
+
+<LI>
+J. Kleinberg, M. Raghavan.
+<a href="https://arxiv.org/abs/2101.05853">
+Algorithmic Monoculture and Social Welfare.</a>
+Proc. National Academy of Sciences, 118(22), 1 June 2021.
+
+<LI>
+H. Heidari, J. Kleinberg.
+<a href="https://arxiv.org/abs/2101.08451">
+Allocating Opportunities in a Dynamic Model of Intergenerational Mobility.</a>
+Proc. ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2021.
+
+K. Donahue, J. Kleinberg.
+<a href="https://arxiv.org/abs/2106.09580">
+Optimality and Stability in Federated Learning: A Game-theoretic Approach.</a>
+Advances in Neural Information Processing Systems (NeurIPS) 35, 2021.
+
+<LI>
+R. McIlroy-Young, R. Wang, S. Sen, J. Kleinberg, A. Anderson.
+<a href="https://papers.nips.cc/paper/2021/file/ccf8111910291ba472b385e9c5f59099-Paper.pdf">
+Detecting Individual Decision-Making Style: Exploring Behavioral Stylometry in Chess.</a> 
+Advances in Neural Information Processing Systems (NeurIPS) 35, 2021.
+
+<LI>
+N. Veldt, A. Benson, J. Kleinberg.
+<a href="https://arxiv.org/abs/2110.14859">
+Approximate Decomposable Submodular Function Minimization for Cardinality-Based Components.</a>
+Advances in Neural Information Processing Systems (NeurIPS) 35, 2021.
+(This paper is an adaptation for NeurIPS of an earlier unpublished 
+arXiv manuscript titled 
+<a href="https://arxiv.org/abs/2007.08075">
+Augmented Sparsifiers for Generalized Hypergraph Cuts.</a>)
+
+<LI>
+C. Comrie, J. Kleinberg.
+<a href="https://arxiv.org/abs/2112.03498">Hypergraph Ego-networks and Their Temporal Evolution.</a>
+IEEE Intl. Conf. on Data Mining (ICDM), 2021.
+
+
+<LI>
+A. Evtushenko, J. Kleinberg.
+<a href="https://www.nature.com/articles/s41598-021-92719-6">
+The paradox of second-order homophily in networks.</a>
+Scientific Reports 11(13360), 2021.
+
+<LI>
+J. Gaitonde, J. Kleinberg, E. Tardos.
+<a href="ec21-polarization.pdf">
+Polarization in Geometric Opinion Dynamics.</a>
+Proc. 22nd ACM Conference on Economics and Computation (EC), 2021.
+
+<LI>
+H. Heidari, S. Barocas, J. Kleinberg, K. Levy.
+<a href="https://arxiv.org/abs/2103.05827">On Modeling Human Perceptions of Allocation Policies with Uncertain Outcomes.</a>
+Proc. 22nd ACM Conference on Economics and Computation (EC), 2021.
+
+<LI>
+J. Kleinberg, R. Kleinberg, S. Oren.
+<a href="https://arxiv.org/abs/2106.00604">
+Optimal Stopping with Behaviorally Biased Agents: The Role of Loss Aversion and Changing Reference Points.</a>
+Proc. 22nd ACM Conference on Economics and Computation (EC), 2021.
+
+<LI>
+K. Donahue, J. Kleinberg.
+<a href="https://arxiv.org/abs/2010.00753">
+Model-sharing Games: Analyzing Federated Learning Under Voluntary Participation.</a>
+Proc. 35th AAAI Conference on Artificial Intelligence (AAAI-21), 2021.
+
+<LI>
+K. Van Koevering, A. Benson, J. Kleinberg.
+<a href="https://arxiv.org/abs/2102.12604">
+Random Graphs with Prescribed k-Core Sequences:
+A New Null Model for Network Analysis.</a>
+Proc. 30th International World Wide Web Conference, 2021.
+
+<LI>
+J. Kleinberg, S. Oren, M. Raghavan, N. Sklar.
+<a href="https://arxiv.org/abs/2106.11003">Stochastic Model for Sunk Cost Bias.</a>
+Proc. 37th Conference on Uncertainty in Artificial Intelligence (UAI), 2021.
+
+<LI>
+N. Veldt, A. Benson, J. Kleinberg.
+<a href="https://arxiv.org/abs/2106.00909">
+The Generalized Mean Densest Subgraph Problem.</a>
+Proc. 25th ACM SIGKDD Intl. Conf. on Knowledge Discovery and Data Mining, 2021.
+
+<LI>
+I. Amburg, J. Kleinberg, A. Benson.
+<a href="https://arxiv.org/abs/1905.05839">
+Planted Hitting Set Recovery in Hypergraphs.</a>
+Journal of Physics: Complexity (Special Issue on Higher-Order Structures in Networks and Network Dynamical Systems), 2021.
+
+
+<LI>
+J. Hofman, D. Watts, S. Athey, F. Garip, T. Griffiths, J. Kleinberg, H. Margetts, S. Mullainathan, M. Salganik, S. Vazire, A. Vespignani, T. Yarkoni.
+<a href="https://www.nature.com/articles/s41586-021-03659-0">Integrating explanation and prediction in computational social science.</a>
+Nature 595(2021).
+
+<LI>
+N. Veldt, A. Benson, J. Kleinberg.
+<a href="https://arxiv.org/abs/2103.11818">
+Higher-order Homophily is Combinatorially Impossible.</a>
+arXiv/2103.11818, 2021.
+
+
+<LI>
+C. Zhang, M. Raghu, J. Kleinberg, S. Bengio.
+<a href="https://arxiv.org/abs/2107.12580">
+Pointer Value Retrieval: A new benchmark for understanding the limits of neural network generalization.</a>
+arXiv/2107.12580, 2021.
+
+<LI>
+K. Blumer, S. Venugopalan, M. Brenner, J. Kleinberg.
+<a href="https://arxiv.org/abs/2107.11468">
+Using a Cross-Task Grid of Linear Probes to Interpret CNN Model Predictions On Retinal Images.</a>
+arXiv/2107.11468, 2021.
+
+<LI>
+M. Meister, J. Kleinberg.
+<a href="https://arxiv.org/abs/2107.09803">
+Optimizing the order of actions in contact tracing.</a>
+arXiv/2107.09803, 2021.
+
+<LI>
+A. Evtushenko, J. Kleinberg.
+<a href="https://arxiv.org/abs/2110.11821">
+Node-based Generalized Friendship Paradox fails.</a>
+arXiv/2110.11821, 2021.
+
+<LI>
+K. Donahue, J. Kleinberg.
+<a href="https://arxiv.org/abs/2112.00818">Models of fairness in federated learning.</a>
+arXiv/2112.00818, 2021.
+
+
+</ul> <h4>Web Analysis and Search: Hubs and Authorities</h4> <ul>
+
+<LI> J. Kleinberg.  <A HREF="auth.pdf">Authoritative sources
+in a hyperlinked environment.</A>
+Proc. 9th ACM-SIAM Symposium on Discrete Algorithms, 1998.
+Extended version in Journal of the ACM 46(1999).
+Also appears as IBM Research Report RJ 10076, May 1997.
+
+<LI> D. Gibson, J. Kleinberg, P. Raghavan.
+<A HREF="ht98-comm.pdf">Inferring Web communities from link topology.</A>
+Proc. 9th ACM Conference on Hypertext and Hypermedia, 1998.
+
+<LI> S. Chakrabarti, B. Dom, D. Gibson, J. Kleinberg,
+P. Raghavan, S. Rajagopalan,
+<A HREF="www98-arc.pdf">
+Automatic resource list compilation by
+analyzing hyperlink structure and associated text.</A>
+Proc. 7th International World Wide Web Conference, 1998.
+
+<LI> S. Chakrabarti, B. Dom, D. Gibson, J. Kleinberg, S.R. Kumar,
+P. Raghavan, S. Rajagopalan, A. Tomkins,
+<A HREF="sciam99.html">
+Hypersearching the Web.</A>
+Scientific American, June 1999.
+
+<LI> S. Chakrabarti, B. Dom, D. Gibson, J. Kleinberg, S.R. Kumar,
+P. Raghavan, S. Rajagopalan, A. Tomkins,
+<a href="ieee99-web.pdf">
+Mining the link structure of the World Wide Web.</a>
+IEEE Computer, August 1999.
+
+</ul> <h4>Small-World Phenomena and Decentralized Search</h4> <ul>
+
+<LI>
+J. Kleinberg.
+<A HREF="nat00.pdf">Navigation in a Small World.</A> Nature 406(2000), 845.
+
+<li>
+J. Kleinberg.
+<A HREF="swn.pdf">The small-world phenomenon:
+An algorithmic perspective.</A>
+Proc. 32nd ACM Symposium on Theory of Computing, 2000.
+Also appears as Cornell Computer Science
+Technical Report 99-1776 (October 1999).
+(Also in <A HREF="swn.d/swn.html">HTML</a>.)
+
+<LI>
+J. Kleinberg.
+<A HREF="nips14.pdf">
+Small-World Phenomena and the Dynamics of Information.</A>
+Advances in Neural Information Processing Systems 14, 2001.
+
+<LI>
+J. Kleinberg.
+<A HREF="http://www.mathaware.org/mam/04/essays/smallworld.html">
+The Small-World Phenomenon and Decentralized Search.</A>
+A short essay as part of <A HREF="http://www.mathaware.org/mam/04/index.html">
+Math Awareness Month 2004</A>, 
+appearing in SIAM News 37(3), April 2004
+
+
+<LI> 
+J. Kleinberg.
+<a href="icm06-swn.pdf">
+Complex Networks and Decentralized Search Algorithms.</a>
+Proceedings of the International Congress of Mathematicians (ICM), 2006.
+
+
+</ul><H4>Interactions of Algorithmic and Human Decision-Making</H4><ul>
+
+<LI>
+R. McIlroy-Young, S. Sen, J. Kleinberg, A. Anderson.
+<a href="https://arxiv.org/abs/2006.01855">
+Aligning Superhuman AI and Human Behavior: Chess as a Model System.</a>
+Proc. 24th ACM SIGKDD Intl. Conf. on Knowledge Discovery and Data Mining, 2020.
+<dt><ul><li><i>See also the project page for the <a href="https://maiachess.com/">Maia Chess Engine</a>, which is based on this work, and a <a href="https://www.microsoft.com/en-us/research/blog/the-human-side-of-ai-for-chess/">Microsoft Research blog post</a> about the project.
+</i></li></ul>
+
+<LI>
+R. McIlroy-Young, R. Wang, S. Sen, J. Kleinberg, A. Anderson.
+<a href="https://arxiv.org/abs/2008.10086">Learning Personalized Models of Human Behavior in Chess.</a>
+arXiv/2008.10086, 2020.
+
+<LI>
+M. Raghu, K. Blumer, G. Corrado, J. Kleinberg, Z. Obermeyer, S. Mullainathan.
+<a href="https://arxiv.org/abs/1903.12220">
+The Algorithmic Automation Problem: Prediction, Triage, and Human Effort.</a>
+arXiv/1903.12220, 2019.
+
+<LI>
+M. Raghu, K. Blumer, R. Sayres, Z. Obermeyer, R. Kleinberg, S. Mullainathan, J. Kleinberg.
+<a href="https://arxiv.org/abs/1807.01771">
+Direct Uncertainty Prediction for Medical Second Opinions.</a>
+Proc. 36th Intl. Conf. on Machine Learning (ICML), 2019.
+See also the accompanying <a href="http://maithraraghu.com/blog/2019/Direct_Uncertainty_Prediction/">blog post</a> by Maithra Raghu.
+
+
+<LI>
+M. Yeomans, A. Shah., S. Mullainathan, J. Kleinberg.
+<a href="https://www.mikeyeomans.info/papers/Making_Sense.pdf">Making Sense of Recommendations.</a>
+Journal of Behavioral Decision Making, 2019.
+
+
+<LI>
+J. Kleinberg, H. Lakkaraju, J. Leskovec, J. Ludwig, S. Mullainathan.
+<a href="w23180.pdf">
+Human Decisions and Machine Predictions.</a>
+Quarterly Journal of Economics (QJE) volume 133:1, February 2018.
+Also appears as NBER Working Paper Number 23180, February 2017.
+
+<LI>
+H. Lakkaraju, J. Kleinberg, J. Leskovec, J. Ludwig, S. Mullainathan.
+<a href="kdd17-selective.pdf">The Selective Labels Problem: Evaluating Algorithmic Predictions in the Presence of Unobservables.</a>
+Proc. 23rd ACM SIGKDD Intl. Conf. on Knowledge Discovery and Data Mining, 2017.
+
+<LI>
+J. Kleinberg, A. Liang, S. Mullainathan.
+<a href="https://arxiv.org/abs/1706.06974">
+The Theory is Predictive, but is it Complete? An Application to Human Perception of Randomness.</a>
+Proc. 18th ACM Conference on Economics and Computation (EC), 2017.
+
+<LI>
+J. Kleinberg, J. Ludwig, S. Mullainathan.
+<a href="https://hbr.org/2016/12/a-guide-to-solving-social-problems-with-machine-learning">A Guide to Solving Social Problems with Machine Learning.</a>
+Harvard Business Review, December 2016.
+
+<LI>
+M. Luca, J. Kleinberg, S. Mullainathan.
+<a href="https://hbr.org/2016/01/algorithms-need-managers-too">
+Algorithms Need Managers, Too.</a>
+Harvard Business Review, 94:1(Jan/Feb 2016).
+
+<LI>
+A. Anderson, J. Kleinberg, S. Mullainathan.
+<a href="http://arxiv.org/abs/1606.04956">
+Assessing Human Error Against a Benchmark of Perfection.</a>
+Proc. 22nd ACM SIGKDD Intl. Conf. on Knowledge Discovery and Data Mining, 2016.
+
+<LI>
+J. Kleinberg, J. Ludwig, S. Mullainathan, Z. Obermeyer.
+<a href="aer15-prediction.pdf">Prediction Policy Problems.</a>
+American Economic Review: Papers and Proceedings 105:5(2015).
+
+<LI>
+H. Lakkaraju, J. Leskovec, J. Kleinberg, S. Mullainathan.
+<a href="sdm15-eval.pdf">A Bayesian Framework for Modeling Human Evaluations.</a>  
+Proc. 15th SIAM International Conference on Data Mining (SDM), 2015.
+
+
+<LI>
+J. Kleinberg, S. Mullainathan.
+<a href="http://edge.org/response-detail/26192">We Built Them, But We Don't Understand Them</a>.
+In <a href="https://www.harpercollins.com/9780062425652/what-to-think-about-machines-that-think">What to Think About Machines That Think: Today's Leading Thinkers on the Age of Machine Intelligence.</a>
+Harper Perennial 2015.
+
+</ul><H4>Algorithms for Societal Decision-Making</H4><ul>
+
+<LI>
+R. Abebe, J. Kleinberg, M. Weinberg.
+<a href="aaai20-shocks.pdf">
+Subsidy Allocations in the Presence of Income Shocks.</a>
+Proc. 34th AAAI Conference on Artificial Intelligence (AAAI-20), 2020.
+
+<LI>
+R. Abebe, S. Barocas, J. Kleinberg, K. Levy, M. Raghavan, D. Robinson.
+<a href="https://arxiv.org/abs/1912.04883">
+Roles for Computing in Social Change.</a>
+Proc. ACM Conference on Fairness, Accountability, and Transparency (FAT*), 2020.
+
+<LI>
+K. Donahue, J. Kleinberg.
+<a href="https://arxiv.org/abs/1906.09050">
+Fairness and Utilization in Allocating Resources with Uncertain Demand.</a>
+Proc. ACM Conference on Fairness, Accountability, and Transparency (FAT*), 2020.
+
+<LI>
+M. Raghavan, S. Barocas, J. Kleinberg, K. Levy
+<a href="https://arxiv.org/abs/1906.09208">
+Mitigating Bias in Algorithmic Employment Screening: Evaluating Claims and Practices.</a>
+Proc. ACM Conference on Fairness, Accountability, and Transparency (FAT*), 2020.
+
+<LI>
+J. Kleinberg, J. Ludwig, S. Mullainathan, C. Sunstein.
+<a href="https://www.pnas.org/content/early/2020/07/27/1912790117">
+Algorithms as discrimination detectors.</a>
+Proc. National Academy of Sciences, 117(48) 30096-30100, 1 December 2020.
+
+<LI>
+A. Rambachan, J. Kleinberg, J. Ludwig, S. Mullainathan.
+<a href="https://www.semanticscholar.org/paper/An-Economic-Approach-to-Regulating-Algorithms-Rambachan-Kleinberg/167273526caeae8439b2c08630f984b758f76dab">
+An Economic Approach to Regulating Algorithms.</a>
+NBER Working Paper Number 27111, May 2020.
+
+<LI>
+J. Kleinberg, J. Ludwig, S. Mullainathan, C. Sunstein.
+<a href="https://arxiv.org/abs/1902.03731">Discrimination in the Age of Algorithms.</a> Journal of Legal Analysis, 2019.
+Also appears as NBER Working Paper Number 25548, February 2019.
+
+<LI>J. Kleinberg, S. Mullainathan.
+<a href="https://arxiv.org/abs/1809.04578">
+Simplicity Creates Inequity: Implications for Fairness, Stereotypes, and Interpretability.</a>
+Proc. 20th ACM Conference on Economics and Computation (EC), 2019.
+
+
+<LI>
+J. Kleinberg, M. Raghavan.
+<a href="itcs18-bias.pdf">
+Selection Problems in the Presence of Implicit Bias.</a>
+Proc. 9th Conf. on Innovations in Theoretical Computer Science (ITCS), 2018.
+
+<LI>
+J. Kleinberg, J. Ludwig, S. Mullainathan, A. Rambachan.
+<a href="aer18-fairness.pdf">Algorithmic Fairness.</a>
+AEA Papers and Proceedings 108:22-27, 2018.
+
+<LI>
+R. Abebe, J. Kleinberg, D. Parkes.
+<a href="https://arxiv.org/abs/1611.06589">
+Fair Division via Social Comparison.</a>
+Proc. 16th Intl. Conf. on Autonomous Agents and Multiagent Systems (AAMAS), 2017
+.
+
+<LI>
+G. Pleiss, M. Raghavan, F. Wu, J. Kleinberg, K. Weinberger.
+<a href="https://arxiv.org/abs/1709.02012">
+On Fairness and Calibration.</a>
+Advances in Neural Information Processing Systems 31, 2017.
+
+<LI>
+J. Kleinberg, S. Mullainathan, M. Raghavan.
+<a href="https://arxiv.org/abs/1609.05807">
+Inherent Trade-Offs in the Fair Determination of Risk Scores.</a>
+Proc. 8th Conf. on Innovations in Theoretical Computer Science (ITCS), 2017.
+
+<LI>
+J. Kleinberg, M. Raghu.
+<a href="http://arxiv.org/abs/1506.00147">Team Performance with 
+Test Scores</a>.  
+Proc. 16th ACM Conference on Economics and Computation (EC), 2015.
+
+<LI>
+J. Kleinberg, S. Oren.
+<a href="stoc11-credit.pdf">
+Mechanisms for (Mis)Allocating Scientific Credit.</a>
+Proc. 43rd ACM Symposium on Theory of Computing, 2011.
+
+
+</ul><H4>Network Structure and Network Evolution</H4><ul>
+
+<LI>
+N. Veldt, A. Benson, J. Kleinberg.
+<a href="https://arxiv.org/abs/2002.09441">
+Localized Flow-Based Clustering in Hypergraphs.</a>
+Proc. 24th ACM SIGKDD Intl. Conf. on Knowledge Discovery and Data Mining, 2020.
+
+
+<LI>
+A. Benson, J. Kleinberg.
+<a href="https://arxiv.org/abs/1811.11540">
+Core-fringe link prediction.</a>
+Proc. 28th International World Wide Web Conference, 2019.
+See also the
+<a href="https://github.com/arbenson/cflp">code and data</a>
+accompanying the paper.
+
+
+<LI>
+A. Benson, R. Abebe, M. Schaub, A. Jadbabaie, J. Kleinberg.
+<a href="https://arxiv.org/abs/1802.06916">
+Simplicial Closure and Higher-order Link Prediction.</a>
+Proc. National Academy of Sciences, 
+115(48) E11221-E11230, 27 November 2018.
+See also links for 
+<a href="https://github.com/arbenson/ScHoLP-Tutorial">code</a> and
+<a href="http://www.cs.cornell.edu/~arb/data/index.html#hon">data</a>
+accompanying the paper.
+
+<LI>
+A. Benson, J. Kleinberg.
+<a href="https://arxiv.org/abs/1805.01209">
+Found Graph Data and Planted Vertex Covers.</a>
+Advances in Neural Information Processing Systems 32, 2018.
+See also links for 
+<a href="https://github.com/arbenson/FGDnPVC">code</a> and
+<a href="http://www.cs.cornell.edu/~arb/data/index.html#pvc">data</a>
+accompanying the paper.
+
+<LI>
+I. Kloumann, J. Ugander, J. Kleinberg.
+<a href="https://arxiv.org/abs/1607.03483">
+Block Models and Personalized PageRank.</a>
+Proc. National Academy of Sciences, 114(1) 33-38, 3 January 2017.
+
+<LI>
+R. Rotabi, K. Kamath, J. Kleinberg, A. Sharma.
+<a href="https://arxiv.org/abs/1702.07390">
+Detecting Strong Ties Using Network Motifs.</a>
+Proc. 26th International World Wide Web Conference, 2017.
+
+
+<LI>
+L. Backstrom, J. Kleinberg.
+<a href="http://arxiv.org/abs/1310.6753">
+Romantic Partnerships and the Dispersion of Social Ties: A Network Analysis of Relationship Status on Facebook.</a>
+Proc. 17th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW), 2014.
+
+<LI>
+I. Kloumann, J. Kleinberg.
+<a href="kdd14-seed.pdf">Community membership identification from small seed sets.</a>
+Proc. 20th ACM SIGKDD Intl. Conf. on Knowledge Discovery and Data Mining, 2014.
+
+<LI>
+J. Ugander, L. Backstrom, J. Kleinberg.
+<a href="http://arxiv.org/abs/1304.1548">Subgraph Frequencies: Mapping the Empirical and Extremal Geography of Large Graph Collections.</a>
+Proc. 22nd International World Wide Web Conference, 2013.
+<dt><ul><li><i>See also the 
+<a href="http://stanford.edu/~jugander/subgraphs/">companion Web page</a> by Johan Ugander, including R code.
+</i></li></ul>
+
+<LI>
+J. Ugander, B. Karrer, L. Backstrom, J. Kleinberg.
+<a href="http://arxiv.org/abs/1305.6979">
+Graph cluster randomization: network exposure to multiple universes.</a>
+Proc. 19th ACM SIGKDD Intl. Conf. on Knowledge Discovery and Data Mining, 2013.
+
+
+<LI>J. Tang, T. Lou, J. Kleinberg.
+<a href="wsdm12-links.pdf">
+Inferring Social Ties across Heterogenous Networks.</a>
+Proc. 5th ACM Conference on Web Search and Data Mining, 2012.
+
+<LI>
+L. Backstrom, J. Kleinberg.
+<a href="www11-bucket.pdf">Network Bucket Testing.</a> 
+Proc. 20th International World Wide Web Conference, 2011.
+
+<LI>
+L. Backstrom, E. Bakshy, J. Kleinberg, T. Lento, I. Rosenn.
+<a href="icwsm11-attention.pdf">Center of Attention: How Facebook Users Allocate Attention across Friends.</a>
+Proc. 5th International AAAI Conference on Weblogs and Social Media, 2011.
+  
+<LI>
+D. Romero, B. Meeder, V. Barash, J. Kleinberg.
+<a href="icwsm11-exch-bal.pdf">Maintaining Ties on Social Media Sites: The Competing Effects of Balance, Exchange, and Betweenness.</a>
+Proc. 5th International AAAI Conference on Weblogs and Social Media, 2011.
+
+<LI>
+J. Cheng, D. Romero, B. Meeder, J. Kleinberg.
+<a href="socialcom11-recip.pdf">Predicting Reciprocity in Social Networks.</a>
+Proc. 3rd IEEE Conference on Social Computing, 2011.
+
+<LI>
+D. Romero, J. Kleinberg.
+<a href="icwsm10-closure.pdf">The Directed Closure Process in Hybrid Social-Information Networks, with an Analysis of Link Formation on Twitter.</a>
+Proc. 4th International AAAI Conference on Weblogs and Social Media, 2010.
+
+<LI>
+S. Arbesman, J. Kleinberg, S. Strogatz. 
+<a href="http://arxiv.org/abs/0809.4994">Superlinear Scaling 
+for Innovation in Cities.</a>
+Physical Review E 79(1), 2009.
+
+<LI>
+J. Kleinberg, S. Suri, E. Tardos, T. Wexler.
+<a href="ec08-struct-holes.pdf">
+Strategic Network Formation with Structural Holes.</a>
+Proc. 9th ACM Conference on Electronic Commerce, 2008.
+
+<LI> J. Leskovec, J. Kleinberg, C. Faloutsos.
+<a href="kdd05-time.pdf">
+Graphs over Time: Densification Laws, Shrinking Diameters and
+Possible Explanations.</a>
+Proc. 11th ACM SIGKDD Intl. Conf. on Knowledge Discovery and Data Mining,
+2005.
+
+<LI>R. Kleinberg, J. Kleinberg,
+<a href="soda05-inf.pdf">
+Isomorphism and Embedding Problems for Infinite Limits of Scale-Free Graphs.</a>
+Proc. 16th ACM-SIAM Symposium on Discrete Algorithms, 2005.
+
+<LI>
+D. Liben-Nowell, J. Kleinberg.
+<a href="link-pred.pdf">
+The Link Prediction Problem for Social Networks.</a>
+Proc. 12th International Conference on Information 
+and Knowledge Management (CIKM), 2003.
+
+<LI> D. Callaway, J. Hopcroft, J. Kleinberg, M. Newman, S. Strogatz.
+<A HREF="http://www.arxiv.org/abs/cond-mat/0104546">
+Are randomly grown graphs really random?</A>
+Physical Review E 64, 041902 (2001).
+
+
+</ul><H4>Information Flow and Dynamic Behavior in Networks</H4><ul>
+
+<LI>
+J. Gaitonde, J. Kleinberg, E. Tardos.
+<a href="https://arxiv.org/abs/2003.07010">
+Adversarial Perturbations of Opinion Dynamics in Networks.</a>
+Proc. 21st ACM Conference on Economics and Computation (EC), 2020.
+
+<LI>
+R. Abebe, L. Adamic, J. Kleinberg.
+<a href="https://arxiv.org/abs/1709.04123">
+Mitigating Overexposure in Viral Marketing.</a>
+Proc. 32nd AAAI Conference on Artificial Intelligence (AAAI-18), 2018.
+
+<LI>
+M. Raghavan, A. Anderson, J. Kleinberg.
+<a href="https://arxiv.org/abs/1802.09597">
+Mapping the Invocation Structure of Online Political Interaction.</a>
+Proc. 27th International World Wide Web Conference, 2018.
+
+<LI>
+R. Abebe, J. Kleinberg, D. Parkes, C. Tsourakakis.
+<a href="https://arxiv.org/abs/2011.02583">
+Opinion Dynamics with Varying Susceptibility to Persuasion.</a>
+Proc. 24th ACM SIGKDD Intl. Conf. on Knowledge Discovery and Data Mining, 2018.
+This KDD 2018 version of the paper has been superseded by an
+<a href="https://arxiv.org/abs/2011.02583">updated version</a>
+that merges the KDD 2018 paper with a WWW 2019 paper of Chan, Liang, and Sozio.
+
+<LI>
+J. Cheng, J. Kleinberg, J. Leskovec, D. Liben-Nowell, B. State,
+K. Subbian, L. Adamic.
+<a href="icwsm18-protocols.pdf">
+Do Diffusion Protocols Govern Cascade Growth?</a>
+Proc. 12th International AAAI Conference on Weblogs and Social Media (ICWSM), 
+2018.
+
+<LI>
+R. Rotabi, C. Danescu-Niculescu-Mizil, J. Kleinberg.
+<a href="https://arxiv.org/abs/1703.09315">
+Tracing the Use of Practices through Networks of Collaboration.</a>
+Proc. 11th International AAAI Conference on Weblogs and Social Media (ICWSM), 2017.
+
+<LI>
+R. Rotabi, C. Danescu-Niculescu-Mizil, J. Kleinberg.
+<a href="https://arxiv.org/abs/1702.06527">
+Competition and Selection Among Conventions.</a>
+Proc. 26th International World Wide Web Conference, 2017.
+
+<LI>
+R. Rotabi, K. Kamath, J. Kleinberg, A. Sharma.
+<a href="https://arxiv.org/abs/1702.06673">
+Cascades: A view from Audience.</a>
+Proc. 26th International World Wide Web Conference, 2017.
+
+<LI>
+D. Romero, B. Uzzi, J. Kleinberg.
+<a href="http://arxiv.org/abs/1602.00572">
+Social Networks Under Stress.</a>
+Proc. 25th International World Wide Web Conference, 2016.
+
+<LI>
+J. Cheng, L. Adamic, J. Kleinberg, J. Leskovec.
+<a href="http://arxiv.org/abs/1602.01107">
+Do Cascades Recur?.</a>
+Proc. 25th International World Wide Web Conference, 2016.
+
+<LI> 
+R. Rotabi, J. Kleinberg.
+<a href="http://arxiv.org/abs/1603.03303">
+The Status Gradient of Trends in Social Media.</a>
+Proc. 10th International AAAI Conference on Weblogs and Social Media, 2016.
+
+<LI>
+A. Anderson, D. Huttenlocher, J. Kleinberg, J. Leskovec.
+<a href="www15-diffusion.pdf">Global Diffusion via Cascading Invitations: Structure, Growth, and Homophily.</a>
+Proc. 24th International World Wide Web Conference, 2015.
+
+<LI>
+I. Kloumann, L. Adamic, J. Kleinberg, S. Wu.
+<a href="http://arxiv.org/abs/1503.06870">The Lifecycles of Apps in a Social Ecosystem.</a>
+Proc. 24th International World Wide Web Conference, 2015.
+
+<LI>
+J. Cheng, L. Adamic, A. Dow, J. Kleinberg, J. Leskovec.
+<a href="www14-cascades.pdf">Can Cascades Be Predicted?</a>
+Proc. 23rd International World Wide Web Conference, 2014.
+<dt><ul><li><i>See also the 
+<a href="https://www.facebook.com/notes/facebook-data-science/can-cascades-be-predicted/10152056491448859?stream_ref=10">Facebook Data Science blog post</a> about this work.
+</i></li></ul>
+
+<LI>
+L. Backstrom, J. Kleinberg, L. Lee, C. Danescu-Niculescu-Mizil.
+<a href="wsdm13-threads.pdf">
+Characterizing and Curating Conversation Threads: Expansion, Focus, 
+Volume, Re-entry.</a>
+Proc. 6th ACM Conference on Web Search and Data Mining, 2013.
+
+<LI>
+F. Chierichetti, J. Kleinberg, S. Oren.
+<a href="ec13-discrete-pref.pdf">
+On discrete preferences and coordination.</a>
+Proc. 14th ACM Conference on Electronic Commerce, 2013.
+
+<LI>
+D. Kempe, J. Kleinberg, S. Oren, A. Slivkins.
+<a href="http://arxiv.org/abs/1304.7468">
+Selection and Influence in Cultural Dynamics.</a>
+Proc. 14th ACM Conference on Electronic Commerce, 2013.
+<LI>
+J. Ugander, L. Backstrom, C. Marlow, J. Kleinberg.
+<a href="http://www.pnas.org/content/early/2012/03/27/1116502109.full.pdf">
+Structural Diversity in Social Contagion.</a>
+Proc. National Academy of Sciences, 109(16) 5962-5966, 17 April 2012.
+
+<LI>
+K. Bhawalkar, J. Kleinberg, K. Lewi, T. Roughgarden, A. Sharma. 
+<a href="icalp12-kcore.pdf">Preventing Unraveling in Social Networks: 
+The Anchored k-Core Problem,</a>
+Proc. 39th International Colloquium on 
+Automata, Languages and Programming (ICALP), 2012.
+
+<LI>F. Chierichetti, J. Kleinberg, A. Panconesi.
+<a href="ec12-cascade.pdf">
+How to schedule a cascade in an arbitrary graph.</a>
+Proc. 13th ACM Conference on Electronic Commerce, 2012.
+
+<LI>
+L. Blume, D. Easley, J. Kleinberg, R. Kleinberg, E. Tardos.
+<a href="focs11-cascading.pdf">
+Which Networks Are Least Susceptible to Cascading Failures?</a>
+Proc. 52nd IEEE Symposium on Foundations of Computer Science, 2011.
+
+<LI>
+L. Blume, D. Easley, J. Kleinberg, R. Kleinberg, E. Tardos.
+<a href="ec11-contagion.pdf">
+Network Formation in the Presence of Contagious Risk.</a>
+Proc. 12th ACM Conference on Electronic Commerce, 2011.
+
+<LI>F. Chierichetti, J. Kleinberg, D. Liben-Nowell.
+<a href="nips11-tree.pdf">
+Reconstructing Patterns of Information Diffusion from Incomplete Observations.</a>
+Advances in Neural Information Processing Systems 24, 2011.
+
+<LI>
+D. Romero, B. Meeder, J. Kleinberg.
+<a href="www11-hashtags.pdf">Differences in the Mechanics of Information Diffusion Across Topics: Idioms, Political Hashtags, and Complex Contagion on Twitter.</a> 
+Proc. 20th International World Wide Web Conference, 2011.
+
+<LI>
+S. Wu, C. Tan, J. Kleinberg, M. Macy.
+<a href="icwsm11-longevity.pdf">Does Bad News Go Away Faster?</a>
+Proc. 5th International AAAI Conference on Weblogs and Social Media, 2011.
+
+
+<LI>
+D. Cosley, D. Huttenlocher, J. Kleinberg, X. Lan, S. Suri.
+<a href="icwsm10-seq.pdf">Sequential Influence Models in Social Networks.</a>
+Proc. 4th International AAAI Conference on Weblogs and Social Media, 2010.
+
+
+
+
+<LI>
+D. Liben-Nowell, J. Kleinberg.
+<a href="http://www.pnas.org/content/105/12/4633.full">Tracing
+  Information Flow on a Global Scale Using Internet Chain-Letter
+  Data</a>.  Proc. National Academy of Sciences,
+  105(12):4633&ndash;4638, 25 March 2008.
+<dt> <ul> <li><i>
+    We are interested in gathering additional data about the spread
+    of the chain-letter petitions described in this paper.  
+    Please visit
+    <a href="http://petitions.cs.cornell.edu">
+    http://petitions.cs.cornell.edu</a>
+    or
+    <a href="http://petitions.cs.carleton.edu">
+    http://petitions.cs.carleton.edu</a>
+    to learn more or to help.  </i>
+   </li> </ul>
+
+<LI>
+G. Kossinets, J. Kleinberg, D. Watts.
+<a href="kdd08-bb.pdf">The Structure of 
+Information Pathways in a Social Communication Network.</a>
+Proc. 14th ACM SIGKDD Intl. Conf. on Knowledge Discovery and Data Mining,
+2008.
+
+<LI>
+D. Crandall, D. Cosley, D. Huttenlocher, J. Kleinberg, S. Suri.
+<a href="kdd08-sim.pdf">Feedback Effects between Similarity and 
+Social Influence in Online Communities.</a>
+Proc. 14th ACM SIGKDD Intl. Conf. on Knowledge Discovery and Data Mining,
+2008.
+
+<LI>
+J. Kleinberg.
+<a href="agtbook-ch24.pdf">Cascading Behavior in Networks: 
+Algorithmic and Economic Issues.</a>
+In <u>Algorithmic Game Theory</u>
+(N. Nisan, T. Roughgarden, E. Tardos, V. Vazirani, eds.),
+Cambridge University Press, 2007.
+
+<LI>
+J. Kleinberg
+<a href="nat07-wireless.pdf">The Wireless Epidemic.</a>
+Nature (News and Views) 449(2007), 287-288.
+
+<LI>
+N. Immorlica, J. Kleinberg, M. Mahdian, T. Wexler.
+<a href="ec07-compat.pdf">
+The Role of Compatibility in the Diffusion of Technologies
+Through Social Networks.</a>
+Proc. 8th ACM Conference on Electronic Commerce, 2007.
+
+<LI>
+L. Backstrom, D. Huttenlocher, J. Kleinberg, X. Lan.
+<a href="kdd06-comm.pdf">
+Group Formation in Large Social Networks: Membership, Growth, and Evolution.
+</a>
+Proc. 12th ACM SIGKDD Intl. Conf. on Knowledge Discovery and Data Mining,
+2006.
+
+<LI>
+J. Leskovec, A. Singh, J. Kleinberg.
+<a href="pakdd06-cascade.pdf">
+Patterns of Influence in a Recommendation Network.</a>
+Proc. Pacific-Asia Conference on Knowledge Discovery and Data Mining
+(PAKDD), 2006.
+
+<LI>
+D. Kempe, J. Kleinberg, E. Tardos.
+<a href="icalp05-inf.pdf">
+Influential Nodes in a Diffusion Model for Social Networks.</a>
+Proc. 32nd International Colloquium on 
+Automata, Languages and Programming (ICALP), 2005.
+
+<LI>
+D. Kempe, J. Kleinberg, E. Tardos.
+<a href="kdd03-inf.pdf">
+Maximizing the Spread of Influence through a Social Network.</a>
+Proc. 9th ACM SIGKDD Intl. Conf. on Knowledge Discovery and Data Mining,
+2003.
+
+
+
+</ul><H4>Incentives and Game-Theoretic Analysis</H4><ul>
+
+<LI>J. Kleinberg, M. Raghavan.
+<a href="https://arxiv.org/abs/1807.05307">
+How Do Classifiers Induce Agents To Invest Effort Strategically?</a>
+Proc. 20th ACM Conference on Economics and Computation (EC), 2019.
+
+<LI>
+J. Kleinberg, R. Kleinberg.
+<a href="https://arxiv.org/abs/1806.06933"> 
+Delegated Search Approximates Efficient Search.</a>
+Proc. 19th ACM Conference on Economics and Computation (EC), 2018.
+
+<LI>
+J. Kleinberg, S. Oren, M. Raghavan.
+<a href="https://arxiv.org/abs/1706.01062">
+Planning with Multiple Biases.</a>
+Proc. 18th ACM Conference on Economics and Computation (EC), 2017.
+
+<LI>
+J. Kleinberg, S. Mullainathan, J. Ugander.
+<a href="https://arxiv.org/abs/1705.05735">
+Comparison-Based Choices.</a>
+Proc. 18th ACM Conference on Economics and Computation (EC), 2017.
+
+<LI>
+J. Kleinberg, S. Oren, M. Raghavan.
+<a href="http://arxiv.org/abs/1603.08177">Planning Problems for Sophisticated Agents with Present Bias</a>.  
+Proc. 17th ACM Conference on Economics and Computation (EC), 2016.
+
+<LI> 
+J. Kleinberg, S. Oren.
+<a href="http://arxiv.org/abs/1412.2062">
+Dynamic Models of Reputation and Competition in Job-Market Matching.</a>
+Proc. 6th Conference on Innovations in Theoretical Computer Science (ITCS), 
+2015.
+
+<LI>
+L. Blume, D. Easley, J. Kleinberg, R. Kleinberg, E. Tardos.
+<a href="http://www.sciencedirect.com/science/article/pii/S0022053114001616">Introduction to computer science and economic theory.</a>
+Journal of Economic Theory 156(2015).
+
+<LI> 
+J. Kleinberg, S. Oren.
+<a href="http://arxiv.org/abs/1405.1254.pdf">
+Time-Inconsistent Planning: A Computational Problem in Behavioral Economics.</a>
+Proc. 15th ACM Conference on Economics and Computation (EC), 2014.
+
+<LI>
+P. Frazier, D. Kempe, J. Kleinberg, R. Kleinberg.
+<a href="ec14-explore.pdf">Incentivizing Exploration.</a>
+Proc. 15th ACM Conference on Economics and Computation (EC), 2014.
+
+<LI> 
+A. Anderson, D. Huttenlocher, J. Kleinberg, J. Leskovec.
+<a href="www13-badges.pdf">Steering User Behavior with Badges.</a>
+Proc. 22nd International World Wide Web Conference, 2013.
+
+<LI>
+J. Kleinberg, K. Ligett.
+<a href="https://www.sciencedirect.com/science/article/pii/S0899825613001401">Information-sharing in social networks.</a>
+Games and Economic Behavior 82, 2013.
+
+<LI>F. Chierichetti, J. Kleinberg.
+<a href="soda12-voting.pdf">
+Voting with Limited Information and Many Alternatives.</a>
+Proc. 23rd ACM-SIAM Symposium on Discrete Algorithms, 2012.
+
+
+<LI>
+J. Kleinberg, E. Tardos.
+<a href="stoc08-exchange.pdf">
+Balanced Outcomes in Social Exchange Networks.</a>
+Proc. 40th ACM Symposium on Theory of Computing, 2008.
+
+<LI>
+L. Blume, D. Easley, J. Kleinberg, E. Tardos.
+<a href="ec07-traders.pdf">
+Trading Networks with Price-Setting Agents.</a>
+Proc. 8th ACM Conference on Electronic Commerce, 2007.
+
+<LI>
+J. Kleinberg, P. Raghavan.
+<a href="focs05-qin.pdf">Query Incentive Networks.</a>
+Proc. 46th IEEE Symposium on Foundations of Computer Science, 2005.
+
+<LI> E. Anshelevich, A. Dasgupta, 
+J. Kleinberg, E. Tardos, T. Wexler, T. Roughgarden.
+<a href="focs04-game.pdf">The Price of Stability for Network Design with
+Fair Cost Allocation.</a>
+Proc. 45th IEEE Symposium on Foundations of Computer Science, 2004.
+
+
+
+
+</ul><H4>Opinion, Evaluation, and Polarization</H4><ul>
+
+
+<LI>A. Anderson, D. Huttenlocher, J. Kleinberg, J. Leskovec.
+<a href="wsdm12-sim.pdf">
+Effects of User Similarity in Social Media.</a>
+Proc. 5th ACM Conference on Web Search and Data Mining, 2012.
+
+<LI>
+A. Anderson, D. Huttenlocher, J. Kleinberg, J. Leskovec.
+<a href="kdd12-qa.pdf">Discovering Value from Community Activity on Focused Question Answering Sites: A Case Study of Stack Overflow.</a>
+Proc. 18th ACM SIGKDD Intl. Conf. on Knowledge Discovery and Data Mining, 2012.
+
+<LI>
+D. Bindel, J. Kleinberg, S. Oren.
+<a href="focs11-opinions.pdf">
+How Bad is Forming Your Own Opinion?</a>
+Proc. 52nd IEEE Symposium on Foundations of Computer Science, 2011.
+
+<LI>
+S. Marvel, J. Kleinberg, R. Kleinberg, S. Strogatz.
+<a href="http://www.pnas.org/content/early/2010/12/27/1013213108.full.pdf+html">Continuous-Time Model of Structural Balance</a>.
+Proc. National Academy of Sciences, 108(5) 1771-1776, 1 February 2011.
+
+<LI>
+J. Leskovec, D. Huttenlocher, J. Kleinberg.
+<a href="icwsm10-govern.pdf">Governance in Social Media: 
+A case study of the Wikipedia promotion process.</a>
+Proc. 4th International AAAI Conference on Weblogs and Social Media, 2010.
+
+<LI>
+J. Leskovec, D. Huttenlocher, J. Kleinberg.
+<a href="chi10-signed.pdf">Signed Networks in Social Media.</a>
+Proc. 28th ACM SIGCHI Conference on Human Factors in Computing Systems (CHI), 2010.
+
+<LI>
+J. Leskovec, D. Huttenlocher, J. Kleinberg.
+<a href="www10-signed.pdf">Predicting Positive and Negative Links in Online Social Networks.</a>
+Proc. 19th International World Wide Web Conference, 2010.
+
+<LI>
+S. Marvel, J. Kleinberg, S. Strogatz. 
+<a href="http://arxiv.org/abs/0906.2893">The Energy Landscape of 
+Social Balance.</a>
+Physical Review Letters 103(19), 2009.
+
+<LI> C. Danescu-Niculescu-Mizil, G. Kossinets, J. Kleinberg, L. Lee.
+<a href="www09-helpfulness.pdf">
+How Opinions are Received by Online Communities: 
+A Case Study on Amazon.com Helpfulness Votes.</a>
+Proc. 18th International World Wide Web Conference, 2009.
+
+
+</ul><H4>Temporal Analysis and Bursty Phenomena</H4><ul>
+
+<LI> 
+F. Chierichetti, J. Kleinberg, R. Kumar, M. Mahdian, S. Pandey.
+<a href="icwsm14-event.pdf">
+Event Detection via Communication Pattern Analysis.</a>
+Proc. 8th International AAAI Conference on Weblogs and Social Media, 2014.
+
+<LI>
+J. Leskovec, L. Backstrom, J. Kleinberg.
+<a href="kdd09-quotes.pdf">Meme-tracking and the
+dynamics of the news cycle.</a>
+Proc. 15th ACM SIGKDD Intl. Conf. on Knowledge Discovery and Data Mining,
+2009.
+
+<LI>
+L. Backstrom, J. Kleinberg, R. Kumar.
+<a href="kdd09-sched.pdf">Optimizing Web traffic via the Media 
+Scheduling Problem.</a>
+Proc. 15th ACM SIGKDD Intl. Conf. on Knowledge Discovery and Data Mining,
+2009.
+
+<LI> J. Kleinberg.
+<a href="stream-survey04.pdf">Temporal Dynamics of 
+On-Line Information Streams.</a>
+In <u>Data Stream Management: Processing High-Speed Data Streams</u>,
+(M. Garofalakis, J. Gehrke, R. Rastogi, eds.), Springer, 2004.
+
+<LI> J. Aizen, D. Huttenlocher, J. Kleinberg, A. Novak.
+<a href="http://www.pnas.org/cgi/content/abstract/0307539100v1">
+Traffic-Based Feedback on the Web.</a>
+Proceedings of the National Academy of Sciences 101(Suppl.1):5254-5260, 2004.
+(Also available in <a href="pnas04-usage.pdf">pre-print form.</a>)
+
+<LI> J. Kleinberg.
+<A HREF="bhs.pdf">Bursty and Hierarchical Structure in Streams.</A>
+Proc. 8th ACM SIGKDD Intl. Conf. on Knowledge Discovery and Data Mining, 2002.
+<dt><ul><li><i>See also some <a href="kdd02.html">sample results</a>
+from the burst detection algorithm described in this paper.</i></li></ul>
+
+
+</ul><H4>Representations for Learning</H4><ul>
+
+<LI>
+M. Raghu, C. Zhang, J. Kleinberg, S. Bengio.
+<a href="https://arxiv.org/abs/1902.07208">
+Transfusion: Understanding Transfer Learning with Applications to Medical Imaging.</a>
+Advances in Neural Information Processing Systems 33, 2019.
+
+<LI>
+M. Raghu, A. Irpan, J. Andreas, R. Kleinberg, Q.V. Le, J. Kleinberg.
+<a href="https://arxiv.org/abs/1711.02301">
+Can Deep Reinforcement Learning Solve Erdos-Selfridge-Spencer Games?</a>
+Proc. 35th Intl. Conf. on Machine Learning (ICML), 2018.
+
+<LI>
+M. Raghu, B. Poole, J. Kleinberg, S. Ganguli, J. Sohl-Dickstein.
+<a href="https://arxiv.org/abs/1606.05336">
+On the expressive power of deep neural networks.</a>
+Proc. 34th Intl. Conf. on Machine Learning (ICML), 2017.
+
+</ul><H4>Language, Text Content, and Social Interaction</H4><ul>
+
+<LI>
+K. Van Koevering, A. Benson, J. Kleinberg.
+<a href="https://arxiv.org/abs/2003.03612">Frozen Binomials on the Web: Word Ordering and Language Conventions in Online Text.</a>
+Proc. 29th International World Wide Web Conference, 2020.
+
+<LI>
+C. Danescu-Niculescu-Mizil, J. Cheng, J. Kleinberg, L. Lee.
+<a href="http://arxiv.org/abs/1203.6360">
+You had me at hello: How phrasing affects memorability.</a>
+Proc. 50th Annual Meeting of the Association for Computational Linguistics, 
+2012.
+
+<LI>
+C. Danescu-Niculescu-Mizil, L. Lee, B. Pang, J. Kleinberg.
+<a href="http://arxiv.org/abs/1112.3670">
+Echoes of power: 
+Language effects and power differences in social interaction.</a>
+Proc. 21st International World Wide Web Conference, 2012.
+
+</ul><H4>Team Formation and Dynamics</H4><ul>
+
+<LI>
+I. Kloumann, C. Tan, J. Kleinberg, Lee.
+<a href="www16-polymath.pdf">
+Internet Collaboration on Extremely Difficult Problems: Research versus Olympiad Questions on the Polymath Site.</a>
+Proc. 25th International World Wide Web Conference, 2016.
+
+
+<LI> 
+D. Romero, D. Huttenlocher, J. Kleinberg.
+<a href="icwsm15-coord.pdf">
+Coordination and Efficiency in Decentralized Collaboration.</a>
+Proc. 9th International AAAI Conference on Weblogs and Social Media, 2015.
+
+</ul><H4>Algorithms and Models for On-Line Education</H4><ul>
+
+<LI>
+A. Anderson, D. Huttenlocher, J. Kleinberg, J. Leskovec.
+<a href="www14-courses.pdf">Engaging with Massive Online Courses.</a>
+Proc. 23rd International World Wide Web Conference, 2014.
+
+<LI>
+A. Ghosh, J. Kleinberg.
+<a href="ec13-edu-forums.pdf">
+Incentivizing participation in online forums for education.</a>
+Proc. 14th ACM Conference on Electronic Commerce, 2013.
+
+<LI>
+T. Novikoff, J. Kleinberg, S. Strogatz.
+<a href="http://www.pnas.org/content/early/2012/01/13/1109863109.full.pdf+html">
+Education of a Model Student.</a>
+Proc. National Academy of Sciences, 109(6) 1868-1873, 7 February 2012.
+
+
+</ul><H4>Privacy in Network Analysis and Data Mining</H4><ul>
+
+<LI>
+D. Crandall, L. Backstrom, D. Cosley, S. Suri, D. Huttenlocher, J. Kleinberg.
+<a href="http://www.pnas.org/content/early/2010/12/02/1006155107.full.pdf+html">Inferring Social Ties from Geographic Coincidences</a>.
+Proc. National Academy of Sciences 107(52) 22436-22441, 28 December 2010.
+
+<LI>
+L. Backstrom, C. Dwork, J. Kleinberg.
+<a href="www07-anon.pdf">
+Wherefore Art Thou R3579X?  Anonymized Social Networks, Hidden Patterns, and Structural Steganography.</a>
+Proc. 16th Intl. World Wide Web Conference, 2007.
+
+<LI> J. Kleinberg, C. Papadimitriou, P. Raghavan.
+<A HREF="pods00-au.ps">Auditing Boolean Attributes.</A>
+Proc. 19th ACM Symposium on Principles of Database Systems, 2000.
+
+</ul><H4>Spatial Embeddings of Information</H4><ul>
+
+<LI> D. Crandall, L. Backstrom, D. Huttenlocher, J. Kleinberg.
+<a href="www09-photos.pdf"> 
+Mapping the World's Photos.</a>
+Proc. 18th International World Wide Web Conference, 2009.
+<dt><ul><li><i>See also some 
+<a href="https://homes.luddy.indiana.edu/djcran/photomap/">maps of
+cities and continents</a> constructed using the methods 
+in this paper.</i></li></ul>
+
+<LI> L. Backstrom, J. Kleinberg, R. Kumar, J. Novak.
+<a href="www08-spatial.pdf">
+Spatial Variation in Search Engine Queries.</a>
+Proc. 17th International World Wide Web Conference, 2008.
+
+
+
+</ul> <h4>Gossip Algorithms in Networks</h4> <ul>
+
+<LI> D. Kempe, J. Kleinberg, A. Demers.
+<A HREF="stoc01-gossip.pdf">
+Spatial gossip and resource location protocols.</A>
+Proc. 33rd ACM Symposium on Theory of Computing, 2001.
+(In <A HREF="stoc01-gossip.pdf">PDF.</a>)
+
+<LI>
+D. Kempe, J. Kleinberg.
+<a href="focs02-gossip.ps">
+Protocols and Impossibility Results for
+Gossip-Based Communication Mechanisms.</a>
+Proc. 43rd IEEE Symposium on Foundations of Computer Science, 2002.
+
+</ul> <h4>General Articles  on Web Information and On-Line Social Networks</h4> <ul>
+
+<LI>
+J. Kleinberg.
+<a href="http://www.edge.org/conversation/whats-the-question-about-your-field-that-you-dread-being-asked">How can we have this much data and still not understand collective human behavior?</a> In
+<a href="http://www.edge.org/conversation/whats-the-question-about-your-field-that-you-dread-being-asked">What's the question about your field that you
+dread being asked?</a>, 2013.
+
+
+<LI>
+J. Kleinberg.
+<a href="https://www.edge.org/response-detail/10838">E Pluribus Unum.</a> 
+In <a href="http://www.harpercollins.com/books/This-Will-Make-You-Smarter-Mr-John-Brockman/?isbn=9780062109392">
+This Will Make You Smarter: New Scientific Concepts to Improve Your Thinking.</a> Harper Perennial 2012.
+
+<LI>
+J. Kleinberg.
+<a href="https://www.edge.org/response-detail/10803">The Human Texture of Information.</a> 
+In <a href="http://www.harpercollins.com/books/Internet-Changing-Way-You-Think-Mr-John-Brockman/?isbn=9780062078551">
+Is the Internet Changing the Way You Think?</a>
+Harper Perennial 2011.
+
+<LI> 
+J. Kleinberg.
+<a href="http://books.google.com/books?id=zdp2eu0MkjUC&pg=73#v=onepage&q&f=false">What Can Huge Datasets Teach Us About Society and Ourselves?</a>
+In <i>Future Science</i>, Vintage 2011.
+
+<LI> 
+J. Kleinberg.
+<a href="cacm08.pdf">The convergence of social and technological networks.</a>
+Communications of the ACM, 51(11):66-72, 2008.
+
+<LI>
+J. Kleinberg, S. Lawrence.
+<A HREF="sci01.pdf">The Structure of the Web.</A> Science 294(2001), 1849.
+This version also appears in the 
+<A HREF="http://www.sciencemag.org/cgi/content/full/294/5548/1849">
+on-line edition</A> of Science.
+
+
+<LI> J. Kleinberg, S.R. Kumar, P. Raghavan, S. Rajagopalan, A. Tomkins. 
+<A HREF="web-graph.ps">The Web as a graph: Measurements, models and methods.</A>
+Invited survey at the International Conference
+on Combinatorics and Computing, 1999.
+
+
+</ul> <h4>General Articles on Algorithms, Complexity, and Discrete Math</h4> <ul>
+
+<LI>
+J. Kleinberg.
+<a href="https://www.edge.org/response-detail/27057">Digital Representation</a>.  In <a href="https://www.harpercollins.com/9780062698216/this-idea-is-brilliant">This Idea Is Brilliant: Lost, Overlooked, and Underappreciated Scientific Concepts Everyone Should Know.</a>  
+Harper Perennial 2018.
+
+<LI>
+J. Kleinberg. 
+<a href="http://edge.org/response-detail/11067">The Pigeonhole Principle.</a>
+In <a href="http://www.harpercollins.com/books/This-Explains-Everything-Mr-John-Brockman/?isbn=9780062230171">This Explains Everything.</a>
+Harper Perennial 2013.
+
+<LI> J. Kleinberg.
+<a href="pcm.pdf">The Mathematics of Algorithm Design.</a>
+In <u>Princeton Companion to Mathematics</u>,
+(T. Gowers and J. Barrow-Green, eds.), Princeton Univ. Press, 2008.
+
+<LI> J. Kleinberg, C. Papadimitriou.
+<a href="cstb-turing.pdf">Computability and Complexity.</a>
+An essay in
+<a href="http://books.nap.edu/catalog/11106.html">
+Computer Science:  Reflections on the Field, Reflections from the Field.</a>
+National Academies Press, 2004.
+
+
+
+</ul><H4>Clustering, Indexing, and Data Mining</H4><ul>
+
+<LI>
+A. Dasgupta, J. Hopcroft, J. Kleinberg, M. Sandler.
+<a href="focs05-mixtures.pdf">On Learning Mixtures
+of Heavy-Tailed Distributions.</a>
+Proc. 46th IEEE Symposium on Foundations of Computer Science, 2005.
+
+<LI> J. Kleinberg, M. Sandler.
+<a href="stoc04-mixture.pdf">
+Using Mixture Models for Collaborative Filtering.</a>
+Proc. 36th ACM Symposium on Theory of Computing, 2004.
+
+<LI> J. Kleinberg, C. Papadimitriou, P. Raghavan.
+<A HREF="jacm04-seg.pdf">Segmentation problems.</A>
+Journal of the ACM, 51(2), 2004.
+
+<LI>
+P. Felzenszwalb, D. Huttenlocher, J. Kleinberg.
+<a href="nips16-hmm.pdf">Fast Algorithms for Large-State-Space HMMs with 
+Applications to Web Usage Analysis.</a>
+Advances in Neural Information Processing Systems 16, 2003.
+(In <A HREF="nips16-hmm.pdf">PDF.</a>)
+
+<LI>
+J. Kleinberg, M. Sandler.
+<a href="ec03-cf.pdf">
+Convergent Algorithms for Collaborative Filtering.</a>
+Proc. 4th ACM Conference on Electronic Commerce, 2003.
+(In <A HREF="ec03-cf.pdf">PDF.</a>)
+
+
+<LI> J. Kleinberg.
+<a href="nips15.pdf">An Impossibility Theorem for Clustering.</a>
+Advances in Neural Information Processing Systems 15, 2002.
+
+<LI> J. Kleinberg, C. Papadimitriou, P. Raghavan.
+<A HREF="tark01.ps">On the Value of Private Information.</A>
+Proc. 8th Conf. on Theoretical Aspects of Rationality and Knowledge, 2001.
+
+
+<LI> J. Kleinberg, E. Tardos.
+<A HREF="focs99-mrf.pdf">
+Approximation Algorithms for
+Classification Problems with Pairwise Relationships:
+Metric Labeling and Markov Random Fields.</A>
+Proc. 40th IEEE Symposium on Foundations of Computer Science, 1999.
+
+<LI> J. Kleinberg, C. Papadimitriou, P. Raghavan.
+<A HREF="dmkd98-seg.pdf">A micro-economic
+view of data mining.</A>
+Data Mining and Knowledge Discovery, 2(4), 1998.
+
+<LI> D. Gibson, J. Kleinberg, P. Raghavan.
+<A HREF="vldb98.ps">Clustering categorical data: An approach based on
+dynamical systems.</A>
+Proc. 24th Intl. Conference on Very Large Databases, 1998.
+
+<LI> J. Kleinberg.  <A HREF="stoc97-nn.pdf">Two algorithms
+for nearest-neighbor search in high dimensions.</A>
+Proc. 29th ACM Symposium on Theory of Computing, 1997.
+
+
+</ul><H4>Network Analysis, Management, and Routing </H4><ul>
+
+
+<LI>
+A. Frieze, J. Kleinberg, R. Ravi, W. Debany.
+<a href="soda07-los.pdf">
+Line-of-Sight Networks.</a>
+Proc. 18th ACM-SIAM Symposium on Discrete Algorithms, 2007.
+
+<LI>
+A. Krause, C. Guestrin, A. Gupta, J. Kleinberg. 
+<a href="ipsn06-placement.pdf">
+Near-optimal Sensor Placements: Maximizing Information 
+while Minimizing Communication Cost.</a> 
+Proc. Information Processing in Sensor Networks (IPSN), 2006.
+
+<LI>
+J. Kleinberg.
+<a href="focs05-even.pdf">An Approximation Algorithm for the
+Disjoint Paths Problem in Even-Degree Planar Graphs.</a>
+Proc. 46th IEEE Symposium on Foundations of Computer Science, 2005.
+
+<LI>
+I. Abraham, Y. Bartal, T-H. Chan, K. Dhamdhere,
+A. Gupta, J. Kleinberg, O. Neiman, A. Slivkins.
+<a href="focs05-slack.pdf">Metric Embeddings with Relaxed Guarantees.</a>
+Proc. 46th IEEE Symposium on Foundations of Computer Science, 2005.
+
+<LI> J. Kleinberg, A. Slivkins, T. Wexler.
+<a href="focs04-beacons.pdf">Triangulation and Embedding 
+using Small Sets of Beacons.</a>
+Proc. 45th IEEE Symposium on Foundations of Computer Science, 2004.
+
+
+<LI> J. Kleinberg, M. Sandler, A. Slivkins.
+<a href="soda04-det.pdf">Network Failure Detection and
+Graph Connectivity.</a>
+Proc. 15th ACM-SIAM Symposium on Discrete Algorithms, 2004.
+(In <A HREF="soda04-det.pdf">PDF.</a>)
+
+<LI> A. Gupta, J. Kleinberg, A. Kumar, R. Rastogi, B. Yener.
+<A HREF="stoc01-vpn.ps">
+Provisioning a virtual private network: 
+A network design problem for multicommodity flow.</A>
+Proc. 33rd ACM Symposium on Theory of Computing, 2001.
+
+<LI> J. Kleinberg.
+<A HREF="focs00-det.ps">
+Detecting a Network Failure.</A>
+Proc. 41st IEEE Symposium on Foundations of Computer Science, 2000.
+
+<LI> D. Kempe, J. Kleinberg, A. Kumar.
+<A HREF="stoc00-tn.ps">
+Connectivity and inference problems for temporal networks.</A>
+Proc. 32nd ACM Symposium on Theory of Computing, 2000.
+
+<LI> R. Fagin, A. Karlin, J. Kleinberg, P. Raghavan, S. Rajagopalan,
+R. Rubinfeld, M. Sudan, A. Tomkins.
+<A HREF="stoc00-rwalk.ps">Random Walks with `Back Buttons.'</A>
+Proc. 32nd ACM Symposium on Theory of Computing, 2000.
+
+<LI> A. Kumar, J. Kleinberg.
+<A HREF="focs00-fair.ps">
+Fairness measures for resource allocation.</A>
+Proc. 41st IEEE Symposium on Foundations of Computer Science, 2000.
+
+<LI> J. Kleinberg, Y. Rabani, E. Tardos.
+<A HREF="focs99-ff.ps">
+Fairness in routing and load balancing.</A>
+Proc. 40th IEEE Symposium on Foundations of Computer Science, 1999.
+
+<LI> J. Kleinberg, A. Kumar.  <A HREF="soda99-conv.ps">Wavelength
+conversion in optical networks.</A>
+Proc. 10th ACM-SIAM Symposium on Discrete Algorithms, 1999.
+
+<LI> M. Charikar, J. Kleinberg, S.R. Kumar, S. Rajagopalan,
+A. Sahai, A. Tomkins.
+<A HREF="soda99-skew.ps">
+Minimizing wirelength in zero and bounded skew clock trees.</A>
+Proc. 10th ACM-SIAM Symposium on Discrete Algorithms, 1999.
+
+<LI> J. Kleinberg.  <A HREF="stoc98-uf.ps">Decision algorithms for
+unsplittable flow and the half-disjoint paths problem.</A>
+Proc. 30th ACM Symposium on Theory of Computing, 1998.
+
+<LI> J. Kleinberg, Y. Rabani, E. Tardos.
+<A HREF="stoc97-eb.ps">Allocating bandwidth for bursty connections.</A>
+Proc. 29th ACM Symposium on Theory of Computing, 1997.
+
+<LI> J. Kleinberg.  <A HREF="focs96-uf.ps">Single-source unsplittable flow.</A>
+Proc. 37th IEEE Symposium on Foundations of Computer Science, 1996.
+
+<LI> J. Kleinberg, R. Rubinfeld.  <A HREF="focs96-exp.ps">Short paths
+in expander graphs.</A>
+Proc. 37th IEEE Symposium on Foundations of Computer Science, 1996.
+
+<LI> A. Aggarwal, J. Kleinberg, D. Williamson.  
+<A HREF="stoc96-node.ps">Node-disjoint
+paths on the mesh, and a new trade-off in VLSI layout.</A>
+Proc. 28th ACM Symposium on Theory of Computing, 1996.
+
+<LI> J. Kleinberg, E. Tardos.  <A HREF="focs95.pdf">Disjoint
+paths in densely embedded graphs.</A>
+Proc. 36th IEEE Symposium on Foundations of Computer Science,
+1995. 
+
+<LI> J. Kleinberg, E. Tardos.  <A HREF="stoc95.ps">Approximations
+for the disjoint paths problem in high-diameter planar networks.</A>
+Proc. 27th ACM Symposium on Theory of Computing, 1995.
+
+<LI> J. Kleinberg.  <A HREF="pract.ps">Approximation Algorithms
+for Disjoint Paths Problems.</A>
+Ph.D Thesis, Dept. of EECS, MIT, 1996.
+
+</ul><h4>Dynamic Network Algorithms and Adversarial Queueing Theory</h4><ul>
+
+<LI> A. Borodin, J. Kleinberg, P. Raghavan, M. Sudan, D. Williamson.
+<A HREF="stoc96-aqt.pdf">Adversarial queueing theory.</A>
+Proc. 28th ACM Symposium on Theory of Computing, 1996.
+
+<LI> D.M. Andrews, B. Awerbuch, A. Fernandez,
+J. Kleinberg, F.T. Leighton, Z. Liu.
+<A HREF="focs96-aqt.pdf">Universal stability results for greedy
+contention-resolution protocols.</A>
+Proc. 37th IEEE Symposium on Foundations of Computer Science, 1996.
+
+
+<LI> E. Anshelevich, D. Kempe, J. Kleinberg.
+<A HREF="stoc02-bal.ps">
+Stability of Load Balancing Algorithms in Dynamic Adversarial Systems.</A>
+Proc. 34th ACM Symposium on Theory of Computing, 2002.
+
+
+</ul><H4>Comparative Genomics and Evolutionary Models</h4><ul>
+
+<LI> L. Meyerguz, J. Kleinberg, R. Elber.
+<a href="http://www.pnas.org/cgi/content/abstract/0701393104v1">The 
+network of sequence flow between protein structures.</a>
+Proceedings of the National Academy of Sciences 10.1073, 27 June 2007.
+
+<LI> L. Meyerguz, D. Kempe, J. Kleinberg, R. Elber.
+<a href="recomb04-count.pdf">The Evolutionary Capacity
+of Protein Structures.</a>
+Proc. ACM RECOMB Intl. Conference on Computational Molecular Biology, 2004.
+
+<LI> I. V. Yap, D. Schneider, J. Kleinberg, D. Matthews, S. Cartinhour, 
+S. R. McCouch.
+<A HREF="http://www.genetics.org/cgi/content/abstract/165/4/2235">
+A Graph-Theoretic Approach to Comparing and Integrating Genetic, 
+Physical and Sequence-Based Maps.</A>
+Genetics, Vol. 165(2003).
+
+<LI> D. Goldberg, S. McCouch, J. Kleinberg.
+<A HREF="psb02.ps">Constructing comparative maps with unresolved marker 
+order.</A>
+Proc. Pacific Symposium on Biocomputing, 2002.
+
+<LI> D. Goldberg, S. McCouch, J. Kleinberg.
+<A HREF="dcaf-map.pdf">Algorithms for Constructing Comparative Maps.</A>
+Conference on Gene Order Dynamics, Comparative Maps, and Multigene Families,
+2000.
+(In <A HREF="dcaf-map.pdf">PDF.</A>)
+
+<LI> J. Kleinberg, D. Liben-Nowell.
+<A HREF="dcaf-diam.ps">The Syntenic Diameter of the Space of
+N-Chromosome Genomes.</A>
+Conference on Gene Order Dynamics, Comparative Maps, and Multigene Families,
+2000.
+
+<LI> J. Kleinberg.
+<A HREF="recomb99-ipf.ps">Efficient Algorithms for Protein Sequence Design 
+and the Analysis of Certain 
+Evolutionary Fitness Landscapes.</A>
+Proc. 3rd ACM RECOMB Intl. Conference on Computational 
+Molecular Biology, 1999.
+
+</ul><H4>Protein Structure Analysis</h4><ul>
+
+<LI> L.P. Chew, D. Huttenlocher, K. Kedem, J. Kleinberg.
+<A HREF="recomb99-match.ps">Fast Detection of 
+Common Geometric Substructure in Proteins.</A>
+Proc. 3rd ACM RECOMB Intl. Conference on Computational 
+Molecular Biology, 1999.
+
+<LI> B. Berger, J. Kleinberg, F.T. Leighton.  
+<A HREF="3d-recon.ps">Reconstructing a
+Three-Dimensional Model with Arbitrary Errors.</A>
+Proc. 28th ACM Symposium on Theory of Computing, 1996.
+
+</ul><H4>Algorithms for NP-hard problems</H4><ul>
+
+<LI> E. Dantsin, A. Goerdt, E. Hirsch,
+R. Kannan, J. Kleinberg, C. Papadimitriou, P. Raghavan, U. Schoning,
+<A HREF="sat.ps">A deterministic algorithm for satisfiability 
+based on local search.</A> Theoretical Computer Science, 289(2002).
+
+<LI> J. Kleinberg, M. Goemans.  <A HREF="theta.ps">The Lovasz theta
+function and a semi-definite programming relaxation of vertex cover.</A>
+SIAM J. Discrete Math, 11(1998).
+
+<LI> M. Goemans, J. Kleinberg.  <A HREF="soda96-latency.ps">An improved
+approximation ratio for the minimum latency problem.</A>
+Proc. 7th ACM-SIAM Symposium on Discrete Algorithms, 1996.
+
+</ul><H4>Fault-tolerance in Distributed Computing</H4><ul>
+
+<LI> J. Kleinberg, H. Attiya, N. Lynch.  <A HREF="istcs95.ps">Trade-offs
+between message delivery and quiesce times in connection management
+protocols.</A>  Proc. 3rd Israel Symposium on Theory of Computing and Systems,
+1995.
+
+<LI> J. Kleinberg, S. Mullainathan.  <A HREF="podc93.ps">Resource bounds
+and combinations of consensus objects.</A>  Proc. 12th ACM Symposium on
+Principles of Distributed Computing, 1993.
+
+</ul><H4>Geometric Pattern Matching</H4><ul>
+
+<LI> D. Huttenlocher, J. Kleinberg.  <A HREF="soda94-proj.ps">Comparing
+point sets under projection.</A>  Proc. 5th ACM-SIAM Symposium on
+Discrete Algorithms, 1994.
+
+<LI> D. Huttenlocher, K. Kedem, J. Kleinberg.  <A HREF="geom92.ps">On
+dynamic Voronoi diagrams and the minimum Hausdorff distance for point
+sets under Euclidean motion in the plane.</A>  Proc. 8th ACM Symposium
+on Computational Geometry, 1992.
+
+</ul><H4>On-Line Algorithms</H4><ul>
+
+<LI> M. Charikar, R. Fagin, V. Guruswami, J. Kleinberg, P. Raghavan, A. Sahai.
+<A HREF="stoc00-pi.ps">Query 
+strategies for priced information.</A>
+Proc. 32nd ACM Symposium on Theory of Computing, 2000.
+
+<LI> J. Kleinberg, R. Motwani, P. Raghavan, S. Venkatasubramanian.
+<A HREF="focs97-ind.ps">Storage management for evolving databases.</A>
+Proc. 38th IEEE Symposium on Foundations of Computer Science, 1997.
+
+<LI> R. El-Yaniv, J. Kleinberg.  <A HREF="ipl-plane.ps">Geometric two-server
+algorithms.</A>  Information Processing Letters 53(1995).
+
+<LI> J. Kleinberg.  <A HREF="focs94.ps">The localization problem for
+mobile robots.</A>  Proc. 35th IEEE Symposium on Foundations of Computer
+Science, 1994.
+
+<LI> J. Kleinberg.  <A HREF="soda94-search.ps">On-line search in a simple
+polygon.</A>  Proc. 5th ACM-SIAM Symposium on Discrete Algorithms, 1994.
+
+<LI> J. Kleinberg.  <A HREF="ipl-bal.ps">A lower bound for two-server
+balancing algorithms.</A>  Information Processing Letters 51(1994).
+
+
+</ul>
+
+<hr>
+
+
+<H3><A NAME = "contact">Contact Information</a></H3>
+
+
+
+<ADDRESS>Jon Kleinberg</ADDRESS>
+<ADDRESS>Computing and Information Science</ADDRESS>
+<ADDRESS>Gates Hall</ADDRESS>
+<ADDRESS>Cornell University</ADDRESS>
+<ADDRESS>Ithaca, NY 14853</ADDRESS>
+<ADDRESS>(607)255-9197</ADDRESS>
+
+<P>
+<IMG
+ WIDTH="188" HEIGHT="30" ALIGN="BOTTOM" BORDER="0"
+ SRC="email-address01.jpg">
+
+<P>
+<BR>
+<BR>

@@ -1,3 +1,4 @@
+from PyDictionary import PyDictionary
 import time
 import os
 import numpy as np
@@ -24,7 +25,8 @@ class feature_functions:
             self.all_uppercase_function, 
             self.first_uppercase_function,
             self.is_photo_function,
-            self.is_positive_word
+            self.is_positive_word,
+            self.is_english_word
         ])
         
 
@@ -148,13 +150,13 @@ class feature_functions:
         all_labels = [] # corresponding labels for all files' sentences
 
         # # Get all training files
-        # for filename in os.listdir(directory):
-        #     f = os.path.join(directory, filename)
+        for filename in os.listdir(directory):
+            f = os.path.join(directory, filename)
             
-        #     if os.path.isfile(f):
-        #         sentences, labels = self.read_txt(f)
-        #         all_sentences.extend(sentences)
-        #         all_labels.extend(labels)
+            if os.path.isfile(f):
+                sentences, labels = self.read_txt(f)
+                all_sentences.extend(sentences)
+                all_labels.extend(labels)
 
         for i in range(self.n_feature_functions):
             for j in range(len(all_sentences)):
@@ -204,6 +206,10 @@ class feature_functions:
             self.is_keyword(sentence, i_word_label, i_prev_word_label, i)
         )
 
+    def is_english_word(self, sentence, i_word_label, i_prev_word_label, i):
+        d = PyDictionary()
+        return (int) (d.meaning(sentence[i]) != None)
+
     def is_date(self, sentence, i_word_label, i_prev_word_label, i):
         splitted = sentence[i].split()
         return (splitted.__contains__('Phd') or splitted.__contains__('Bs') or splitted.__contains__('Ms'))
@@ -242,6 +248,29 @@ class feature_functions:
                 index = i
 
         return all_combos[index]
+
+    # given a file, output all file sentences and appropriate labels
+    def find_page_labels(self, directory, filename):
+        f = os.path.join(directory, filename)
+            
+        if os.path.isfile(f):
+            sentences, labels = self.read_txt(f)
+            
+            for i in range(len(sentences)):
+                all_combos = self.all_label_combinations(len(sentences[i]))
+                max_c = 0.0
+                index = -1
+                
+                for j in all_combos:
+                    
+                    if max_c < self.p_theta(sentences[i], j):
+                        index = j
+                
+                for j in sentences[index]:
+                    if self.all_labels.__contains__(j):
+                        print(self.all_labels.index(j) + ': ' + sentences[i])
+
+
 
     # returns train_sentences, train_labels, test_sentences, test_labels as LISTS. Is the splitted result of the 
     # current dataset 
@@ -296,7 +325,6 @@ class feature_functions:
             if os.path.isfile(f):
                 sentences, labels = self.read_txt(f)
                 labels = np.array(labels)
-                labels[12] = np.array(['name', 'standard word', 'standard word'] )
                 print(labels)
                 return sentences, labels.tolist()
 
@@ -332,5 +360,4 @@ if __name__ == "__main__":
 
     CRF_MODEL.train(some_sentences, some_labels, True)
 
-
-    print(CRF_MODEL.test_sentence(sentence, ["standard word", "standard word", "name"]))
+    # print(CRF_MODEL.test_sentence(sentence, ["standard word", "standard word", "name"]))

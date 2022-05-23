@@ -1,6 +1,6 @@
 # Web-Crawler
 
-###### Purpose
+### Purpose
 
 ```
 Package exists to provide the functionalities of a web crarwler's profile extractor. 
@@ -10,7 +10,7 @@ the professor (for example, professor name, location, affiliation, etc.). All su
 parameters are provided by the paper: https://keg.cs.tsinghua.edu.cn/jietang/publications/TKDD11-Tang-et-al-web-user-profiling.pdf
 ```
 
-###### Deployment/Usage
+### Deployment/Usage
 
 ```
 To deploy the code, simply clone the repository. All the data to train the model 
@@ -24,7 +24,7 @@ assess whatver file is in test.html and provide a profile construction for that
 html page. Place whatever html prediction you would like in that file. 
 ```
 
-###### Requirements and Dependencies
+### Requirements and Dependencies
 
 ```
 from PyDictionary import PyDictionary
@@ -45,7 +45,7 @@ the most up to date python version downloaded.
 
 ```
 
-###### System Architecture
+### System Architecture
 
 ```
 The primary classes include the web crawler class, and the model class. In the main function, we call both 
@@ -59,7 +59,7 @@ provided directory, 3. The Feature functions, which are a set of functions that 
 is tested correctly on the data directory. The web crawler class provides an interface to read in websites to html pages.
 ```
 
-###### Codebase Organization 
+### Codebase Organization 
 
 ```
 As covered in the file list, each of the files provided have interlinking functionalitites, but main.py serves as the 
@@ -68,7 +68,7 @@ The supporting data is held by 898_data, which holds labeled data useful for tra
 which serves as the container for HTML pages with to tagging on them whatsoever. For more details, see the section below.
 ```
 
-###### File List 
+### File List 
 
 ```
 The repo is organized into a standard github repo, titled Web-Crawler. This repo contains 6 total entities, 4 files 
@@ -81,7 +81,7 @@ training data which is used by main.py. All files can be found in this repositor
 serves as the container for all pure html webpages of professors which can be used for demos, testing, etc.
 ```
 
-###### Description 
+### Description 
 
 ```
 The code is organized into a few sections within the overall CRF_MODEL class, as specified earlier in the system architecture
@@ -100,7 +100,7 @@ sentence, more used for minute testing. All the protocols/algorithms used by the
 descent, and the testing formula can be found on the medium page specified earlier.
 ```
 
-###### Limitations and Improvements
+### Limitations and Improvements
 
 ```
 In terms of current issues, the current problems consist of speed. Training the model takes on average 15-20 minutes, most likely 

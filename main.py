@@ -146,17 +146,17 @@ class feature_functions:
                 fp.close()
             return
 
-        all_sentences = [] # set of all sentences for all files.
-        all_labels = [] # corresponding labels for all files' sentences
+        # all_sentences = [] # set of all sentences for all files.
+        # all_labels = [] # corresponding labels for all files' sentences
 
-        # # Get all training files
-        for filename in os.listdir(directory):
-            f = os.path.join(directory, filename)
+        # # # Get all training files
+        # for filename in os.listdir(directory):
+        #     f = os.path.join(directory, filename)
             
-            if os.path.isfile(f):
-                sentences, labels = self.read_txt(f)
-                all_sentences.extend(sentences)
-                all_labels.extend(labels)
+        #     if os.path.isfile(f):
+        #         sentences, labels = self.read_txt(f)
+        #         all_sentences.extend(sentences)
+        #         all_labels.extend(labels)
 
         for i in range(self.n_feature_functions):
             for j in range(len(all_sentences)):
@@ -275,13 +275,13 @@ class feature_functions:
     # returns train_sentences, train_labels, test_sentences, test_labels as LISTS. Is the splitted result of the 
     # current dataset 
     def split_into_folds(self, all_sentences, all_labels, folds, num_test_fold, num_folds): 
-        s = np.array(all_sentences)
-        l = np.array(all_labels)
+        s = np.array(all_sentences, dtype=object)
+        l = np.array(all_labels, dtype=object)
         n = len(all_sentences)
         
-        chunk_size = n / num_folds
+        chunk_size = int(n / num_folds)
         start_test = chunk_size * num_test_fold
-        end_test = (chunk_size + 1) * num_test_fold
+        end_test = chunk_size * (num_test_fold + 1)
 
         train_sentences = np.append(s[0:start_test], s[end_test:n])
         train_labels = np.append(l[0:start_test], l[end_test:n])
@@ -296,16 +296,28 @@ class feature_functions:
         grand_total = 0.0
         grand_correct = 0.0
 
+        # this is our precision recall matrix. The rows represent the actual outputs, and the columns represent the predicted ones        
+        pr_matrix = np.zeros((self.n_feature_functions, self.n_feature_functions))
+
         for i in range(folds):
             train_sentences, train_labels, test_sentences, test_labels = self.split_into_folds(all_sentences, all_labels, folds, i, folds)
-            self.train(train_sentences, train_labels)
+            self.train(train_sentences, train_labels, False)
 
+            # checking the predicted values of the classifier
             for j in range(len(test_labels)):
                 res = self.p_theta(test_sentences[j], test_labels[j])
                 
                 if res == test_labels[j]:
                     correct += 1
                 
+                for k in range(len(res)):
+                    if res[k] == test_labels[j][k]:
+                        index_pred = self.all_labels.index(res[k]) # represents index of the predicted label
+                        index_actual = self.all_labels.index(test_labels[j][k])
+
+                        pr_matrix[index_actual][index_pred] += 1 # incrementes the correct value in the matrix
+
+
 
             total += len(test_labels)
             print('fold' + i + ' accuracy:' + correct / total)
@@ -317,6 +329,25 @@ class feature_functions:
             correct = 0.0
         
         print('grand total accuracy:' + grand_correct / grand_total)
+        
+        precision, recall = self.get_pr(pr_matrix)
+
+        print('precision: ' + precision)
+        print('recall: ' + recall)
+
+    def get_pr(self, pr_matrix):
+        precision = 0.0
+        recall = 0.0
+
+        for i in range(len(pr_matrix)):
+            horizontal = np.sum(pr_matrix, axis=0)
+            vertical = np.sum(pr_matrix, axis=1)
+
+            precision += pr_matrix[i][i] / horizontal
+            recall += pr_matrix[i][i] / vertical
+            
+
+        return precision, recall
 
     def page_tester(self, directory):
         for filename in os.listdir(directory):
@@ -346,21 +377,24 @@ if __name__ == "__main__":
     # sentence = "I am Bob"
 
     # instiantiating the model
-    # CRF_MODEL = feature_functions()
+    CRF_MODEL = feature_functions()
 
-    # all_sentences = [] # set of all sentences for all files.
-    # all_labels = [] # corresponding labels for all files' sentences
+    all_sentences = [] # set of all sentences for all files.
+    all_labels = [] # corresponding labels for all files' sentences
 
     # for testing with a singular trained page
     # some_sentences, some_labels = CRF_MODEL.page_tester('898_data')
     # OR Get all training files
-    # for filename in os.listdir('898_data'):
-    #     f = os.path.join('898_data', filename)
+    for filename in os.listdir('898_data'):
+        f = os.path.join('898_data', filename)
         
-    #     if os.path.isfile(f):
-    #         sentences, labels = CRF_MODEL.read_txt(f)
-    #         all_sentences.extend(sentences)
-    #         all_labels.extend(labels)
+        if os.path.isfile(f):
+            sentences, labels = CRF_MODEL.read_txt(f)
+            all_sentences.extend(sentences)
+            all_labels.extend(labels)
+
+
+    CRF_MODEL.KFOLD_cross_validation(all_sentences, all_labels, 10)
 
     # trains model
     # CRF_MODEL.train(all_sentences, all_labels, True)

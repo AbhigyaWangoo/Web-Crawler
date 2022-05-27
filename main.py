@@ -359,7 +359,22 @@ class feature_functions:
                 print(labels)
                 return sentences, labels.tolist()
 
-    
+    def build_profile(self, webpagename):
+        sentences, labels = self.read_txt(webpagename) # sentences should have values, labels should all just say standard word
+
+        for i in sentences:
+            all_label_combos = self.all_label_combinations(len(i))
+            probs = []
+
+            for k in range(len(all_label_combos)):
+                probs.append(self.p_theta(i, all_label_combos[k]))
+            
+            predicted_labels = all_label_combos[probs.index(max(probs))] # this is our predicted set of labels for the particular sentence
+            
+            for l in range(len(predicted_labels)):
+                if self.all_labels.__contains__(predicted_labels[l]) and predicted_labels[l] != 'standard word':
+                    print(predicted_labels[l] + ': ' + i[l]) # prints out the resulting label for a certain webpage
+
 
 # DBLP
 # Create a publication crawler to retrieve researcher information from a publication website (e.g.: DBLP). Returns a list of publication urls.
@@ -377,27 +392,31 @@ if __name__ == "__main__":
     # sentence = "I am Bob"
 
     # instiantiating the model
-    CRF_MODEL = feature_functions()
+    # CRF_MODEL = feature_functions()
 
-    all_sentences = [] # set of all sentences for all files.
-    all_labels = [] # corresponding labels for all files' sentences
+    # all_sentences = [] # set of all sentences for all files.
+    # all_labels = [] # corresponding labels for all files' sentences
 
     # for testing with a singular trained page
     # some_sentences, some_labels = CRF_MODEL.page_tester('898_data')
     # OR Get all training files
-    for filename in os.listdir('898_data'):
-        f = os.path.join('898_data', filename)
+    # for filename in os.listdir('898_data'):
+    #     f = os.path.join('898_data', filename)
         
-        if os.path.isfile(f):
-            sentences, labels = CRF_MODEL.read_txt(f)
-            all_sentences.extend(sentences)
-            all_labels.extend(labels)
+    #     if os.path.isfile(f):
+    #         sentences, labels = CRF_MODEL.read_txt(f)
+    #         all_sentences.extend(sentences)
+            # all_labels.extend(labels)
 
 
-    CRF_MODEL.KFOLD_cross_validation(all_sentences, all_labels, 10)
+    # CRF_MODEL.KFOLD_cross_validation(all_sentences, all_labels, 10)
+
 
     # trains model
     # CRF_MODEL.train(all_sentences, all_labels, True)
+    
+    # exists to test a new webpage with no labels
+    # CRF_MODEL.build_profile('unlabeled_webpages/Bernstein.txt')
 
     # exists to test a singular sentence against a singular set of labels
     # print(CRF_MODEL.test_sentence(sentence, ["standard word", "standard word", "name"]))

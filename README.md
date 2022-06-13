@@ -14,11 +14,7 @@ parameters are provided by the paper: https://keg.cs.tsinghua.edu.cn/jietang/pub
 
 ```
 To deploy the code, simply clone the repository. All the data to train the model 
-resides within the 898_data directory, and the files will be used in two situations, 
-1: if the model is being run for the first time, it will run all the files in the 
-folder and train the model based on that, or 2: If the model has been run before, 
-the model will assess the cached model weights from a previous run and use them 
-as the model, making the process faster. Once you've run the model with 
+resides within the 898_data directory. Once you've run the model with 
 'python3 main.py', and the model has been trained, the executed file will 
 assess whatver file is in test.html and provide a profile construction for that 
 html page. Place whatever html prediction you would like in that file. 

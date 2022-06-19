@@ -3,9 +3,9 @@
 ### Purpose
 
 ```
-Package exists to provide the functionalities of a web crarwler's profile extractor. 
-Given a training set from the 898_data directory, the extractor trains a model which 
-then, given a professor's blank homepage, is able to determine the key features of 
+Package exists to provide the functionalities of a web crawler's profile extractor. 
+Given a training set from the 898_data directory, the extractor trains a model. 
+Then, given a professor's blank homepage, is able to determine the key features of 
 the professor (for example, professor name, location, affiliation, etc.). All such 
 parameters are provided by the paper: https://keg.cs.tsinghua.edu.cn/jietang/publications/TKDD11-Tang-et-al-web-user-profiling.pdf
 ```
@@ -14,10 +14,9 @@ parameters are provided by the paper: https://keg.cs.tsinghua.edu.cn/jietang/pub
 
 ```
 To deploy the code, simply clone the repository. All the data to train the model 
-resides within the 898_data directory. Once you've run the model with 
-'python3 main.py', and the model has been trained, the executed file will 
-assess whatver file is in test.html and provide a profile construction for that 
-html page. Place whatever html prediction you would like in that file. 
+resides within the 898_data directory. In 'main.py', the main function serves as a 
+entry point to train the model, test the model if you choose to, or to predict 
+labels for a specific professor html file.
 ```
 
 ### Requirements and Dependencies
@@ -46,22 +45,22 @@ the most up to date python version downloaded.
 ```
 The primary classes include the web crawler class, and the model class. In the main function, we call both 
 classes in order to perform the actions specified in the purpose clause above. The model class is split into 
-multiple parts, including: 1. All probability calculations
-for the specific formulas provided in the standard CRF model (p_theta, p_theta sum, etc.), 2. Optimizer functions, 
-which can be used for training weights from the feature functions, as well as actually train the data from the 
-provided directory, 3. The Feature functions, which are a set of functions that accept the following parameters: 
-(sentence, word_label, prev_word_label, i), and outputs a truth value based upon the input parameters, and finally
-4. Testing, which has a set of functions designed to function with KFold cross validation to ensure that the model
-is tested correctly on the data directory. The web crawler class provides an interface to read in websites to html pages.
+multiple parts: 1. All probability calculations for the specific formulas provided in the standard
+CRF model (p_theta, p_theta sum, etc.), 2. Optimizer functions, which can be used to train weights from
+the feature functions, 3. The Feature functions, which are a set of functions that accept the following 
+parameters: (sentence, word_label, prev_word_label, i), and output a truth value based upon the input 
+parameters, and finally 4. Testing, which has a set of functions designed to function with KFold 
+cross validation to ensure that the model is tested correctly on the data directory. The web crawler class 
+provides an interface to read in websites to html pages.
 ```
 
 ### Codebase Organization 
 
 ```
 As covered in the file list, each of the files provided have interlinking functionalitites, but main.py serves as the 
-primary 'brain' of the project. It handles the classification model, entry and exit points, and calls the data required. 
+primary 'brain' of the project. It handles the classification model, the main function, and calls the data required to train/test. 
 The supporting data is held by 898_data, which holds labeled data useful for training and testing, and unlabeled_webpages,
-which serves as the container for HTML pages with to tagging on them whatsoever. For more details, see the section below.
+which serves as the container for HTML pages with to tagging on them. For more details, see the section below.
 ```
 
 ### File List 
